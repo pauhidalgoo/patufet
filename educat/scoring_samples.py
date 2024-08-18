@@ -3,21 +3,18 @@ import re
 import google.generativeai as genai
 from datasets import load_dataset
 from dotenv import load_dotenv
+from tqdm import tqdm
 
 load_dotenv()
 
-# Configure the generative model
 genai.configure(api_key=os.environ['GEMINI_API_KEY'])
 model = genai.GenerativeModel("gemini-1.5-flash")
 
-# Load the OSCAR dataset
-dataset = load_dataset("oscar-corpus/OSCAR-2301", "ca", split="train", streaming=True)
+dataset = load_dataset("oscar-corpus/OSCAR-2301", "ca", split="train", streaming=True, trust_remote_code=True)
 
 def get_educational_score(text):
-    # Ensure the text is within the character limit
-    extract = text[:500]
+    extract = text[:1500]
     
-    # Prepare the prompt with the extract
     prompt = f"""
 Below is an extract from a web page. Evaluate whether the page has a high educational value and could be useful in an educational setting using the additive 7-point scoring system described below. Take into account that this is just the first words of the page. Be generous, but not overly. Points are accumulated based on the satisfaction of each criterion:
 
@@ -36,51 +33,46 @@ After examining the extract:
 - Briefly justify your total score, up to 50 words.
 - Conclude with the score using the format: "Educational score:  <total points>"
 """
+    try:
+        response = model.generate_content(prompt)
     
-    # Generate the content using the Gemini model
-    response = model.generate_content(prompt)
-    
-    # Use regex to find the educational score
-    match = re.search(r"Educational score:\s*(\d+)", response.text)
-    if match:
-        score = match.group(1)
-    else:
-        score = "0"  # Default to 0 if the score is not found
+        match = re.search(r"Educational score:\s*(\d+)", response.text)
+        if match:
+            score = match.group(1)
+        else:
+            score = "0" 
+    except Exception as e:
+        print(f"Error: {e}")
+        score = "999"
     
     return score
 
 def save_results(data):
-    # Implement saving logic, e.g., save to a CSV file
     import pandas as pd
     df = pd.DataFrame(data)
     df.to_csv("oscar_educational_scores.csv", mode='a', index=False)
 
 
-# Process the dataset in batches
 results = []
 batch_size = 1000
 count = 0
 
-for example in dataset:
-    # Extract the text and get the educational score
+for example in tqdm(dataset, total=100000):
     text = example["text"]
     score = get_educational_score(text)
     
-    # Append the original data with the new score
     example["Educational score"] = score
     results.append(example)
     
     count += 1
-    if count >= 100000:  # Stop after 100,000 examples
+    if count >= 100000:
         break
 
-    # Save in batches
     if count % batch_size == 0:
-        # Save the results to a file or database
+        print(f"Currently on iter {count}")
         save_results(results)
-        results = []  # Clear the batch
+        results = []
 
-# Final save if there are remaining results
 if results:
     save_results(results)
 
