@@ -1,2 +1,6 @@
 .env
 *.csv
+*.gz
+/educat/test.txt
+/educat/train.txt
+classifier.bin
