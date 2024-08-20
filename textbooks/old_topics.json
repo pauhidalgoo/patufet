@@ -1,0 +1,97 @@
+{
+    "Mathematics": {
+        "Number theory": [
+            "Elementary", 
+            "Analytic", 
+            "Algebraic", 
+            "Diophantine geometry"
+        ],
+        "Geometry": [
+            "Euclidean", 
+            "Non-euclidean"
+        ],
+        "Algebra ": [
+            "Linear algebra", 
+            "Abstract algebra", 
+            "Polynomial equations"
+        ],
+        "Calculus": [
+            "Limits and continuity", 
+            "Integration", 
+            "Differentiation"
+        ],
+        "Analysis": [
+            "Real analysis",
+            "Complex analysis", 
+            "Functional analysis", 
+            "Harmonic analysis", 
+            "Numerical analysis"
+        ],
+        "Discrete mathematics": [
+            "Finite mathematics", 
+            "General outline"
+        ],
+        "Logic - set theory": [
+            "Set theory", 
+            "Model theory", 
+            "Recursion theory", 
+            "Proof theory"
+        ],
+        "Probability ": [
+            "Distributions", 
+            "Stochastic processes", 
+            "Random variables"
+        ],
+        "Statistics": [
+            "Descriptive statistics", 
+            "Inferential statistics"
+        ]
+    },
+    "Physics": {},
+    "Computer Science": {},
+    "History": {},
+    "Medicine and Health": {},
+    "Psychology": {},
+    "Artificial intelligence": {},
+    "Travel and adventure": {},
+    "Gastronomy": {},
+    "Philosophy": {},
+    "Personal growth and development": {},
+    "Trends": {},
+    "Beauty and self-care": {},
+    "Parenting": {},
+    "Nature": {},
+    "Music": {},
+    "Cinema": {},
+    "Sports": {},
+    "Politics": {},
+    "Education": {},
+    "Money and finance": {},
+    "Work": {},
+    "Business": {},
+    "Entrepreneurship": {},
+    "Literature": {},
+    "Gaming": {},
+    "Technology": {},
+    "Mindfulness": {},
+    "Diversity and inclusion": {},
+    "Fashion": {},
+    "Love Relationships": {},
+    "Creativity": {},
+    "Ecology": {},
+    "Law and justice": {},
+    "Geography": {},
+    "Neuroscience": {},
+    "Agriculture": {},
+    "Sociology": {},
+    "Space": {},
+    "Chemestry": {},
+    "Architecture": {},
+    "Movies": {},
+    "Biology": {},
+    "Economics": {},
+    "Common sense knowledge": {},
+    "Aeronautics": {},
+    "Marketing": {},
+    "Following Instructions": {}
+}

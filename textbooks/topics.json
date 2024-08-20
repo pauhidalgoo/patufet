@@ -1,0 +1,2636 @@
+{
+    "Mathematics": {
+        "Number theory": [
+        "Elementary number theory",
+        "Analytic number theory",
+        "Algebraic number theory",
+        "Diophantine geometry"
+        ],
+        "Geometry": [
+        "Euclidean geometry",
+        "Non-Euclidean geometry",
+        "Differential geometry",
+        "Algebraic geometry",
+        "Topology"
+        ],
+        "Algebra": [
+        "Linear algebra",
+        "Abstract algebra",
+        "Polynomial equations",
+        "Universal algebra",
+        "Category theory"
+        ],
+        "Calculus": [
+        "Limits and continuity",
+        "Integration",
+        "Differentiation",
+        "Vector calculus",
+        "Calculus of variations"
+        ],
+        "Analysis": [
+        "Real analysis",
+        "Complex analysis",
+        "Functional analysis",
+        "Harmonic analysis",
+        "Numerical analysis",
+        "Measure theory",
+        "Probability theory"
+        ],
+        "Discrete mathematics": [
+        "Finite mathematics",
+        "Combinatorics",
+        "Graph theory",
+        "Discrete optimization",
+        "Algorithmics"
+        ],
+        "Logic - set theory": [
+        "Set theory",
+        "Model theory",
+        "Recursion theory",
+        "Proof theory",
+        "Mathematical logic"
+        ],
+        "Probability": [
+        "Probability distributions",
+        "Stochastic processes",
+        "Random variables",
+        "Statistical inference",
+        "Measure-theoretic probability"
+        ],
+        "Statistics": [
+        "Descriptive statistics",
+        "Inferential statistics",
+        "Mathematical statistics",
+        "Applied statistics",
+        "Data science"
+        ]
+    },
+    "Physics": {
+        "Classical mechanics": [
+        "Newtonian mechanics",
+        "Lagrangian mechanics",
+        "Hamiltonian mechanics",
+        "Celestial mechanics",
+        "Continuum mechanics"
+        ],
+        "Electromagnetism": [
+        "Electrostatics",
+        "Magnetostatics",
+        "Electrodynamics",
+        "Maxwell's equations",
+        "Electromagnetic waves"
+        ],
+        "Optics": [
+        "Geometric optics",
+        "Wave optics",
+        "Quantum optics",
+        "Nonlinear optics",
+        "Optical instruments"
+        ],
+        "Thermodynamics": [
+        "Classical thermodynamics",
+        "Statistical mechanics",
+        "Kinetic theory",
+        "Thermodynamic processes",
+        "Phase transitions"
+        ],
+        "Quantum mechanics": [
+        "Quantum states",
+        "Quantum operators",
+        "Quantum measurements",
+        "Quantum dynamics",
+        "Quantum field theory"
+        ],
+        "Relativity": [
+        "Special relativity",
+        "General relativity",
+        "Cosmology",
+        "Gravitation",
+        "Black holes"
+        ],
+        "Condensed matter physics": [
+        "Solid-state physics",
+        "Liquid-state physics",
+        "Soft matter",
+        "Nanophysics",
+        "Materials science"
+        ],
+        "Nuclear physics": [
+        "Nuclear structure",
+        "Nuclear reactions",
+        "Radioactivity",
+        "Nuclear energy",
+        "Particle physics"
+        ],
+        "Astrophysics": [
+        "Stellar astrophysics",
+        "Galactic astrophysics",
+        "Extragalactic astronomy",
+        "Cosmology",
+        "Astroparticle physics"
+        ],
+        "Other": [
+            "Fluid dynamics"
+        ]
+    },
+    "Computer Science": {
+        "Theory": [
+        "Algorithms and data structures",
+        "Computational complexity",
+        "Automata theory",
+        "Formal languages",
+        "Cryptography"
+        ],
+        "Programming": [
+        "Programming languages",
+        "Programming paradigms",
+        "Software engineering",
+        "Software design",
+        "Programming methodologies"
+        ],
+        "Computer systems": [
+        "Computer architecture",
+        "Operating systems",
+        "Computer networks",
+        "Database systems",
+        "Distributed systems"
+        ],
+        "Human-computer interaction": [
+        "User interface design",
+        "User experience design",
+        "Human-computer interaction theories",
+        "Usability testing",
+        "Accessibility"
+        ],
+        "Digital Skills": [
+        "Using operating systems",
+        "Email",
+        "Internet browsing",
+        "Word processing",
+        "Productivity software",
+        "Graphic design software",
+        "Video editing software",
+        "Password management",
+        "Phishing prevention",
+        "Data privacy"
+        ]
+    },
+    "History": {
+        "Ancient History": [
+        "Mesopotamia",
+        "Egypt",
+        "Greece",
+        "Rome",
+        "Other ancient civilizations"
+        ],
+        "Medieval History": [
+        "Early Middle Ages",
+        "High Middle Ages",
+        "Late Middle Ages",
+        "Byzantine Empire",
+        "Islamic world"
+        ],
+        "Early Modern History": [
+        "Renaissance",
+        "Reformation",
+        "Age of Exploration",
+        "Scientific Revolution",
+        "Absolutism"
+        ],
+        "Modern History": [
+        "French Revolution",
+        "Industrial Revolution",
+        "World War I",
+        "Interwar period",
+        "World War II"
+        ],
+        "Contemporary History": [
+        "Cold War",
+        "Decolonization",
+        "Globalization",
+        "21st century",
+        "Current events"
+        ],
+        "Catalan History": [
+            "Prehistory in Catalonia",
+            "Old age in Catalonia",
+            "Middle ages in Catalonia",
+            "Modern history of Catalonia",
+            "Contemporary history of Catalonia",
+            "20th century in Catalonia",
+            "Current events of Catalonia"
+        ],
+        "Areas": [
+            "Mathematics history",
+            "Physics history",
+            "Biology history",
+            "Geography history",
+            "Business history",
+            "Finance history",
+            "Astronomy history",
+            "Chemistry history",
+            "Planet earth history",
+            "Space history",
+            "Spanish history",
+            "European history"
+        ]
+    },
+    "Medicine and Health": {
+        "Basic Medical Sciences": [
+        "Anatomy",
+        "Physiology",
+        "Biochemistry",
+        "Genetics",
+        "Microbiology"
+        ],
+        "Clinical Medicine": [
+            "Cardiology",
+            "Pulmonology",
+            "Gastroenterology",
+            "Nephrology",
+            "Endocrinology",
+            "General Surgery",
+            "Orthopedic Surgery",
+            "Cardiothoracic Surgery",
+            "Neurosurgery",
+            "Plastic Surgery",
+            "Obstetrics and Gynecology",
+            "Pediatrics",
+            "Psychiatry",
+            "Dermatology",
+            "Ophthalmology"
+        ],
+        "Public Health": [
+        "Epidemiology",
+        "Biostatistics",
+        "Health Economics",
+        "Health Policy",
+        "Global Health"
+        ],
+        "Allied Health": [
+        "Nursing",
+        "Pharmacy",
+        "Physical Therapy",
+        "Occupational Therapy",
+        "Radiology"
+        ],
+        "Alternative and Complementary Medicine": [
+        "Acupuncture",
+        "Ayurveda",
+        "Homeopathy",
+        "Chiropractic",
+        "Herbal Medicine"
+        ],
+        "Other": [
+            "Medical imaging"
+        ]
+    },
+    "Psychology": {
+        "Basic Psychology": [
+        "Biological Psychology",
+        "Cognitive Psychology",
+        "Developmental Psychology",
+        "Social Psychology",
+        "Personality Psychology"
+        ],
+        "Clinical Psychology": [
+        "Abnormal Psychology",
+        "Psychotherapy",
+        "Psychopharmacology",
+        "Clinical Neuropsychology",
+        "Health Psychology"
+        ],
+        "Applied Psychology": [
+        "Industrial-Organizational Psychology",
+        "Educational Psychology",
+        "Counseling Psychology",
+        "Forensic Psychology",
+        "Sports Psychology"
+        ],
+        "Other Areas": [
+        "Experimental Psychology",
+        "Cross-Cultural Psychology",
+        "Positive Psychology",
+        "Neuropsychology",
+        "Psychometrics"
+        ]
+    },
+    "Artificial Intelligence": {
+        "Machine Learning": [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Reinforcement Learning",
+            "Deep Learning",
+            "Neural Networks"
+        ],
+        "Natural Language Processing": [
+            "Text Classification",
+            "Machine Translation",
+            "Sentiment Analysis",
+            "Information Retrieval",
+            "Generative Language Models"
+        ],
+        "Computer Vision": [
+            "Image Classification",
+            "Object Detection",
+            "Image Segmentation",
+            "Image Generation",
+            "Video Analysis"
+        ],
+        "Generative AI": [
+            "Image Generation models",
+            "Diffusion",
+            "Speech generation",
+            "Music generation"
+        ],
+        "Robotics": [
+            "Autonomous Robots",
+            "Robot Perception",
+            "Robot Control",
+            "Human-Robot Interaction",
+            "Robot Learning"
+        ],
+        "Expert Systems": [
+            "Knowledge Representation",
+            "Inference Engines",
+            "Expert System Shells",
+            "Knowledge Acquisition",
+            "Expert System Applications"
+        ],
+        "Game AI": [
+            "Search Algorithms",
+            "Game Trees",
+            "Machine Learning for Games",
+            "Game AI Techniques",
+            "Game Development"
+        ],
+        "Other": [
+            "Ethics"
+        ]
+    },
+    "Travel and Adventure": {
+        "Europe": [
+            "Western Europe",
+            "Northern Europe",
+            "Southern Europe",
+            "Eastern Europe"
+        ],
+        "Asia": [
+            "East Asia",
+            "Southeast Asia",
+            "South Asia",
+            "Central Asia",
+            "West Asia"
+        ],
+        "Americas": [
+            "North America",
+            "Central America",
+            "South America"
+        ],
+        "Africa": [
+            "North Africa",
+            "Sub-Saharan Africa"
+        ],
+        "Oceania": [
+            "Australia",
+            "New Zealand",
+            "Pacific Islands"
+        ],
+        "Adventure Sports": [
+            "Hiking",
+            "Camping",
+            "Rock Climbing",
+            "Skiing",
+            "Snowboarding"
+        ],
+        "Cultural Experiences": [
+            "History and Culture",
+            "Food and Wine",
+            "Music and Festivals",
+            "Art and Museums",
+            "Language Learning"
+        ],
+        "Relaxation and Wellness": [
+            "Beach Vacations",
+            "Spa and Wellness",
+            "Yoga and Meditation",
+            "Eco-tourism",
+            "Volunteer Tourism"
+        ]
+    },
+    "Gastronomy": {
+        "Cooking Methods": [
+            "Baking",
+            "Boiling",
+            "Grilling",
+            "Roasting",
+            "Sautéing"
+        ],
+        "Food Preservation": [
+            "Pickling",
+            "Fermentation",
+            "Drying",
+            "Canning",
+            "Freezing"
+        ],
+        "Culinary Equipment": [
+            "Knives",
+            "Pots and Pans",
+            "Ovens",
+            "Stoves",
+            "Small Appliances"
+        ],
+        "Asian Cuisine": [
+            "Chinese",
+            "Japanese",
+            "Indian",
+            "Thai",
+            "Vietnamese"
+        ],
+        "European Cuisine": [
+            "Italian",
+            "French",
+            "Spanish",
+            "German",
+            "British",
+            "Catalan"
+        ],
+        "American Cuisine": [
+            "Southern",
+            "Tex-Mex",
+            "Cajun",
+            "New American",
+            "Fast Food"
+        ],
+        "Ingredients": [
+            "Meat",
+            "Poultry",
+            "Seafood",
+            "Vegetables",
+            "Fruits"
+        ],
+        "Beverages": [
+            "Wine",
+            "Beer",
+            "Spirits",
+            "Coffee",
+            "Tea"
+        ],
+        "Dietary Restrictions": [
+            "Vegetarian",
+            "Vegan",
+            "Gluten-Free",
+            "Dairy-Free",
+            "Halal"
+        ],
+        "Recipe examples": [
+            "Easy recipes",
+            "Middle difficulty recipes",
+            "Elaborated recipes"
+        ]
+    },
+    "Philosophy": {
+        "Metaphysics": [
+        "Ontology",
+        "Cosmology",
+        "Philosophy of Mind",
+        "Free Will",
+        "Time"
+        ],
+        "Epistemology": [
+        "Knowledge",
+        "Justification",
+        "Belief",
+        "Perception",
+        "Skepticism"
+        ],
+        "Ethics": [
+        "Moral Philosophy",
+        "Applied Ethics",
+        "Meta-ethics",
+        "Normative Ethics",
+        "Virtue Ethics"
+        ],
+        "Logic": [
+        "Deductive Logic",
+        "Inductive Logic",
+        "Symbolic Logic",
+        "Modal Logic",
+        "Argumentation Theory"
+        ],
+        "Philosophy of Science": [
+        "Philosophy of Physics",
+        "Philosophy of Biology",
+        "Philosophy of Chemistry",
+        "Philosophy of Mathematics",
+        "Philosophy of Social Science"
+        ]
+    },
+    "Personal Growth and Development": {
+        "Mindset": [
+        "Growth Mindset",
+        "Fixed Mindset",
+        "Positive Thinking",
+        "Mindfulness",
+        "Resilience"
+        ],
+        "Emotional Intelligence": [
+        "Self-Awareness",
+        "Self-Regulation",
+        "Motivation",
+        "Empathy",
+        "Social Skills"
+        ],
+        "Goal Setting and Achievement": [
+        "SMART Goals",
+        "Time Management",
+        "Productivity",
+        "Habit Formation",
+        "Motivation Techniques"
+        ],
+        "Personal Development": [
+        "Self-Esteem",
+        "Confidence Building",
+        "Personal Branding",
+        "Networking",
+        "Leadership"
+        ],
+        "Well-being": [
+        "Mental Health",
+        "Physical Health",
+        "Stress Management",
+        "Work-Life Balance",
+        "Happiness"
+        ]
+    },
+    "Trends": {
+        "Technology Trends": [
+        "Artificial Intelligence",
+        "Virtual and Augmented Reality",
+        "Blockchain",
+        "Internet of Things",
+        "5G Technology"
+        ],
+        "Social Trends": [
+        "Diversity and Inclusion",
+        "Sustainability",
+        "Remote Work",
+        "Mental Health Awareness",
+        "Social Media Influence"
+        ],
+        "Economic Trends": [
+        "Globalization",
+        "Economic Inequality",
+        "Automation",
+        "Gig Economy",
+        "Consumer Behavior"
+        ],
+        "Fashion and Lifestyle Trends": [
+        "Sustainable Fashion",
+        "Athleisure",
+        "Minimalism",
+        "Experiences Over Things",
+        "Personalization"
+        ]
+    },
+    "Beauty and Self-Care": {
+        "Skin Types": [
+            "Dry",
+            "Oily",
+            "Combination",
+            "Sensitive",
+            "Acne-prone"
+        ],
+        "Skin Concerns": [
+            "Anti-aging",
+            "Hyperpigmentation",
+            "Acne",
+            "Eczema",
+            "Rosacea"
+        ],
+        "Skincare Products": [
+            "Cleansers",
+            "Moisturizers",
+            "Serums",
+            "Sunscreens",
+            "Exfoliators"
+        ],
+        "Hair Types": [
+            "Straight",
+            "Curly",
+            "Wavy",
+            "Coily",
+            "Fine",
+            "Thick"
+        ],
+        "Hair Concerns": [
+            "Hair Loss",
+            "Dandruff",
+            "Dryness",
+            "Damage",
+            "Color Treatment"
+        ],
+        "Hair Products": [
+            "Shampoos",
+            "Conditioners",
+            "Hair Masks",
+            "Styling Products",
+            "Hair Growth Treatments"
+        ],
+        "Makeup Types": [
+            "Foundation",
+            "Concealer",
+            "Powder",
+            "Blush",
+            "Eyeshadow"
+        ],
+        "Makeup Techniques": [
+            "Contouring",
+            "Highlighting",
+            "Blending",
+            "Smokey Eye",
+            "Cut Crease"
+        ],
+        "Makeup Tools": [
+            "Brushes",
+            "Sponges",
+            "Applicators",
+            "Beauty Blenders",
+            "Makeup Bags"
+        ]
+    },
+    "Parenting": {
+        "Child Development": [
+        "Infant Development",
+        "Toddler Development",
+        "Preschooler Development",
+        "School-Age Development",
+        "Adolescent Development"
+        ],
+        "Parenting Styles": [
+        "Authoritative",
+        "Authoritarian",
+        "Permissive",
+        "Uninvolved",
+        "Helicopter Parenting"
+        ],
+        "Childcare": [
+        "Daycare",
+        "Preschool",
+        "Nannies",
+        "Au Pairs",
+        "After-School Care"
+        ],
+        "Discipline": [
+        "Positive Reinforcement",
+        "Time-Outs",
+        "Natural Consequences",
+        "Loss of Privileges",
+        "Consistency"
+        ],
+        "Family Life": [
+        "Family Values",
+        "Family Traditions",
+        "Family Communication",
+        "Family Time",
+        "Work-Life Balance"
+        ]
+    },
+    "Nature": {
+        "Terrestrial Ecosystems": [
+            "Forests",
+            "Grasslands",
+            "Deserts",
+            "Tundra",
+            "Mountains"
+        ],
+        "Aquatic Ecosystems": [
+            "Marine Ecosystems",
+            "Freshwater Ecosystems",
+            "Wetlands"
+        ],
+        "Plants": [
+            "Flora",
+            "Botany",
+            "Forestry",
+            "Horticulture",
+            "Agriculture"
+        ],
+        "Animals": [
+            "Fauna",
+            "Zoology",
+            "Wildlife",
+            "Conservation",
+            "Animal Behavior"
+        ],
+        "Environmental Science": [
+        "Climate Change",
+        "Pollution",
+        "Sustainability",
+        "Renewable Energy",
+        "Environmental Protection"
+        ]
+    },
+    "Music": {
+        "Music Theory": [
+        "Harmony",
+        "Melody",
+        "Rhythm",
+        "Structure",
+        "Notation"
+        ],
+        "Classical music": [
+            "Baroque",
+            "Classical",
+            "Romantic",
+            "Modern",
+            "Contemporary"
+        ],
+        "Popular Music": [
+            "Rock",
+            "Pop",
+            "Hip-Hop",
+            "Electronic",
+            "Country"
+        ],
+        "Other Genres": [
+            "Jazz",
+            "Blues",
+            "Folk",
+            "World Music",
+            "Experimental",
+            "Catalan music",
+            "Catalan music history"
+        ],
+        "Music Production": [
+        "Recording",
+        "Mixing",
+        "Mastering",
+        "Music Software",
+        "Music Equipment"
+        ]
+    },
+    "Cinema": {
+        "Film Genres": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Fantasy",
+        "Romance",
+        "Thriller",
+        "Adventure",
+        "Animation"
+        ],
+        "Film Movements": [
+        "French New Wave",
+        "Italian Neorealism",
+        "German Expressionism",
+        "American New Wave",
+        "British New Wave",
+        "Catalan cinema"
+        ],
+        "Film Production": [
+        "Directing",
+        "Screenwriting",
+        "Cinematography",
+        "Editing",
+        "Sound Design",
+        "Acting",
+        "Production Design",
+        "Costume Design",
+        "Makeup",
+        "Special Effects"
+        ],
+        "Film Analysis": [
+        "Narrative Structure",
+        "Character Development",
+        "Mise-en-scène",
+        "Cinematographic Techniques",
+        "Film Theory",
+        "Film Criticism"
+        ]
+    },
+    "Sports": {
+        "Team Sports": [
+        "Football (Soccer)",
+        "Basketball",
+        "Baseball",
+        "Hockey",
+        "Volleyball",
+        "Rugby",
+        "Handball",
+        "Water Polo"
+        ],
+        "Individual Sports": [
+        "Athletics (Track and Field)",
+        "Swimming",
+        "Tennis",
+        "Golf",
+        "Cycling",
+        "Gymnastics",
+        "Figure Skating",
+        "Boxing"
+        ],
+        "Other Sports": [
+        "Martial Arts",
+        "Winter Sports",
+        "Extreme Sports",
+        "Motorsports",
+        "E-sports"
+        ],
+        "Minority Sports": [
+        "Racquetball",
+        "Squash",
+        "Fencing",
+        "Bowling",
+        "Badminton",
+        "Table Tennis",
+        "Billiards",
+        "Darts"
+        ],
+        "Physical Activity": [
+        "Cardiovascular Exercise",
+        "Strength Training",
+        "Flexibility Training",
+        "Balance Training",
+        "Endurance Training",
+        "Sports Science",
+        "Sports Medicine"
+        ],
+        "Sports Training": [
+        "Skill Development",
+        "Physical Conditioning",
+        "Mental Preparation",
+        "Nutrition",
+        "Injury Prevention"
+        ],
+        "Sports Culture": [
+        "Sportsmanship",
+        "Competition",
+        "Teamwork",
+        "Sports Fans",
+        "Sports Business",
+        "Sports in Catalonia",
+        "Sports in Spain"
+        ]
+    },
+    "Politics": {
+        "Democracy": [
+            "Direct Democracy",
+            "Representative Democracy",
+            "Presidential System",
+            "Parliamentary System",
+            "Constitutional Monarchy"
+        ],
+        "Authoritarianism": [
+            "Dictatorship",
+            "Totalitarianism",
+            "Autocracy",
+            "Oligarchy",
+            "Theocracy"
+        ],
+        "Political Ideologies": [
+        "Liberalism",
+        "Conservatism",
+        "Socialism",
+        "Communism",
+        "Fascism",
+        "Anarchism"
+        ],
+        "Elections": [
+            "Electoral Systems",
+            "Voting Behavior",
+            "Campaigning",
+            "Political Parties"
+        ],
+        "Governance": [
+            "Public Policy",
+            "Legislation",
+            "Executive Power",
+            "Judiciary",
+            "Bureaucracy"
+        ],
+        "International Relations": [
+        "Diplomacy",
+        "International Law",
+        "War and Peace",
+        "Globalization",
+        "Intergovernmental Organizations"
+        ],
+        "Politics of the world": [
+            "Politics of the USA",
+            "Politics of Spain",
+            "Politics of Catalonia",
+            "Politics of the UK",
+            "Politics of France",
+            "Politics of Europe",
+            "Politics of Asia",
+            "Politics of Africa",
+            "Politics of North-America",
+            "Politics of Sout-America",
+            "Politics of Oceania",
+            "Politics of the Middle-East"
+        ]
+    },
+    "Education": {
+        "Educational Levels": [
+        "Early Childhood Education",
+        "Primary Education",
+        "Secondary Education",
+        "Higher Education",
+        "Adult Education"
+        ],
+        "Educational Theories": [
+        "Behaviorism",
+        "Constructivism",
+        "Humanism",
+        "Cognitivism",
+        "Connectivism"
+        ],
+        "Educational Issues": [
+        "Educational Inequality",
+        "Special Education",
+        "School Funding",
+        "Standardized Testing",
+        "Teacher Education"
+        ],
+        "Learning": [
+        "Learning Styles",
+        "Learning Theories",
+        "Cognitive Load Theory",
+        "Motivation",
+        "Assessment"
+        ]
+    },
+    "Money and Finance": {
+        "Personal Finance": [
+        "Budgeting",
+        "Saving",
+        "Investing",
+        "Debt Management",
+        "Retirement Planning"
+        ],
+        "Financial Markets": [
+        "Stock Market",
+        "Bond Market",
+        "Forex Market",
+        "Derivatives Market",
+        "Cryptocurrency Market"
+        ],
+        "Banking and Finance": [
+        "Retail Banking",
+        "Investment Banking",
+        "Commercial Banking",
+        "Insurance",
+        "Financial Regulation"
+        ]
+    },
+    "Work": {
+        "Career Development": [
+        "Job Search",
+        "Resume Writing",
+        "Interviewing",
+        "Career Planning",
+        "Career Change"
+        ],
+        "Workplace Skills": [
+        "Communication",
+        "Leadership",
+        "Time Management",
+        "Problem Solving",
+        "Teamwork"
+        ],
+        "Work-Life Balance": [
+        "Stress Management",
+        "Work-Life Integration",
+        "Burnout Prevention",
+        "Flexible Work Arrangements",
+        "Well-being"
+        ],
+        "Organizational Behavior": [
+        "Organizational Culture",
+        "Organizational Structure",
+        "Human Resources",
+        "Organizational Change",
+        "Employee Engagement"
+        ]
+    },
+    "Business": {
+        "Management": [
+            "Strategic Management",
+            "Operations Management",
+            "Human Resource Management",
+            "Financial Management",
+            "Marketing Management"
+        ],
+        "Accounting and Finance": [
+            "Financial Accounting",
+            "Managerial Accounting",
+            "Cost Accounting",
+            "Financial Analysis",
+            "Financial Modeling"
+        ],
+        "Marketing": [
+            "Marketing Research",
+            "Product Development",
+            "Pricing",
+            "Distribution",
+            "Promotion"
+        ],
+        "Business Strategy": [
+        "Competitive Advantage",
+        "Corporate Strategy",
+        "Business Level Strategy",
+        "Diversification",
+        "Industry Analysis"
+        ],
+        "International Business": [
+        "Globalization",
+        "International Trade",
+        "Foreign Direct Investment",
+        "International Marketing",
+        "Cross-Cultural Management"
+        ],
+        "Entrepreneurship": [
+        "Startup Creation",
+        "Business Planning",
+        "Venture Capital",
+        "Innovation",
+        "Entrepreneurial Mindset"
+        ]
+    },
+    "Entrepreneurship": {
+        "Entrepreneurial Mindset": [
+        "Innovation",
+        "Risk-Taking",
+        "Passion",
+        "Determination",
+        "Creativity"
+        ],
+        "Startup Process": [
+        "Idea Generation",
+        "Market Research",
+        "Business Plan Development",
+        "Funding",
+        "Team Building"
+        ],
+        "Business Model": [
+        "Business Model Canvas",
+        "Revenue Model",
+        "Customer Value Proposition",
+        "Distribution Channels",
+        "Cost Structure"
+        ],
+        "Growth and Scaling": [
+        "Customer Acquisition",
+        "Market Expansion",
+        "Financial Management",
+        "Leadership",
+        "Organizational Culture"
+        ]
+    },
+    "Literature": {
+        "Fiction": [
+            "Novel",
+            "Short Story",
+            "Novella",
+            "Science Fiction",
+            "Fantasy"
+        ],
+        "Non-Fiction": [
+            "Biography",
+            "Autobiography",
+            "Essay",
+            "History",
+            "Philosophy"
+        ],
+        "Poetry": [
+            "Lyric Poetry",
+            "Narrative Poetry",
+            "Dramatic Poetry",
+            "Epic Poetry",
+            "Free Verse",
+            "Spanish poetry",
+            "Catalan poetry"
+        ],
+        "Literary Analysis": [
+        "Plot",
+            "Character",
+            "Setting",
+            "Theme",
+            "Style"
+        ],
+        "Literary Theory": [
+            "Formalism",
+            "Structuralism",
+            "Post-Structuralism",
+            "Feminism",
+            "Postcolonialism"
+        ],
+        "Writing and Publishing": [
+        "Creative Writing",
+            "Editing",
+            "Publishing Industry",
+            "Copyright",
+            "Literary Criticism"
+        ],
+        "Literary History": [
+            "Oral literature",
+            "Early written literature",
+            "Religious text",
+            "Catalan literature",
+            "Spanish literature"
+        ]
+    },
+    "Gaming": {
+        "Game Genres": [
+        "Action",
+        "Adventure",
+        "Role-Playing Game (RPG)",
+        "Simulation",
+        "Strategy",
+        "Sports",
+        "Puzzle",
+        "Platformer",
+        "Shooter",
+        "Fighting"
+        ],
+        "Game Development": [
+        "Game Design",
+        "Game Programming",
+        "Game Art",
+        "Game Audio",
+        "Game Testing"
+        ],
+        "Gaming Culture": [
+        "E-sports",
+        "Gaming Communities",
+        "Gaming Hardware",
+        "Gaming Platforms",
+        "Game Streaming"
+        ]
+    },
+    "Technology and Engineering": {
+        "Engineering Disciplines": [
+        "Civil Engineering",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Chemical Engineering",
+        "Aerospace Engineering",
+        "Biomedical Engineering",
+        "Computer Engineering",
+        "Materials Science and Engineering",
+        "Environmental Engineering",
+        "Nuclear Engineering"
+        ],
+        "Technology Trends": [
+        "Internet of Things (IoT)",
+        "Blockchain",
+        "Virtual and Augmented Reality (VR/AR)",
+        "Robotics",
+        "Nanotechnology",
+        "Biotechnology",
+        "Quantum Computing",
+        "Additive Manufacturing (3D Printing)",
+        "Renewable Energy"
+        ],
+        "Engineering Design Process": [
+        "Problem Identification",
+        "Research",
+        "Design",
+        "Prototyping",
+        "Testing",
+        "Optimization",
+        "Implementation",
+        "Evaluation"
+        ]
+    },
+    "Mindfulness": {
+        "Mindfulness Techniques": [
+        "Meditation",
+        "Yoga",
+        "Deep Breathing",
+        "Body Scan",
+        "Mindful Walking"
+        ],
+        "Benefits of Mindfulness": [
+        "Stress Reduction",
+        "Anxiety Relief",
+        "Improved Focus",
+        "Emotional Regulation",
+        "Increased Well-being"
+        ],
+        "Mindfulness in Daily Life": [
+        "Mindful Eating",
+        "Mindful Parenting",
+        "Mindful Relationships",
+        "Mindful Work",
+        "Mindful Sleep"
+        ]
+    },
+    "Diversity and Inclusion": {
+        "Dimensions of Diversity": [
+        "Race",
+        "Ethnicity",
+        "Gender",
+        "Sexual Orientation",
+        "Age",
+        "Disability",
+        "Religion",
+        "Socioeconomic Status",
+        "Neurodiversity"
+        ],
+        "Inclusion": [
+        "Belonging",
+        "Equity",
+        "Accessibility",
+        "Respect",
+        "Allyship"
+        ],
+        "Diversity and Inclusion Strategies": [
+        "Unconscious Bias Training",
+        "Diversity Hiring",
+        "Inclusive Leadership",
+        "Employee Resource Groups",
+        "Cultural Competence"
+        ]
+    },
+    "Fashion": {
+        "Fashion Design": [
+        "Textile Design",
+        "Pattern Making",
+        "Draping",
+        "Fashion Illustration",
+        "Fashion Styling"
+        ],
+        "Fashion Industry": [
+        "Fashion Business",
+        "Fashion Marketing",
+        "Fashion Retail",
+        "Fashion Forecasting",
+        "Fashion Public Relations"
+        ],
+        "Fashion History and Theory": [
+        "Fashion Movements",
+        "Fashion Designers",
+        "Fashion Photography",
+        "Fashion Criticism",
+        "Sustainable Fashion",
+        "Fashion in Catalonia",
+        "Fashion in Spain"
+        ],
+        "Fashion and Culture": [
+        "Streetwear",
+        "Haute Couture",
+        "Fast Fashion",
+        "Luxury Fashion",
+        "Fashion and Identity"
+        ]
+    },
+    "Love Relationships": {
+        "Types of Love": [
+        "Romantic Love",
+        "Platonic Love",
+        "Family Love",
+        "Self-Love",
+        "Unconditional Love"
+        ],
+        "Relationship Dynamics": [
+        "Communication",
+        "Intimacy",
+        "Trust",
+        "Conflict Resolution",
+        "Boundaries"
+        ],
+        "Relationship Stages": [
+        "Attraction",
+        "Dating",
+        "Commitment",
+        "Marriage",
+        "Parenthood"
+        ],
+        "Relationship Challenges": [
+        "Infidelity",
+        "Jealousy",
+        "Breakups",
+        "Long-Distance Relationships",
+        "Cohabitation"
+        ]
+    },
+    "Creativity": {
+        "Creative Process": [
+        "Idea Generation",
+        "Brainstorming",
+        "Incubation",
+        "Illumination",
+        "Evaluation"
+        ],
+        "Creative Thinking": [
+        "Divergent Thinking",
+        "Convergent Thinking",
+        "Lateral Thinking",
+        "Critical Thinking",
+        "Design Thinking"
+        ],
+        "Creativity and Innovation": [
+        "Problem Solving",
+        "Innovation",
+        "Entrepreneurship",
+        "Art and Design",
+        "Creative Industries"
+        ]
+    },
+    "Ecology": {
+        "Ecosystems": [
+        "Terrestrial Ecosystems",
+        "Aquatic Ecosystems",
+        "Urban Ecosystems"
+        ],
+        "Biodiversity": [
+        "Ecosystem Diversity",
+        "Species Diversity",
+        "Genetic Diversity"
+        ],
+        "Environmental Issues": [
+        "Climate Change",
+        "Pollution",
+        "Deforestation",
+        "Overpopulation",
+        "Resource Depletion"
+        ],
+        "Conservation and Restoration": [
+        "Protected Areas",
+        "Wildlife Conservation",
+        "Habitat Restoration",
+        "Sustainable Development",
+        "Environmental Education"
+        ]
+    },
+    "Law and Justice": {
+        "Legal Systems": [
+        "Common Law",
+        "Civil Law",
+        "Customary Law",
+        "Religious Law",
+        "Mixed Legal Systems",
+        "Roman Law"
+        ],
+        "Legal Professions": [
+        "Lawyer",
+        "Judge",
+        "Prosecutor",
+        "Defense Attorney",
+        "Paralegal"
+        ],
+        "Areas of Law": [
+        "Criminal Law",
+        "Civil Law",
+        "Constitutional Law",
+        "International Law",
+        "Administrative Law"
+        ],
+        "Legal Theory": [
+        "Jurisprudence",
+        "Legal Philosophy",
+        "Legal Positivism",
+        "Natural Law",
+        "Legal Realism"
+        ],
+        "Laws": [
+            "EU laws",
+            "Spanish laws"
+        ]
+    },
+    "Geography": {
+        "Geomorphology": [
+            "Landforms",
+            "Erosion",
+            "Weathering",
+            "Plate Tectonics",
+            "Volcanism"
+        ],
+        "Climatology": [
+            "Climate Zones",
+            "Weather Patterns",
+            "Climate Change",
+            "Atmospheric Circulation",
+            "Hydrology"
+        ],
+        "Biogeography": [
+            "Ecosystems",
+            "Biodiversity",
+            "Biomes",
+            "Ecological Interactions",
+            "Human Impact"
+        ],
+        "Population Geography": [
+            "Population Distribution",
+            "Population Density",
+            "Population Growth",
+            "Demographic Transition",
+            "Migration"
+        ],
+        "Cultural Geography": [
+            "Culture",
+            "Language",
+            "Religion",
+            "Ethnicity",
+            "Cultural Landscapes"
+        ],
+        "Economic Geography": [
+            "Economic Systems",
+            "Agriculture",
+            "Industry",
+            "Services",
+            "Trade"
+        ],
+        "Urban Geography": [
+            "Urbanization",
+            "City Structure",
+            "Urban Problems",
+            "Urban Planning",
+            "Sustainable Cities"
+        ]
+    },
+    "Neuroscience": {
+        "Nervous System": [
+            "Central Nervous System",
+            "Peripheral Nervous System",
+            "Autonomic Nervous System"
+        ],
+        "Neuron": [
+            "Structure",
+            "Function",
+            "Neurotransmitters",
+            "Synapse",
+            "Neural Networks"
+        ],
+        "Brain Structure": [
+            "Cerebral Cortex",
+            "Limbic System",
+            "Basal Ganglia",
+            "Cerebellum",
+            "Brainstem"
+        ],
+        "Cognitive Neuroscience": [
+        "Perception",
+        "Attention",
+        "Memory",
+        "Language",
+        "Emotion"
+        ],
+        "Behavioral Neuroscience": [
+        "Learning",
+            "Motivation",
+            "Reward Systems",
+            "Addiction",
+            "Sleep"
+        ],
+        "Neurological Disorders": [
+            "Alzheimer's Disease",
+            "Parkinson's Disease",
+            "Stroke",
+            "Epilepsy",
+            "Multiple Sclerosis"
+        ]
+    },
+    "Agriculture": {
+        "Agronomy": [
+            "Soil Science",
+            "Crop Rotation",
+            "Fertilizers",
+            "Pesticides",
+            "Irrigation"
+        ],
+        "Plant Breeding": [
+            "Genetics",
+            "Biotechnology",
+            "Hybrids",
+            "GMOs",
+            "Organic Farming"
+        ],
+        "Harvesting and Post-Harvest": [
+            "Machinery",
+            "Storage",
+            "Processing",
+            "Distribution",
+            "Food Safety"
+        ],
+        "Animal Science": [
+            "Nutrition",
+            "Genetics",
+            "Reproduction",
+            "Welfare",
+            "Disease Control"
+        ],
+        "Livestock Systems": [
+            "Pastoralism",
+            "Ranching",
+            "Dairy Farming",
+            "Poultry Farming",
+            "Aquaculture"
+        ],
+        "Agricultural Economics": [
+        "Farm Management",
+        "Agricultural Policy",
+        "Agricultural Marketing",
+        "Rural Development",
+        "Agricultural Trade"
+        ]
+    },
+    "Sociology": {
+        "Sociological Theories": [
+        "Structural Functionalism",
+        "Conflict Theory",
+        "Symbolic Interactionism",
+        "Feminist Theory",
+        "Postmodernism"
+        ],
+        "Social Structures": [
+        "Social Classes",
+        "Social Groups",
+        "Social Institutions",
+        "Social Networks",
+        "Social Stratification"
+        ],
+        "Social Processes": [
+        "Socialization",
+        "Deviance",
+        "Crime",
+        "Social Change",
+        "Globalization"
+        ],
+        "Social Issues": [
+        "Inequality",
+        "Poverty",
+        "Race and Ethnicity",
+        "Gender",
+        "Health"
+        ]
+    },
+    "Space": {
+        "Solar System": [
+            "Sun",
+            "Planets",
+            "Moons",
+            "Asteroids",
+            "Comets"
+        ],
+        "Stars": [
+            "Stellar Evolution",
+            "Galaxies",
+            "Nebulae",
+            "Black Holes",
+            "Cosmology"
+        ],
+        "Astrophysics": [
+            "Astrophysics",
+            "Astrochemistry",
+            "Astrobiology",
+            "Space Physics",
+            "Observational Astronomy"
+        ],
+        "Rocketry": [
+            "Rocket Science",
+            "Spacecraft Propulsion",
+            "Launch Vehicles"
+        ],
+        "Spacecraft": [
+            "Satellites",
+            "Space Probes",
+            "Space Stations",
+            "Human Spaceflight",
+            "Space Telescopes"
+        ],
+        "Space Colonization": [
+            "Mars Colonization",
+            "Lunar Colonization",
+            "Space Habitats",
+            "Resource Extraction",
+            "Space Law"
+        ]
+    },
+    "Chemistry": {
+        "General Chemistry": [
+        "Atomic Structure",
+        "Periodic Table",
+        "Chemical Bonding",
+        "Stoichiometry",
+        "States of Matter"
+        ],
+        "Organic Chemistry": [
+        "Hydrocarbons",
+        "Functional Groups",
+        "Organic Reactions",
+        "Biochemistry",
+        "Organic Synthesis"
+        ],
+        "Inorganic Chemistry": [
+        "Coordination Chemistry",
+        "Main Group Chemistry",
+        "Transition Metals",
+        "Solid State Chemistry",
+        "Inorganic Synthesis"
+        ],
+        "Physical Chemistry": [
+        "Thermodynamics",
+        "Quantum Chemistry",
+        "Kinetics",
+        "Spectroscopy",
+        "Electrochemistry"
+        ],
+        "Analytical Chemistry": [
+        "Qualitative Analysis",
+        "Quantitative Analysis",
+        "Instrumental Analysis",
+        "Separation Techniques",
+        "Environmental Chemistry"
+        ]
+    },
+    "Architecture": {
+        "Architectural Styles": [
+            "Classical",
+            "Gothic",
+            "Renaissance",
+            "Modern",
+            "Postmodern"
+        ],
+        "Design Principles": [
+            "Function",
+            "Form",
+            "Space",
+            "Structure",
+            "Sustainability"
+        ],
+        "Design Processes": [
+            "Sketching",
+            "Modeling",
+            "Computer-Aided Design (CAD)",
+            "Building Information Modeling (BIM)",
+            "Project Management"
+        ],
+        "Architectural History": [
+        "Ancient Architecture",
+        "Medieval Architecture",
+        "Renaissance Architecture",
+        "Modern Architecture",
+        "Contemporary Architecture",
+        "Catalan Architecture",
+        "Spanish Architecture"
+        ],
+        "Structural Systems": [
+            "Beams",
+            "Columns",
+            "Arches",
+            "Trusses",
+            "Concrete"
+        ],
+        "Building Services": [
+            "Heating",
+            "Ventilation",
+            "Air Conditioning",
+            "Plumbing",
+            "Electrical Systems"
+        ],
+        "Building Materials": [
+            "Wood",
+            "Steel",
+            "Concrete",
+            "Glass",
+            "Masonry"
+        ]
+    },
+    "Biology": {
+        "Cell Biology": [
+            "Cell Structure",
+            "Cell Function",
+            "Cell Division",
+            "Genetics",
+            "Biotechnology"
+        ],
+        "Genetics": [
+            "Mendelian Genetics",
+            "Molecular Genetics",
+            "Population Genetics",
+            "Genetic Engineering",
+            "Human Genetics"
+        ],
+        "Evolution": [
+            "Natural Selection",
+            "Speciation",
+            "Adaptations",
+            "Phylogeny",
+            "Evolutionary Biology"
+        ],
+        "Botany": [
+            "Plant Anatomy",
+            "Plant Physiology",
+            "Plant Ecology",
+            "Plant Taxonomy",
+            "Agriculture"
+        ],
+        "Zoology": [
+            "Animal Behavior",
+            "Animal Physiology",
+            "Animal Anatomy",
+            "Animal Diversity",
+            "Conservation Biology"
+        ],
+        "Ecology and Environment": [
+        "Ecosystems",
+            "Biodiversity",
+            "Population Ecology",
+            "Community Ecology",
+            "Environmental Science"
+        ],
+        "Other": [
+            "Molecular Biology"
+        ]
+    },
+    "Economics": {
+        "Microeconomics": [
+        "Supply and Demand",
+        "Perfect Competition",
+        "Monopoly",
+        "Oligopoly",
+        "Monopolistic Competition",
+        "Consumer Theory",
+        "Producer Theory",
+        "Game Theory"
+        ],
+        "Macroeconomics": [
+        "National Income Accounting",
+        "Economic Growth",
+        "Unemployment",
+        "Inflation",
+        "Fiscal Policy",
+        "Monetary Policy"
+        ],
+        "International Economics": [
+        "International Trade",
+        "Exchange Rates",
+        "Balance of Payments",
+        "Economic Integration",
+        "Development Economics"
+        ],
+        "Other Fields": [
+        "Labor Economics",
+        "Public Economics",
+        "Behavioral Economics",
+        "Environmental Economics",
+        "Health Economics",
+        "Economy of the world",
+        "Economy of Europe",
+        "Economy of Spain",
+        "Economy of Catalonia"
+        ]
+    },
+    "Common Sense Knowledge": {
+        "Basic Needs": [
+            "Food",
+            "Water",
+            "Shelter",
+            "Clothing",
+            "Sleep"
+        ],
+        "Domestic Skills": [
+            "Cooking",
+            "Cleaning",
+            "Home mantenance"
+        ],
+        "Everyday life": [
+            "Social Etiquette",
+            "Consumer Bechavior",
+            "Legal and Ethical Understanding"
+        ],
+        "Health and Hygiene": [
+            "Nutrition",
+            "Exercise",
+            "Hygiene",
+            "Illness",
+            "Safety"
+        ],
+        "Social Interactions": [
+            "Communication",
+            "Relationships",
+            "Etiquette",
+            "Conflict Resolution",
+            "Cooperation",
+            "Empathy",
+            "Trust",
+            "Friendship",
+            "Love"
+        ],
+        "Objects and Properties": [
+            "Shape",
+            "Size",
+            "Color",
+            "Weight",
+            "Texture",
+            "Material",
+            "Function"
+        ],
+        "Space and Time": [
+            "Location",
+            "Direction",
+            "Distance",
+            "Duration",
+            "Speed",
+            "Calendar",
+            "Clock"
+        ],
+        "Cause and Effect": [
+            "Physical Laws",
+            "Natural Phenomena",
+            "Problem Solving",
+            "Prediction",
+            "Experimentation"
+        ],
+        "Physical World": [
+            "Basic Technology",
+            "Basic mathematics",
+            "Decision Making"
+        ],
+        "Emotions": [
+            "Happiness",
+            "Sadness",
+            "Anger",
+            "Fear",
+            "Love",
+            "Surprise",
+            "Disgust"
+        ],
+        "Personality": [
+            "Traits",
+            "Behaviors",
+            "Motivation",
+            "Self-Concept",
+            "Social Roles",
+            "Identity"
+        ]
+    },
+    "Aeronautics": {
+        "Aerodynamics": [
+        "Aerodynamic Forces",
+        "Airfoils",
+        "Lift",
+        "Drag",
+        "Stability and Control"
+        ],
+        "Aircraft Design": [
+        "Aircraft Configuration",
+        "Structures",
+        "Materials",
+        "Propulsion Systems",
+        "Avionics"
+        ],
+        "Flight Mechanics": [
+        "Performance",
+        "Stability and Control",
+        "Flight Instruments",
+        "Flight Operations",
+        "Flight Simulation"
+        ],
+        "Aerospace Engineering": [
+        "Aeronautical Engineering",
+        "Astronautical Engineering",
+        "Spacecraft Design",
+        "Rocket Propulsion",
+        "Satellite Systems"
+        ]
+    },
+    "Marketing": {
+        "Marketing Fundamentals": [
+        "Market Research",
+        "Target Audience",
+        "Customer Segmentation",
+        "Product Development",
+        "Branding"
+        ],
+        "Product": [
+            "Product Development",
+            "Product Lifecycle",
+            "Branding",
+            "Packaging",
+            "Product Line Management"
+        ],
+        "Price": [
+            "Pricing Strategies",
+            "Cost-Plus Pricing",
+            "Value-Based Pricing",
+            "Price Elasticity",
+            "Discounts and Promotions"
+        ],
+        "Place": [
+            "Distribution Channels",
+            "Supply Chain Management",
+            "Retailing",
+            "Wholesaling",
+            "Logistics"
+        ],
+        "Promotion": [
+            "Advertising",
+            "Public Relations",
+            "Sales Promotions",
+            "Personal Selling",
+            "Direct Marketing"
+        ],
+        "Digital Marketing": [
+        "Search Engine Optimization (SEO)",
+        "Pay-Per-Click (PPC) Advertising",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Email Marketing"
+        ]
+    },
+    "Following Instructions": {
+      "Reading Comprehension": [
+        "Identifying key points",
+        "Understanding vocabulary",
+        "Interpreting context"
+      ],
+      "Instruction Format": [
+        "Verbal instructions",
+        "Written instructions",
+        "Visual instructions",
+        "Combined instructions"
+      ],
+      "Instruction Clarity": [
+        "Clear and concise language",
+        "Logical order",
+        "Avoidance of ambiguity"
+      ],
+      "Task Analysis": [
+        "Breaking down tasks",
+        "Prioritizing steps",
+        "Identifying resources"
+      ],
+      "Attention and Focus": [
+        "Maintaining concentration",
+        "Avoiding distractions",
+        "Managing time"
+      ],
+      "Error Handling": [
+        "Identifying errors",
+        "Correcting mistakes",
+        "Learning from failures"
+      ],
+      "Checking for Accuracy": [
+        "Verifying results",
+        "Comparing to expected outcomes"
+      ],
+      "Seeking Feedback": [
+        "Asking for clarification",
+        "Accepting criticism"
+      ],
+      "Learning and Improvement": [
+        "Reflecting on performance",
+        "Identifying areas for growth"
+      ]
+  },
+  "Linguistics": {
+      "Phonetics": [
+        "Articulatory phonetics",
+        "Acoustic phonetics",
+        "Auditory phonetics",
+        "Catalan phonetics",
+        "Spanish phonetics"
+      ],
+      "Phonology": [
+        "Phonemes",
+        "Allophones",
+        "Phonological rules",
+        "Prosody",
+        "Spanish phonology",
+        "Catalan phonology"
+      ],
+      "Morphology": [
+        "Morphemes",
+        "Word structure",
+        "Inflection",
+        "Derivation",
+        "Catalan Morphology",
+        "Spanish Morphology"
+      ],
+      "Syntax": [
+        "Sentence structure",
+        "Grammar",
+        "Syntax trees",
+        "Syntactic analysis",
+        "Catalan Syntax",
+        "Spanish Syntax"
+      ],
+      "Semantics": [
+        "Word meaning",
+        "Sentence meaning",
+        "Pragmatics",
+        "Lexical semantics"
+      ],
+      "Dialectology": [
+        "Regional dialects",
+        "Social dialects",
+        "Language variation",
+        "Dialect contact",
+        "Catalan Dialectology",
+        "Spanish Dialectology"
+      ],
+      "Sociolinguistics": [
+        "Language and society",
+        "Language and gender",
+        "Language and power",
+        "Language and culture"
+      ],
+      "Historical Linguistics": [
+        "Language change",
+        "Language families",
+        "Language reconstruction",
+        "Etymologies"
+      ],
+        "First Language Acquisition": [
+          "Child language development",
+          "Critical period",
+          "Universal grammar"
+        ],
+        "Second Language Acquisition": [
+          "Learning processes",
+          "Teaching methods",
+          "Bilingualism"
+        ]
+  },
+  "Anthropology": {
+      "Ethnography": [
+        "Participant observation",
+        "Fieldwork",
+        "Cultural relativism",
+        "Ethnocentrism"
+      ],
+      "Culture and Society": [
+        "Belief systems",
+        "Social organization",
+        "Economics",
+        "Politics",
+        "Art and aesthetics"
+      ],
+      "Language and Culture": [
+        "Linguistic anthropology",
+        "Ethnolinguistics",
+        "Language ideology"
+      ],
+      "Archaeology Prehistory": [
+        "Paleolithic",
+        "Neolithic",
+        "Bronze Age",
+        "Iron Age"
+      ],
+      "Archaeological Methods": [
+        "Excavation",
+        "Dating techniques",
+        "Artifact analysis"
+      ],
+      "Historical Archaeology": [
+        "Classical archaeology",
+        "Industrial archaeology",
+        "Underwater archaeology"
+      ],
+      "Human Evolution": [
+        "Primatology",
+        "Fossil record",
+        "Human genetics"
+      ],
+      "Biological Anthropology": [
+        "Human variation",
+        "Human adaptation",
+        "Bioarchaeology",
+        "Forensic anthropology"
+      ]
+  },
+  "Prehistory": {
+      "Paleolithic": [
+        "Oldowan tools",
+        "Acheulean tools",
+        "Mousterian tools",
+        "Hunting and gathering",
+        "Fire"
+      ],
+      "Mesolithic": [
+        "Microliths",
+        "Bow and arrow",
+        "Domestication of animals",
+        "Early agriculture"
+      ],
+      "Neolithic": [
+        "Pottery",
+        "Agriculture",
+        "Domestication of plants",
+        "Settlement patterns",
+        "Stone architecture"
+      ],
+    "Bronze Age": [
+      "Metallurgy",
+      "Trade",
+      "Social hierarchies",
+      "Warfare",
+      "Writing systems"
+    ],
+    "Iron Age": [
+      "Ironworking",
+      "Cultural diffusion",
+      "Celtic cultures",
+      "Indo-European languages",
+      "Pre-Roman Europe"
+    ]
+  },
+  "Arts": {
+      "Painting Techniques": [
+          "Oil painting",
+          "Acrylic painting",
+          "Watercolor",
+          "Gouache",
+          "Tempera"
+        ],
+        "Painting Styles": [
+          "Realism",
+          "Impressionism",
+          "Abstract Expressionism",
+          "Pop Art",
+          "Surrealism"
+        ],
+        "Painting Themes": [
+          "Portraiture",
+          "Landscape",
+          "Still life",
+          "Figurative",
+          "Abstract"
+        ],
+        "Sculpture Types": [
+          "Freestanding",
+          "Relief",
+          "Kinetic"
+        ],
+        "Sculpture Materials": [
+          "Stone",
+          "Metal",
+          "Wood",
+          "Clay",
+          "Mixed media"
+        ],
+        "Sculpture Styles": [
+          "Classical",
+          "Modern",
+          "Contemporary"
+        ],
+        "Photography Types": [
+          "Portrait",
+          "Landscape",
+          "Street photography",
+          "Documentary",
+          "Fine art"
+        ],
+        "Photography Techniques": [
+          "Digital photography",
+          "Film photography",
+          "Darkroom",
+          "Photo editing"
+        ],
+        "Photography Concepts": [
+          "Composition",
+          "Lighting",
+          "Exposure",
+          "Focus"
+      ],
+      "Design": [
+        "Graphic design",
+        "Industrial design",
+        "Interior design",
+        "Fashion design",
+        "Product design"
+      ],
+      "Theater": [
+          "Tragedy",
+          "Comedy",
+          "Drama",
+        "Musical theater",
+        "Improvisation",
+        "Acting techniques",
+        "Stagecraft"
+      ],
+      "Dance": [
+        "Ballet",
+        "Modern dance",
+        "Contemporary dance",
+        "Hip-hop",
+        "Jazz"
+      ],
+      "Opera": [
+        "Opera genres",
+        "Vocal techniques",
+        "Orchestration",
+        "Stage design",
+        "Opera history"
+      ],
+      "World": [
+        "Art in Europe",
+        "Art in Catalonia",
+        "Art in Spain"
+      ]
+  },
+  "Art History": {
+    "Prehistoric Art": [
+      "Cave paintings",
+      "Stone sculptures",
+      "Decorative arts"
+    ],
+    "Ancient Art": [
+      "Egyptian art",
+      "Mesopotamian art",
+      "Greek art",
+      "Roman art"
+    ],
+    "Medieval Art": [
+      "Byzantine art",
+      "Romanesque art",
+      "Gothic art"
+    ],
+    "Renaissance Art": [
+      "Italian Renaissance",
+      "Northern Renaissance"
+    ],
+    "Modern Art": [
+      "Impressionism",
+      "Post-Impressionism",
+      "Cubism",
+      "Abstract Expressionism",
+      "Pop Art"
+    ],
+    "Contemporary Art": [
+      "Installation art",
+      "Performance art",
+      "Conceptual art",
+      "Digital art",
+      "Street art"
+    ],
+    "World": [
+        "Art history in Europe",
+        "Art history in Catalonia",
+        "Art history in Spain"
+      ]
+  },
+  "Translation": {
+      "Understanding Source Text": [
+        "Contextualization",
+        "Terminology",
+        "Cultural references"
+      ],
+      "Translation Techniques": [
+        "Direct translation",
+        "Adaptation",
+        "Compensation",
+        "Transposition",
+        "Modulation"
+      ],
+      "Target Text Production": [
+        "Style and register",
+        "Coherence and cohesion",
+        "Accuracy and fidelity",
+        "Fluency and naturalness"
+      ],
+    "Translation Challenges": [
+      "False friends",
+      "Cultural differences",
+        "Technical terminology",
+        "Lack of equivalent terms",
+        "Translation memory"
+      ],
+      "Translation software": [
+        "Machine translation",
+        "Translation memory tools",
+        "Terminology management"
+      ],
+      "Translation Quality Assurance": [
+        "Post-editing",
+        "Proofreading",
+        "Quality metrics"
+      ],
+      "Translation teaching": [
+        "Catalan - English translation (and viceversa)",
+        "Catalan - Spanish translation (and viceversa)",
+        "Catalan - French translation (and viceversa)",
+        "Catalan - Occitan translation (and viceversa)",
+        "Catalan - Italian translation (and viceversa)",
+        "Catalan - German translation (and viceversa)",
+        "Catalan - Chinese translation (and viceversa)",
+        "Catalan - Japanese translation (and viceversa)",
+        "Catalan - Korean translation (and viceversa)",
+        "Catalan - Norwegian translation (and viceversa)",
+        "Catalan - Latin translation (and viceversa)",
+        "Catalan - Greek translation (and viceversa)",
+        "Catalan - Hindi translation (and viceversa)",
+        "Catalan - Bengali translation (and viceversa)",
+        "Catalan - Portuguese translation (and viceversa)",
+        "Catalan - Russian translation (and viceversa)",
+        "Catalan - Vietnamese translation (and viceversa)",
+        "Catalan - Arabic translation (and viceversa)"
+      ]
+  },
+  "Catalonia": {
+    "Geography": [
+        "High Pyrenees",
+        "Pre-Pyrenees",
+        "Natural parks",
+        "Costa Brava",
+        "Costa del Maresme",
+        "Delta del Ebro",
+        "Costa Daurada",
+        "Pla de Lleida",
+        "Conca de Barberà",
+        "Segarra",
+        "Political division",
+        "Cities",
+        "Towns"
+    ],
+      "Prehistory": [
+        "Iberian Peninsula",
+        "Celtiberians"
+      ],
+      "Roman Period": [
+        "Tarraco",
+        "Roman roads",
+        "Romanesque architecture"
+      ],
+      "Medieval Period": [
+        "County of Barcelona",
+        "Crown of Aragon",
+        "Catalan language"
+      ],
+      "Modern Period": [
+        "Industrial Revolution",
+        "Catalan nationalism",
+        "Spanish Civil War"
+      ],
+      "Language": [
+        "Catalan language",
+        "Occitan language"
+      ],
+      "Gastronomy": [
+        "Catalan cuisine",
+        "Wines",
+        "Traditional dishes"
+      ],
+      "Music": [
+        "Catalan folk music",
+        "Modern Catalan music",
+        "Festivals"
+      ],
+      "Art and Architecture": [
+        "Modernisme",
+        "Gaudí",
+        "Art Nouveau",
+        "Catalan Romanesque"
+      ],
+      "Tourism": [
+        "Barcelona",
+        "Costa Brava",
+        "Pyrenees"
+      ],
+      "Industry": [
+        "Automotive",
+        "Textiles",
+        "Chemicals",
+        "Food processing"
+      ],
+      "Agriculture": [
+        "Wine production",
+        "Olive oil",
+        "Fruits and vegetables"
+      ]
+  },
+    "Spain": {
+        "Geography": [
+            "Meseta Central",
+            "Pyrenees",
+            "Cantabrian Mountains",
+            "Iberian System",
+            "Sierra Morena",
+            "Costa Brava",
+            "Costa Dorada",
+            "Costa Blanca",
+            "Costa del Sol",
+            "Galician Coast",
+            "Balearic Islands",
+            "Canary Islands",
+            "Ebro",
+            "Duero",
+            "Tagus",
+            "Guadalquivir"
+        ],
+        "Prehistory": [
+            "Iberian Peninsula",
+            "Celts",
+            "Iberians"
+        ],
+        "Roman Period": [
+            "Conquest",
+            "Romanization",
+            "Legacy"
+        ],
+        "Visigothic Kingdom": [
+            "Invasions",
+            "Decline"
+        ],
+        "Muslim Spain": [
+            "Al-Andalus",
+            "Caliphates",
+            "Taifas"
+        ],
+        "Reconquista": [
+            "Christian Kingdoms",
+            "Unification"
+        ],
+        "Modern Spain": [
+            "Habsburg Empire",
+            "Bourbon Dynasty",
+            "19th Century",
+            "20th Century",
+            "Democracy"
+        ],
+        "Language": [
+            "Castilian Spanish",
+            "Catalan",
+            "Galician",
+            "Basque",
+            "Occitan",
+            "Other languages"
+        ],
+        "Gastronomy": [
+            "Tapas",
+            "Paella",
+            "Jamón",
+            "Wine",
+            "Regional Cuisine"
+        ],
+        "Music and Dance": [
+            "Flamenco",
+            "Classical Music",
+            "Pop Music",
+            "Traditional Music"
+        ],
+        "Art and Architecture": [
+            "Mudejar Art",
+            "Gothic Architecture",
+            "Renaissance Architecture",
+            "Baroque Architecture",
+            "Modern Architecture"
+        ]
+    },
+    "Europe": {
+    "Western Europe": [
+      "United Kingdom",
+      "France",
+      "Portugal",
+      "Ireland",
+      "Belgium",
+      "Netherlands",
+      "Luxembourg"
+    ],
+    "Northern Europe": [
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Iceland"
+    ],
+    "Southern Europe": [
+      "Italy",
+      "Greece",
+      "Malta",
+      "Cyprus"
+    ],
+    "Eastern Europe": [
+      "Poland",
+      "Germany",
+      "Czech Republic",
+      "Slovakia",
+      "Hungary",
+      "Austria",
+      "Slovenia",
+      "Croatia",
+      "Bosnia and Herzegovina",
+      "Serbia",
+      "Montenegro",
+      "Albania",
+      "North Macedonia",
+      "Bulgaria",
+      "Romania",
+      "Moldova",
+      "Ukraine",
+      "Belarus",
+      "Russia"
+    ]
+  },
+  "Famous People": {
+      "Historical Politicians": [
+        "Leaders",
+        "Revolutionaries",
+        "Statesmen",
+        "Diplomats"
+      ],
+      "Scientists": [
+        "Physicists",
+        "Chemists",
+        "Biologists",
+        "Mathematicians",
+        "Astronomers"
+      ],
+      "Philosophers": [
+        "Ancient philosophers",
+        "Modern philosophers",
+        "Ethical philosophers"
+      ],
+      "Artists": [
+        "Painters",
+        "Sculptors",
+        "Architects",
+        "Musicians",
+        "Writers"
+      ],
+      "Explorers": [
+        "Conquistadors",
+        "Navigators",
+        "Adventurers"
+      ],
+      "Entertainment": [
+        "Actors",
+        "Actresses",
+        "Musicians",
+        "Athletes",
+        "Influencers"
+      ],
+      "Business": [
+        "Entrepreneurs",
+        "CEOs",
+        "Investors",
+        "Business magnates"
+      ],
+      "Politics": [
+        "World leaders",
+        "Activists",
+        "Politicians"
+      ],
+      "Science and Technology": [
+        "Tech entrepreneurs",
+        "Scientists",
+        "Inventors"
+      ],
+      "Area": [
+        "Famous americans",
+        "Famous catalans",
+        "Famous spaniards",
+        "Famous europeans",
+        "Famous africans",
+        "Famous asians",
+        "Famous oceanians"
+      ]
+  },
+  "Fixing Things": {
+      "Home Maintenance": [
+          "Leaky faucets",
+          "Clogged drains",
+          "Toilet repairs",
+          "Changing light bulbs",
+          "Replacing outlets",
+          "Fixing switches",
+          "Hanging pictures",
+          "Fixing shelves",
+          "Replacing doors"
+      ],
+      "Textile Repair": [
+          "Hemming",
+          "Patching",
+          "Zipper replacement",
+          "Fixing holes",
+          "Darning"
+        ],
+    "Troubleshooting": [
+        "Recognizing symptoms",
+        "Gathering information",
+        "Researching solutions",
+        "Testing potential fixes",
+        "Adapting solutions",
+        "Regular checks",
+        "Cleaning and upkeep"
+    ],
+      "Basic Tools": [
+        "Hammers",
+        "Screwdrivers",
+        "Pliers",
+        "Wrenches",
+        "Drills",
+        "Saws",
+        "Sanders",
+        "Protective gear",
+        "Proper handling"
+      ]
+  }
+}
