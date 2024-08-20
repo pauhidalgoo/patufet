@@ -35,7 +35,7 @@ def generate_content(field, topic, subtopic, chapters, current_chapter, current_
     The current chapter is called {current_chapter}, and we have written the following part(s) of it: {current_subunits}. You are going to be writing the sub-unit titled {current}. 
     Create it while trying to provide an in-depth explanation, be rigorous, engaging and avoiding incorrect information. You can use the knowledge you have in english, but the text must be in catalan. The content should be targeted to a {audience} audience, so {audience_description}.
     Include any examples, exercises, proofs, detailed analyses, equations, dates, key events, names... rellevant to the chapter.
-    Do not include a headline, title, introduction nor indications, simply write it. The language of the textbook must be in catalan. Do not include "[Continuarà]" or similar things.
+    Do not include a headline, title, introduction nor indications, simply write it. Avoid too much formatting (don't use **, # ...) and make it more narrative and like a real life book. The language of the textbook must be in catalan: do not include any word in spanish and make sure what you write is correct. Do not include "[Continuarà]" or similar things.
 """
     
     
@@ -55,8 +55,8 @@ def extract_units(text):
     lines = text.splitlines()
     
     for line in lines:
-        unit_match = re.match(r'^\*\*(\d+)\.\s(.+?)\*\*', line)
-        subunit_match = re.match(r'^(\d+\.\d+)\.?\s(.+)', line)
+        unit_match = re.match(r'^\s*(\d+)\.\s+([^\d].*?)\s*$', line)
+        subunit_match = re.match(r'^\s*(\d+\.\d+)\.?\s+(.+?)\s*$', line)
         
         if unit_match:
             if current_unit:
@@ -74,7 +74,7 @@ def extract_units(text):
     return units
 
 def generate_chapters(Field, Topic, Subtopic, Audience):
-    units_prompt = f"""Create the units and subunits for an imaginary textbook for the topic "{Field} - {Topic}: {Subtopic}" intended for a {Audience} audience. Focus on this topic and cover all aspects of it. The total number of subchapters for the whole textbook should be in range 10-20, not more. The textbook is in catalan, but you can use your knowledge in english. The output should have the following format:
+    units_prompt = f"""Create the units and subunits for an imaginary textbook for the topic "{Field} - {Topic}: {Subtopic}" intended for a {Audience} audience. Focus on this topic. The textbook is in catalan, but you can use your knowledge in english. The output should have the following format:
 1. Introducció a la biologia molecular
 1.1 Introducció
 2. Estructura i funció de les biomolècules
@@ -89,23 +89,22 @@ def generate_chapters(Field, Topic, Subtopic, Audience):
 3.3 Cinètica enzimàtica
 3.4 Transducció de senyals
 3.5 Receptors
-3.6 Segons missatgers
-3.7 Transport a la membrana
 4. Projectes i activitats
-... You must only write this index, do not in any case provide any type of explanation. Rembember the audience you are aiming for, and to just output the units in exactly the same format provided."""
+... You must only write this index, do not in any case provide any type of explanation. At most, the output should contain 25 sub-units, don't make the index too long. Rembember the audience you are aiming for, and to just output the units in Exactly the same format provided (same way of indexing)."""
     try:
         response = model.generate_content(units_prompt)
-        print(response.text)
         response = response.text
         units = extract_units(response)
     except Exception as e:
         units = None
+    print(response)
+    print(units)
     return units
 
 
 def save_results(data):
     df = pd.DataFrame(data)
-    df.to_csv("synthetic_textbooks.csv", mode='a', index=False)
+    df.to_csv("./textbooks/synthetic_textbooks.csv", mode='a', index=False)
 
 def main():
     topics = load_topics()
@@ -114,25 +113,33 @@ def main():
             for topic, subtopics in topics.items():
                 for subtopic in subtopics:
                     chapters = generate_chapters(field, topic, subtopic, audience)
-                    print(chapters)
                     done_chapters = []
+                    results = []
                     for chapter, subunits in chapters.items():
                         done_subunits = []
                         for subunit in subunits:
 
                             content = generate_content(field, topic, subtopic, done_chapters, chapter, done_subunits, subunit, audience)
-                            print(content)
-                            break
+
                             # Save the generated content. You must save, in different columns: text (the content generated), field, topic, subtopic, chapter, subunit, audience
 
+                            result = {
+                                'text': content,
+                                'field': field,
+                                'topic': topic,
+                                'subtopic': subtopic,
+                                'chapter': chapter,
+                                'subunit': subunit,
+                                'audience': audience
+                            }
+                            
+                            # Add the result to the list
+                            results.append(result)
                             
                             done_subunits.append(subunit)
                         done_chapters.append(chapter)
-                        break
-                    break
-                break
-            break
-        break
+                    save_results(results)
+                    return
 
 if __name__ == "__main__":
     main()
