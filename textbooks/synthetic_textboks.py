@@ -87,8 +87,9 @@ async def generate_content(field, topic, subtopic, chapters, current_chapter, cu
     prompt = f"""Write a detailed, very long and comprehensive textbook chapter on the topic of '{topic}-{subtopic}' under '{field}'. The previous chapter(s) that have already been covered are: {chapters}. 
     The current chapter is called {current_chapter}, and we have written the following part(s) of it: {current_subunits}. You are going to be writing the sub-unit titled {current}. 
     Create it while trying to provide an in-depth explanation, be rigorous, engaging and avoiding incorrect information. You can use the knowledge you have in English, but the text must be in Catalan. The content should be targeted to a {audience} audience, so {audience_description}.
-    Include any examples, exercises (solved), proofs, detailed analyses, equations, dates, key events, names... relevant to the chapter.
-    Do not include a headline, title, introduction, nor indications, simply write it. Make it more narrative and like a real-life book. Prioritize explanation to exercises. Don't use **, #... . The language of the textbook must be in Catalan: do not include any word in Spanish and make sure what you write is correct. Do not include "[Continuarà]" or similar things.
+    Include any examples, exercises (solved), proofs, detailed analyses, equations, dates, key events, names, places... relevant to the chapter. Avoid including a conclusion. Do not make orthography errors.
+    Do not include a headline, title, introduction, nor indications, simply write it. Make it more narrative and like a real-life book. Prioritize in-depth explanation to exercises. Don't use **, #... . The language of the textbook must be in Catalan: do not include any word in Spanish and make sure what you write is correct. Do not include "[Continuarà]" or similar things
+    Remember: in-depth explanations, detailed, very long, narrative and comprehensive.
 """
     
     async with semaphore:
@@ -172,12 +173,15 @@ async def process_topic(field, topic, subtopic, audience):
             done_subunits.append(subunit)
         done_chapters.append(chapter)
     
-    done, pending = await asyncio.wait(tasks)
-    contents = [task.result() for task in done]
+    try:
+        done, pending = await asyncio.wait(tasks)
+        contents = [task.result() for task in done]
 
-    results = [e for e in contents if e != None]
+        results = [e for e in contents if e != None]
 
-    await save_results(results)
+        await save_results(results)
+    except Exception as e:
+        logging.error(f"Failed to generate content for field: {field}, topic: {topic}, subtopic: {subtopic}. Error: {e}")
 
 async def main():
     all_themes = load_topics()
