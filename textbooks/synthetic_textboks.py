@@ -16,12 +16,14 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 logging.basicConfig(filename='./textbooks/error_log.txt', level=logging.ERROR,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
-MAX_CONCURRENT_REQUESTS = 30
+MAX_CONCURRENT_REQUESTS = 90
 MAX_REQUESTS_PER_MINUTE = 1000
 MAX_TOKENS_PER_MINUTE = 4000000
 
 semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
 
+
+total_tokens_estimate = 0
 token_usage = 0
 requests_count = 0
 minute_start_time = datetime.now()
@@ -41,6 +43,8 @@ audiences = {
 
 async def generate_chapters(field, topic, subtopic, audience):
     units_prompt = f"""Create the units and subunits for an imaginary textbook for the topic "{field} - {topic}: {subtopic}" intended for a {audience} audience. Focus on this topic. The textbook is in catalan, but you can use your knowledge in english. The output should have the following format:
+EXAMPLE:
+    
 1. Introducció a la biologia molecular
 1.1 Introducció
 2. Estructura i funció de les biomolècules
@@ -56,7 +60,8 @@ async def generate_chapters(field, topic, subtopic, audience):
 3.4 Transducció de senyals
 3.5 Receptors
 4. Projectes i activitats
-... You must only write this index, do not in any case provide any type of explanation. At most, the output should contain 25 sub-units, don't make the index too long. Remember the audience you are aiming for, and to just output the units in Exactly the same format provided (same way of indexing)."""
+... You must only write this index, do not in any case provide any type of explanation. At most, the output should contain 25 sub-units, don't make the index too long. Remember the audience you are aiming for, and to just output the units in Exactly the same format provided (same way of indexing). 
+Very important: the output style should match exactly the example."""
     
     async with semaphore:
         global requests_count, minute_start_time, token_usage
@@ -93,7 +98,7 @@ async def generate_content(field, topic, subtopic, chapters, current_chapter, cu
 """
     
     async with semaphore:
-        global requests_count, token_usage, minute_start_time
+        global requests_count, token_usage, minute_start_time, total_tokens_estimate
         if datetime.now() - minute_start_time >= timedelta(minutes=1):
             requests_count = 0
             token_usage = 0
@@ -110,6 +115,7 @@ async def generate_content(field, topic, subtopic, chapters, current_chapter, cu
             response = await model.generate_content_async(prompt)
             requests_count += 1
             token_usage += len(response.text.split())
+            total_tokens_estimate += len(response.text.split())
             if token_usage > MAX_TOKENS_PER_MINUTE:
                 logging.warning(f"Possible Token usage exceeded limit. Current usage: {token_usage} tokens.")
             result = {
@@ -190,8 +196,9 @@ async def main():
         for field, topics in all_themes.items():
             for topic, subtopics in topics.items():
                 for subtopic in subtopics:
-                    await process_topic(field, topic, subtopic, audience)
-    
+                    tasks.append(process_topic(field, topic, subtopic, audience))
+            await asyncio.gather(*tasks)
+            tasks = []
 
 if __name__ == "__main__":
     asyncio.run(main())
