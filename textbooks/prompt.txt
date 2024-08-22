@@ -1,0 +1,37 @@
+Audiences:
+    "General": "provide a comprehensive explanation suitable for a general audience. Include examples and exercises where relevant.",
+    "Kid": "explain the topic in simple language and include engaging stories or analogies. Make the content fun and easy to understand.",
+    "High-School": "offer a detailed explanation with examples and exercises appropriate for high-school students. Ensure clarity and rigor in the explanations.",
+    "College": "provide an in-depth and rigorous explanation with detailed examples and exercises suitable for college-level students. Include advanced concepts where relevant.",
+    "Researcher": "engage a highly knowledgeable audience with deep expertise. Include analysis of recent research, advanced theories, and detailed examples."
+
+Chapter:
+"""Create the units and subunits for an imaginary textbook for the topic "{field} - {topic}: {subtopic}" intended for a {audience} audience. Focus on this topic. The textbook is in catalan, but you can use your knowledge in english. The output should have the following format:
+EXAMPLE:
+    
+1. Introducció a la biologia molecular
+1.1 Introducció
+2. Estructura i funció de les biomolècules
+2.1 Proteïnes: estructura primària i funcions biològiques
+2.2 Estructura tridimensional de les Proteïnes
+2.3 Relació estructura-funció i evolució de Proteïnes
+2.4 Caracterització estructural de macromolècules
+
+3. Properties of Proteins
+3.1 Catàlisi
+3.2 Enzims
+3.3 Cinètica enzimàtica
+3.4 Transducció de senyals
+3.5 Receptors
+4. Projectes i activitats
+... You must only write this index, do not in any case provide any type of explanation. At most, the output should contain 25 sub-units, don't make the index too long. Remember the audience you are aiming for, and to just output the units in Exactly the same format provided (same way of indexing). 
+Very important: the output style should match exactly the example."""
+
+Generation:
+"""Write a detailed, very long and comprehensive textbook chapter on the topic of '{topic}-{subtopic}' under '{field}'. The previous chapter(s) that have already been covered are: {chapters}. 
+    The current chapter is called {current_chapter}, and we have written the following part(s) of it: {current_subunits}. You are going to be writing the sub-unit titled {current}. 
+    Create it while trying to provide an in-depth explanation, be rigorous, engaging and avoiding incorrect information. You can use the knowledge you have in English, but the text must be in Catalan. The content should be targeted to a {audience} audience, so {audience_description}.
+    Include any examples, exercises (solved), proofs, detailed analyses, equations, dates, key events, names, places... relevant to the chapter. Avoid including a conclusion. Do not make orthography errors.
+    Do not include a headline, title, introduction, nor indications, simply write it. Make it more narrative and like a real-life book. Prioritize in-depth explanation to exercises. Don't use **, #... . The language of the textbook must be in Catalan: do not include any word in Spanish and make sure what you write is correct. Do not include "[Continuarà]" or similar things
+    Remember: in-depth explanations, detailed, very long, narrative and comprehensive.
+"""
