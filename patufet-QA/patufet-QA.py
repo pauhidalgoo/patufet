@@ -149,7 +149,7 @@ async def process_and_save_example(field, topic, subtopic, chapter, subunit, tex
             })
         if qa_results:
             df = pd.DataFrame(qa_results)
-            df.to_csv('patufet-QA/patufet-QA.csv', mode='a', index=False, header=not os.path.exists('patufet-QA/patufet-QA.csv'))
+            df.to_csv('patufet-QA/patufet-QA_2.csv', mode='a', index=False, header=not os.path.exists('patufet-QA/patufet-QA_2.csv'))
     
     processed_examples += 1
     progress_percentage = (processed_examples / total_examples) * 100
