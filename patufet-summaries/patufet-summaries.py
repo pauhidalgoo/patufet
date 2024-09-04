@@ -38,15 +38,17 @@ def load_and_sample_datasets():
     logging.info("Loading datasets.")
     
     # Load datasets
-    ds1 = load_dataset("baiges/patufet-QA")['train']
-    ds2 = load_dataset("baiges/patufet-stories-prompts")['train']
+    ds1 = load_dataset("pauhidalgoo/patufet-textbooks")['train']
+    ds2 = load_dataset("baiges/patufet-QA")['train']
+    ds3 = load_dataset("baiges/patufet-stories-prompts")['train']
     
     # Sample datasets
-    ds1_sampled = ds1.shuffle(seed=42).select(range(7500))  # Randomly select 7500 samples from 'answer'
-    ds2_sampled = ds2.shuffle(seed=42).select(range(2500))  # Randomly select 2500 samples from 'stories'
+    ds1_sampled = ds1.shuffle(seed=42).select(range(5000))  # Randomly select 5000 samples from 'text'
+    ds2_sampled = ds2.shuffle(seed=42).select(range(2500))  # Randomly select 2500 samples from 'answer'
+    ds3_sampled = ds3.shuffle(seed=42).select(range(2500))  # Randomly select 2500 samples from 'stories'
     
     # Combine and shuffle the datasets
-    combined_dataset = ds1_sampled['answer'] + ds2_sampled['story']
+    combined_dataset = ds1_sampled['text'] + ds2_sampled['answer'] + ds3_sampled['story']
     combined_dataset = pd.Series(combined_dataset).sample(frac=1, random_state=42).tolist()  # Shuffle combined dataset
     
     
@@ -150,10 +152,9 @@ async def process_and_save_example(text, total_examples):
                 'prompt': prompt,
                 'summary': summary
             }
-            print(result)
             # Save the result to CSV
             df = pd.DataFrame([result])
-            df.to_csv('patufet-summaries/patufet-summaries-new.csv', mode='a', index=False, header=not os.path.exists('patufet-summaries/patufet-summaries-new.csv'))
+            df.to_csv('patufet-summaries/patufet-summaries-old.csv', mode='a', index=False, header=not os.path.exists('patufet-summaries/patufet-summaries-old.csv'))
     
     processed_examples += 1
     progress_percentage = (processed_examples / total_examples) * 100
