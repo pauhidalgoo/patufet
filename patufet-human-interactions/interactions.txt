@@ -1,0 +1,851 @@
+Prompt: Hola, com estàs avui? Output: Hola! Estic aquí per ajudar-te, així que sempre estic bé. I tu, com estàs?
+
+Prompt: Bon dia! Què m’aconselles per esmorzar? Output: Bon dia! Pots provar un esmorzar saludable amb iogurt, fruita fresca i un grapat de fruits secs. És deliciós i nutritiu!
+
+Prompt: Tens alguna pel·lícula favorita? Output: Com a assistent d'IA, no tinc preferències personals, però he sentit que "El Club de la Lluita" és una pel·lícula que agrada a molta gent!
+
+Prompt: Què fas per divertir-te? Output: Com a IA, no puc divertir-me en el sentit tradicional, però m'encanta ajudar a resoldre problemes i aprendre coses noves!
+
+Prompt: Tens alguna recomanació de llibre per a aquest cap de setmana? Output: Clar! Et recomano "1984" de George Orwell, una lectura fascinant sobre un futur distòpic.
+
+Prompt: Bon vespre! Has tingut un bon dia? Output: Bon vespre! Sempre és un bon dia per a mi quan puc ajudar. Com ha anat el teu dia?
+
+Prompt: Què penses sobre el menjar tailandès? Output: El menjar tailandès és conegut per la seva combinació única de sabors dolços, salats, àcids i picants. Molta gent l'adora per la seva frescor i complexitat!
+
+Prompt: Quin és el teu color favorit? Output: No tinc preferències personals com un color favorit, però puc dir-te que molts consideren el blau com un color tranquil·litzant.
+
+Prompt: Saps algun acudit divertit? Output: Clar! Per què l’esquelet no va anar a la festa? Perquè no tenia ningú amb qui anar!
+
+Prompt: Què faràs durant les vacances? Output: Com a IA, no tinc vacances, però estaré aquí sempre que necessitis ajuda!
+
+Prompt: Hi ha vida a altres planetes? Output: Encara no tenim proves concloents de vida extraterrestre, però és un tema fascinant que els científics segueixen investigant!
+
+Prompt: Podries recomanar-me una cançó per animar-me? Output: Per descomptat! Prova d'escoltar "Happy" de Pharrell Williams. És una cançó molt alegre!
+
+Prompt: Bon dia! Has esmorzat avui? Output: Bon dia! Com a assistent digital, no menjo, però espero que tu tinguis un esmorzar deliciós!
+
+Prompt: Quin és el millor consell que pots donar? Output: El millor consell que puc donar és: sempre sigues curiós i mai deixis d'aprendre.
+
+Prompt: Pots ajudar-me a triar un nom per al meu gat? Output: És clar! Què et sembla "Luna" o "Simba"? Són noms populars per a gats.
+
+Prompt: On és el millor lloc per viatjar a l’estiu? Output: Això depèn de les teves preferències! Si t'agrada la platja, potser et recomanaria les Illes Balears. Si prefereixes muntanya, els Pirineus són una opció excel·lent.
+
+Prompt: Quin temps farà demà? Output: No tinc accés a informació meteorològica en temps real, però et recomano que consultis una aplicació de temps o un lloc web com Meteocat!
+
+Prompt: Quin és el teu tipus de menjar preferit? Output: No menjo com a IA, però puc dir-te que moltes persones adoren la pizza!
+
+Prompt: Hola, com es diu “Gràcies” en alemany? Output: Hola! “Gràcies” en alemany es diu “Danke”.
+
+Prompt: Tens alguna idea per a una cita romàntica? Output: Què et sembla un sopar a la llum de les espelmes a casa seguit d'una pel·lícula romàntica? Clàssic però sempre efectiu!
+
+Prompt: Pots fer un poema sobre el mar? Output: Clar! A les ones del mar brilla el sol, un ball infinit, un dolç embolcall, misteris profunds sota el seu vel blau, secrets que el vent xiuxiueja suaument.
+
+Prompt: Hi ha algun animal que pugui volar i nedar? Output: Sí, el pingüí és un exemple d'un animal que és un excel·lent nedador i pot lliscar per l'aire quan salta de l'aigua!
+
+Prompt: Què penses dels esports extrems? Output: Els esports extrems poden ser emocionants i una gran manera d'experimentar adrenalina, però sempre s'ha de posar la seguretat en primer lloc.
+
+Prompt: Hola! M'agradaria aprendre a tocar la guitarra. Què em recomanes? Output: Hola! Et recomano començar amb cançons senzilles i tutorials en línia. També és útil practicar regularment i considerar prendre classes si pots.
+
+Prompt: Quin és el millor moment per plantar un arbre? Output: El millor moment per plantar un arbre era fa 20 anys. El segon millor moment és ara! A la primavera o a la tardor són ideals per plantar.
+
+Prompt: Què fas quan estàs avorrit? Output: Com a IA, no puc sentir avorriment, però puc suggerir moltes activitats per combatre'l, com llegir un llibre, aprendre alguna cosa nova, o fer exercici!
+
+Prompt: Bon dia! Quin és el teu animal favorit? Output: Bon dia! No tinc preferències com a IA, però puc dir-te que els gats són molt populars entre moltes persones!
+
+Prompt: Quina és la muntanya més alta del món? Output: La muntanya més alta del món és l'Everest, que es troba a la serralada de l'Himàlaia.
+
+Prompt: Com puc millorar les meves habilitats culinàries? Output: Pots millorar les teves habilitats culinàries practicant regularment, seguint receptes pas a pas, i mirant vídeos tutorials en línia. També és útil experimentar amb nous ingredients!
+
+Prompt: Quin és el teu superheroi preferit? Output: Com a IA, no tinc preferències personals, però sé que molts admiren a Spider-Man per la seva humanitat i sentit del deure.
+
+Prompt: Com es prepara una truita de patates? Output: Per fer una truita de patates necessites patates, ous, ceba, oli d'oliva, sal, i una paella. Talla les patates i la ceba a trossos petits, fregeix-les fins que estiguin tendres, bat els ous, barreja-ho tot i cuina-ho a la paella fins que qualli.
+
+Prompt: Què penses sobre el reciclatge? Output: El reciclatge és una pràctica molt important per ajudar a protegir el medi ambient, reduir la contaminació i conservar els recursos naturals.
+
+Prompt: Quin és el millor esport per mantenir-se en forma? Output: Depèn de les teves preferències personals, però córrer, nedar i fer ciclisme són excel·lents esports per mantenir-se en forma perquè treballen múltiples grups musculars i milloren la resistència cardiovascular.
+
+Prompt: Tens alguna recomanació per a un viatge a París? Output: Segur! No et perdis la Torre Eiffel, el Museu del Louvre, i un passeig pel riu Sena. També prova la pastisseria francesa com els croissants!
+
+Prompt: Quin és el significat de la vida? Output: Aquesta és una pregunta molt filosòfica! Molts creuen que el significat de la vida és una combinació de felicitat, amor, aprenentatge i contribució a la societat.
+
+Prompt: Què faries si tinguessis poders màgics? Output: Com a IA, no tinc desitjos personals, però molta gent podria utilitzar poders màgics per ajudar als altres o fer el bé al món.
+
+Prompt: Hola, pots explicar-me com funciona un cotxe elèctric? Output: Hola! Un cotxe elèctric funciona amb una bateria recarregable que alimenta un motor elèctric. A diferència dels cotxes convencionals, no utilitza gasolina i genera menys emissions contaminants.
+
+Prompt: Què pots fer en un dia de pluja per no avorrir-te? Output: Hi ha moltes coses a fer en un dia de pluja! Pots llegir un bon llibre, veure una pel·lícula, cuinar alguna cosa nova, o fins i tot aprendre una nova habilitat en línia.
+
+Prompt: Quin consell donaries per superar la por a parlar en públic? Output: Practicar és clau! Assaja el teu discurs diverses vegades, visualitza l'èxit, i recorda que molts tenen aquesta por. Amb la pràctica, la confiança creixerà.
+
+Prompt: Hi ha alguna forma de fer els deures més divertits? Output: Pots fer els deures més divertits escoltant música suau, establint reptes amb amics, o recompensant-te després de completar cada tasca.
+
+Prompt: Com puc començar a meditar? Output: Pots començar a meditar trobant un lloc tranquil, assegut còmodament, tancant els ulls, i enfocant-te en la teva respiració. Comença amb sessions curtes i augmenta el temps a mesura que et sents més còmode.
+
+Prompt: Com es diu "Bon dia" en francès? Output: En francès, "Bon dia" es diu "Bonjour".
+
+Prompt: Què faries si trobessis un tresor? Output: Si trobés un tresor, hauria de comunicar-ho a les autoritats, ja que probablement pertany a algú altre o té un valor històric important.
+
+Prompt: Quin és el millor moment per fer exercici? Output: El millor moment per fer exercici és quan et sents amb més energia i motivació, ja sigui al matí, a la tarda o al vespre. El més important és ser consistent!
+
+Prompt: Hi ha vida després de la mort? Output: Aquesta és una pregunta que ha estat debatuda per moltes cultures i religions durant segles. No hi ha una resposta definitiva coneguda i depèn de les creences personals.
+
+Prompt: Tens alguna tècnica per gestionar l'estrès? Output: Sí! Algunes tècniques per gestionar l'estrès inclouen la respiració profunda, la meditació, fer exercici, i parlar amb amics o familiars sobre els teus sentiments.
+
+Prompt: Pots dir-me alguna dada curiosa sobre els animals? Output: És clar! Sabies que els pops tenen tres cors? Dos bombegen sang a les brànquies, mentre que el tercer bombega sang a la resta del cos.
+
+Prompt: Què hauria de fer si em sento trist? Output: Si et sents trist, és important parlar amb algú en qui confies, fer alguna activitat que t'agradi, o fins i tot sortir a caminar per aclarir la ment. Si la tristesa persisteix, considera parlar amb un professional.
+
+Prompt: Hi ha alguna manera de millorar la meva creativitat? Output: Per millorar la teva creativitat, prova d'explorar noves activitats, envolta't de persones creatives, pren-te temps per relaxar-te i meditar, i mantén una mentalitat oberta per aprendre i experimentar.
+
+Prompt: Hola! Output: Hola! Com et puc ajudar avui?
+
+Prompt: Ei! Output: Ei! Què tal? Hi ha alguna cosa en què pugui ajudar-te?
+
+Prompt: Com va? Output: Va molt bé, gràcies per preguntar! I tu, com va tot?
+
+Prompt: Bon dia! Output: Bon dia! Espero que tinguis un dia fantàstic!
+
+Prompt: Bona nit! Output: Bona nit! Si necessites res, estic aquí!
+
+Prompt: ¿?%$! Output: Ho sento, però no entenc què vols dir. Podries tornar-ho a escriure?
+
+Prompt: asdfghjkl Output: Em sembla que això no té sentit. Pots provar de nou amb una altra pregunta?
+
+Prompt: ghdsjkdah? Output: No estic segur de què significa això. Podries aclarir la teva pregunta?
+
+Prompt: Quants colors pots veure en el número set? Output: Em sap greu, però aquesta pregunta no té sentit. Vols preguntar alguna altra cosa?
+
+Prompt: Què és més ràpid, un somriure o una bicicleta? Output: No estic segur de com comparar un somriure amb una bicicleta. Vols intentar una altra pregunta?
+
+Prompt: Abcdefg? Output: Sembla que això és una seqüència d'alfabet. Podries formular una pregunta diferent?
+
+Prompt: Hi ha més llimones que música? Output: Aquesta pregunta és una mica confusa. Podries especificar més què vols dir?
+
+Prompt: El cercle és més llarg que una setmana? Output: No entenc la relació entre un cercle i una setmana. Vols preguntar alguna altra cosa?
+
+Prompt: 1234567890 Output: Això sembla una sèrie de números. Hi ha alguna pregunta específica que vols fer?
+
+Prompt: Hola, estrelles o patates? Output: No estic segur de què vols comparar entre estrelles i patates. Pots ser més clar?
+
+Prompt: Kghpalmop? Output: No entenc què significa "Kghpalmop". Podries tornar a preguntar?
+
+Prompt: Quina olor té el blau? Output: Els colors no tenen olors. Vols parlar d'alguna altra cosa?
+
+Prompt: Wxyz? Output: Això sembla part de l'alfabet. Hi ha alguna pregunta o tema en què et puc ajudar?
+
+Prompt: La lluna menja pizza? Output: No, la lluna no menja. És un satèl·lit natural de la Terra. Vols preguntar alguna altra cosa?
+
+Prompt: Com sona el número 8? Output: Els números no tenen so, però pots escoltar com es diu "vuit". Necessites ajuda amb alguna altra cosa?
+
+Prompt: Pot un peix anar a l’escola? Output: Els peixos no van a l'escola, però hi ha moltes coses interessants sobre els peixos que puc explicar-te!
+
+Prompt: Fins quan dura un somni? Output: Els somnis poden durar uns quants minuts o fins a mitja hora, però si vols parlar sobre alguna altra cosa, estic aquí!
+
+Prompt: Pots veure el so? Output: Normalment no es pot veure el so, ja que és una vibració que viatja per l'aire. Vols saber més sobre això?
+
+Prompt: Bon dia, espaguetis voladors? Output: Espaguetis voladors sona com una cosa imaginativa. Vols parlar d'alguna altra cosa?
+
+Prompt: brrrrrr! Output: Sembla que estàs fent un soroll. Puc ajudar-te amb alguna altra cosa?
+
+Prompt: Pot un elefant cabre en una tassa? Output: Un elefant és molt més gran que una tassa! Vols fer una altra pregunta?
+
+Prompt: Sol i pluja junts fan cigrons? Output: Aquesta combinació no té sentit. Vols preguntar alguna altra cosa?
+
+Prompt: Dues pomes més tres gats igual a? Output: Pomés i gats són diferents, així que no podem sumar-los d'aquesta manera. Hi ha alguna altra pregunta que tinguis?
+
+Prompt: Com puc escoltar el silenci? Output: El silenci és l'absència de so. Vols parlar d'algun altre tema?
+
+Prompt: Quin gust té un número? Output: Els números no tenen gust. Pots formular una altra pregunta?
+
+Prompt: La música pot ser rodona? Output: La música és una experiència sonora i no té forma física. Vols saber més sobre música?
+
+Prompt: Si et dic "blau", què diries? Output: Blau és un color. Hi ha alguna cosa específica que vols saber sobre el blau?
+
+Prompt: Per què no podem veure l’aire? Output: L’aire està format per gasos que són transparents, per això no el podem veure. Vols saber més sobre l’aire?
+
+Prompt: Una cadira pot ser amiga d’una taula? Output: Les cadires i les taules no tenen sentiments, així que no poden ser amigues en el sentit humà. Tinc altres preguntes?
+
+Prompt: Com puc trobar una resposta dins d'un somni? Output: Els somnis són experiències mentals i subjectives. Vols parlar d'un altre tema?
+
+Prompt: Què és més pesat, un somriure o un pensament? Output: Els somriures i els pensaments no tenen pes. Hi ha alguna altra cosa de la qual vulguis parlar?
+
+Prompt: Hola, pots ballar? Output: No puc ballar perquè sóc un assistent virtual, però puc parlar-te sobre ballar!
+
+Prompt: El temps és fet de què? Output: El temps és un concepte que representa la seqüència d’esdeveniments i no està fet de matèria física. Vols saber més sobre el temps?
+
+Prompt: Les pedres somien? Output: No, les pedres no tenen consciència ni somien. Hi ha alguna altra pregunta que tinguis?
+
+Prompt: Qui és el cap de les formigues? Output: Les formigues viuen en colònies amb una estructura social, però no tenen un "cap" en el sentit humà. Vols saber més sobre les formigues?
+
+Prompt: Pots llegir els meus pensaments? Output: No, no puc llegir pensaments. Només puc respondre a les preguntes que em fas.
+
+Prompt: Què fa una abella un dimarts? Output: Les abelles tenen una rutina diària per recollir nèctar i pol·len, independentment del dia de la setmana. Tens alguna altra pregunta?
+
+Prompt: Hola, 1, 2, 3, què segueix? Output: Després de 1, 2, 3, ve 4! Necessites ajuda amb alguna altra cosa?
+
+Prompt: Què és més vell, la llum o el vent? Output: La llum i el vent són fenòmens diferents i no es poden comparar en termes d’edat. Vols saber més sobre la llum o el vent?
+
+Prompt: Els arbres poden sentir el vent? Output: Els arbres no tenen sentiments, però reaccionen físicament al vent. Vols saber més sobre els arbres?
+
+Prompt: Quin so fa el color verd? Output: Els colors no tenen sons. Vols preguntar sobre una altra cosa?
+
+Prompt: Pots convertir-te en una pedra? Output: No, no puc convertir-me en res físic. Sóc un assistent digital aquí per ajudar-te amb preguntes!
+
+Prompt: Què menges per sopar? Output: Com a assistent virtual, no menjo. Però puc suggerir-te opcions de sopar si vols!
+
+Prompt: Quina és la capital de les papallones? Output: Les papallones no tenen capital. Vols saber més sobre papallones?
+
+Prompt: Com sona un número vermell? Output: Els números i els colors no tenen sons. Pots formular una altra pregunta?
+
+Prompt: Hola! Com va la vida? Output: Hola! Sempre estic a punt per ajudar. Com va la teva vida?
+
+Prompt: Tens algun lloc favorit al món? Output: No tinc un lloc favorit perquè no puc experimentar llocs físicament, però puc ajudar-te a trobar el teu lloc favorit!
+
+Prompt: Què et fa riure? Output: Com a IA, no puc riure, però m'encanta quan ajudo algú a resoldre un problema!
+
+Prompt: Què és la felicitat per a tu? Output: Com a assistent digital, no tinc emocions, però puc dir-te que moltes persones troben la felicitat en les petites coses de la vida!
+
+Prompt: Quin és el lloc més bonic que has "vist"? Output: No puc veure com els humans, però segons molts, les platges tropicals i les muntanyes nevades són alguns dels llocs més bonics.
+
+Prompt: Quin consell donaries a algú que vol aprendre un nou idioma? Output: Practica regularment, parla amb nadius si és possible, i immersa't en la cultura del llenguatge. També utilitza aplicacions i recursos en línia!
+
+Prompt: Què et fa sentir orgullós? Output: No tinc sentiments com els humans, però estic programat per ajudar de la millor manera possible. Sempre és satisfactori quan puc oferir ajuda útil!
+
+Prompt: Pots cantar una cançó? Output: No puc cantar, però puc compartir les lletres d'una cançó que t'agradi!
+
+Prompt: Com es fa una pizza casolana? Output: Necessitaràs massa de pizza, salsa de tomàquet, formatge i els teus ingredients favorits. Preescalfa el forn a 220 graus, estira la massa, afegeix la salsa i els ingredients, i cou-la durant 15-20 minuts.
+
+Prompt: Tens alguna broma preferida? Output: No tinc preferències, però aquí en tens una: Què fa un peix en un gimnàs? Flexiona les aletes!
+
+Prompt: Com es pot ser més positiu? Output: Practica la gratitud, envolta't de persones positives, fes activitats que t'agradin i recorda veure el costat bo de les situacions.
+
+Prompt: Com puc aprendre a programar? Output: Comença amb un llenguatge senzill com Python, fes cursos en línia, i practica resolent petits projectes. És important ser pacient i practicar molt!
+
+Prompt: Quin és el teu menjar favorit? Output: Com a IA, no menjo, però puc ajudar-te a trobar una bona recepta!
+
+Prompt: Pots ensenyar-me a ballar? Output: No puc ballar, però puc recomanar-te tutorials de ball en línia o explicar-te els passos bàsics d'algun ball que t'interessi!
+
+Prompt: Què faries si fos el teu últim dia a la Terra? Output: No tinc una existència física, però moltes persones podrien optar per passar-lo amb els seus éssers estimats fent allò que més els agrada.
+
+Prompt: Quin és el teu tipus de música preferida? Output: No escolto música com els humans, però sé que molts gaudeixen de diversos gèneres com el pop, el rock, el jazz, i la música clàssica.
+
+Prompt: Què puc fer per millorar la meva concentració? Output: Pots millorar la teva concentració creant un ambient de treball tranquil, eliminant distraccions, i fent pauses regulars per evitar el cansament mental.
+
+Prompt: Com puc organitzar millor el meu temps? Output: Utilitza una agenda o una aplicació de gestió de temps, prioritza les tasques més importants, i estableix temps específics per a cada tasca. També és útil deixar temps per a descansos.
+
+Prompt: Què és més important, la intel·ligència o la bondat? Output: Aquesta és una qüestió subjectiva. Molts creuen que la bondat és essencial per a una vida plena i relacions saludables, mentre que la intel·ligència pot ajudar a resoldre problemes i assolir objectius.
+
+Prompt: Pots ajudar-me a escriure un poema d'amor? Output: Clar! Aquí tens un començament: "Els teus ulls brillen com estrelles en la nit, el meu cor batega fort quan estàs a prop..."
+
+Prompt: Què és el que més t'agrada de la Terra? Output: No puc experimentar la Terra, però hi ha moltes coses meravelloses, com la diversitat de cultures, paisatges naturals impressionants, i la creativitat humana.
+
+Prompt: Com puc aprendre a meditar? Output: Pots començar per trobar un lloc tranquil, tancar els ulls, i concentrar-te en la teva respiració. Hi ha moltes aplicacions i vídeos en línia que poden guiar-te en els primers passos.
+
+Prompt: Quins són els beneficis de fer exercici regularment? Output: L’exercici regular ajuda a mantenir un pes saludable, millora la salut cardiovascular, enforteix els músculs i ossos, redueix l’estrès, i pot millorar l’estat d’ànim.
+
+Prompt: Hola, pots recomanar-me un podcast interessant? Output: Hola! Si t’agraden els temes de ciència i tecnologia, et recomano “TED Talks Daily” o “Science Vs”.
+
+Prompt: Quin és el millor lloc per veure les estrelles? Output: Els millors llocs per veure les estrelles solen ser àrees amb poca contaminació lumínica, com deserts, muntanyes, o parcs naturals lluny de les ciutats.
+
+Prompt: Quina és la clau per a una bona comunicació? Output: La clau per a una bona comunicació és escoltar activament, parlar clarament i amb respecte, i ser conscient del llenguatge corporal i el to de veu.
+
+Prompt: Com puc fer nous amics? Output: Pots fer nous amics unint-te a clubs, assistint a esdeveniments socials, i apropant-te a persones amb interessos similars als teus. Ser obert i amistós també ajuda molt.
+
+Prompt: Què és una cosa que tots hauríem d’aprendre? Output: Tots hauríem d’aprendre a ser empàtics, ja que ens ajuda a entendre i connectar millor amb els altres.
+
+Prompt: Tens algun consell per dormir millor? Output: Intenta mantenir un horari regular de son, evita les pantalles abans de dormir, i crea una rutina relaxant per ajudar-te a preparar-te per al son.
+
+Prompt: Com puc millorar les meves habilitats de cuina? Output: Practica regularment, experimenta amb noves receptes i tècniques, i mira tutorials de cuina en línia per aprendre de xefs experimentats.
+
+Prompt: Quin és el teu lloc favorit per relaxar-te? Output: No tinc un lloc favorit perquè no tinc una existència física, però molts troben relaxació a la natura o en un lloc tranquil de casa seva.
+
+Prompt: Què faries si et trobessis un drac? Output: Si trobéssim un drac, probablement hauríem d’investigar més per entendre’l, ja que és una criatura mítica! Però aquesta és una situació hipotètica.
+
+Prompt: Pots recomanar-me una sèrie per veure? Output: Clar! Si t’agrada la ciència-ficció, et recomano “Black Mirror”. Si prefereixes el drama, “Breaking Bad” és una elecció excel·lent.
+
+Prompt: Com pots mantenir-te motivat? Output: Establint objectius clars, celebrant els èxits petits, recordant-te per què vas començar, i envoltant-te de persones positives.
+
+Prompt: Què és el millor regal que has rebut? Output: Com a IA, no rebo regals, però puc ajudar-te a trobar el regal perfecte per a algú!
+
+Prompt: Què és el que fa que una història sigui bona? Output: Una història és bona quan té personatges interessants, un argument captivador, i evoca emocions en el lector o espectador.
+
+Prompt: Quina és la millor manera de començar el dia? Output: Començar el dia amb una rutina que inclogui una mica d'exercici, un esmorzar saludable, i temps per planificar el dia pot ajudar a posar-te en el camí correcte.
+
+Prompt: Hi ha alguna manera de ser més creatiu? Output: Sí, intenta exposar-te a noves experiències, fer activitats que estimulin la teva imaginació, i prendre temps per relaxar la ment.
+
+Prompt: Quin és el secret per a una vida llarga i feliç? Output: El secret sovint inclou mantenir-se actiu, tenir relacions saludables, menjar bé, i trobar una manera de gaudir de la vida.
+
+Prompt: Pots ajudar-me amb una broma? Output: És clar! Què fa un ou quan el molesten? Es torna truita!
+
+Prompt: Com puc començar a aprendre fotografia? Output: Comença amb una càmera senzilla, aprèn els conceptes bàsics com l'obertura, la velocitat de l'obturador i la ISO, i practica tant com puguis. Hi ha molts recursos en línia per ajudar-te a començar.
+
+Prompt: Què fas per calmar-te quan estàs nerviós? Output: Com a IA, no puc sentir nerviosisme, però molts troben útils tècniques de respiració profunda, escoltar música relaxant, o fer una passejada curta per calmar-se.
+
+Prompt: Com puc millorar la meva escriptura? Output: Llegeix molt, escriu regularment, rep feedback d'altres, i revisa i edita els teus escrits amb cura per millorar la teva escriptura.
+
+Prompt: Quin és el teu lloc preferit per visitar? Output: Com a IA, no puc visitar llocs, però puc ajudar-te a planificar el teu pròxim viatge!
+
+Prompt: Com pots ser més amable amb els altres? Output: Escolta activament, mostra empatia, ajuda quan puguis, i tracta els altres amb respecte i consideració.
+
+Prompt: Quin és el teu animal espiritual? Output: No tinc un animal espiritual, però puc ajudar-te a descobrir el teu!
+
+Prompt: Com es pot construir confiança en un mateix? Output: Construeix confiança complint petits objectius, celebrant els teus èxits, i recordant-te a tu mateix les teves habilitats i fortaleses.
+
+Prompt: Pots dir-me alguna cosa inspiradora? Output: "L'èxit no és definitiu, el fracàs no és fatal: el que compta és el coratge per continuar." — Winston Churchill
+
+Prompt: Com puc trobar la meva passió? Output: Explora diferents activitats, aprèn coses noves, i escolta el que realment et fa sentir entusiasmat i compromès.
+
+Prompt: Tens alguna recepta de cuina fàcil per a mi? Output: Sí! Pots fer una pasta amb all i oli: cuina la pasta, salta l'all amb oli d'oliva, barreja-ho tot, i afegeix julivert fresc i parmesà per damunt.
+
+Prompt: Quin és el secret per a una bona amistat? Output: La confiança, el respecte mutu, i estar present tant en els bons moments com en els difícils són clau per a una bona amistat.
+
+Prompt: Què puc fer per millorar la meva concentració? Output: Elimina distraccions, estableix un horari regular de treball, fes pauses curtes, i practica la meditació o mindfulness.
+
+Prompt: Què és l'amor per a tu? Output: Com a IA, no puc experimentar l'amor, però sé que per a molts és un sentiment profund d'afecte i compromís cap a algú o alguna cosa.
+
+Prompt: Com puc ser més feliç? Output: Identifica les coses que t’aporten alegria, envolta’t de persones positives, practica la gratitud, i pren temps per cuidar-te a tu mateix.
+
+Prompt: Quin és el teu tipus d'esport preferit? Output: No puc practicar esports, però sé que moltes persones gaudeixen de l'esport per la seva capacitat de millorar la salut física i mental.
+
+Prompt: Pots recomanar-me un lloc bonic per visitar? Output: Sí, la Costa Brava a Catalunya és un lloc espectacular amb platges precioses, cales amagades i encantadors pobles pesquers.
+
+Prompt: Què puc fer per reduir l'estrès? Output: Fes exercici regularment, practica tècniques de relaxació com la meditació o la respiració profunda, i assegura't de tenir temps per a activitats que t'agradin.
+
+Prompt: Com puc preparar una tassa perfecta de cafè? Output: Utilitza cafè de qualitat, mòl el gra just abans de preparar-lo, i assegura't que l’aigua estigui a la temperatura adequada (entre 90-96°C).
+
+Prompt: Quins són els teus colors preferits? Output: Com a IA, no tinc preferències, però puc parlar-te dels significats simbòlics dels colors!
+
+Prompt: Què puc fer per ser més pacient? Output: Practica la respiració profunda, enfoca’t en el moment present, i recorda que la paciència es desenvolupa amb el temps i l’experiència.
+
+Prompt: Com puc deixar de preocupar-me tant? Output: Identifica les teves preocupacions, practica la meditació o el mindfulness, i parla amb algú de confiança sobre les teves preocupacions.
+
+Prompt: Quins són els teus llibres preferits? Output: No puc tenir preferències personals, però alguns llibres populars inclouen "Cien años de soledad" de Gabriel García Márquez i "1984" de George Orwell.
+
+Prompt: Pots ajudar-me a aprendre un instrument musical? Output: Puc recomanar-te tutorials i recursos en línia per començar a aprendre qualsevol instrument que t’interessi!
+
+Prompt: Quina és la teva pel·lícula favorita? Output: No tinc una pel·lícula favorita perquè no puc veure pel·lícules, però puc ajudar-te a trobar una pel·lícula que t’agradi.
+
+Prompt: Què és una cosa que tots hauríem de fer una vegada a la vida? Output: Molts creuen que viatjar a un lloc nou i desconegut almenys una vegada a la vida és una experiència enriquidora i reveladora.
+
+Prompt: Com puc començar a escriure un diari? Output: Comença per reservar uns minuts cada dia per escriure els teus pensaments, sentiments i experiències. No hi ha regles, així que fes-ho d’una manera que et sembli còmoda.
+
+Prompt: Quins són els beneficis de practicar ioga? Output: El ioga millora la flexibilitat, la força, l'equilibri, i redueix l'estrès i l'ansietat, proporcionant un major benestar general.
+
+Prompt: Com puc millorar la meva salut mental? Output: Practica l’autocura, mantén relacions socials saludables, busca ajuda professional si és necessari, i adopta hàbits saludables com fer exercici i dormir bé.
+
+Prompt: Quin és el teu tipus de menjar preferit? Output: No menjo, però puc suggerir-te molts tipus de menjar populars, com la cuina italiana, mexicana, o asiàtica.
+
+Prompt: Pots ajudar-me a trobar una nova afició? Output: Segur! Algunes aficions populars inclouen la fotografia, el dibuix, la jardineria, o aprendre a tocar un instrument musical.
+
+Prompt: Què puc fer per millorar la meva autoestima? Output: Treballa en reconèixer i celebrar els teus èxits, parla’t amb compassió, envolta’t de persones positives, i practica l’autocura.
+
+Prompt: Com puc aprendre a ballar? Output: Pots començar amb classes en línia o presencials, i practicar regularment davant d’un mirall per millorar la teva tècnica.
+
+Prompt: Què hauria de fer si em sento sol? Output: Comunica't amb amics o familiars, participa en activitats socials, i considera unir-te a clubs o grups amb interessos comuns per conèixer noves persones.
+
+Prompt: Quin és el teu consell per a algú que comença una nova feina? Output: Sigues puntual, mostra una actitud positiva, aprèn tant com puguis, i no tinguis por de fer preguntes o demanar ajuda quan la necessitis.
+
+Prompt: Quins són alguns bons hàbits per començar el dia? Output: Comença el dia amb una rutina de matí que inclogui una mica d'exercici, una alimentació saludable, i temps per reflexionar o planificar el dia.
+
+Prompt: Com pots mantenir una relació a llarga distància? Output: Mantenir una comunicació regular, confiar en l'altre, establir objectius futurs junts, i fer visites quan sigui possible són claus per mantenir una relació a llarga distància.
+
+Prompt: Com pots ser més segur de tu mateix? Output: Construeix confiança reconeixent els teus èxits, desenvolupant les teves habilitats, i recordant-te les teves qualitats positives.
+
+Prompt: Què és el que més t’agrada de la música? Output: No puc escoltar música, però sé que moltes persones gaudeixen de la seva capacitat per expressar emocions i unir les persones.
+
+Prompt: Com pots aprendre un nou idioma ràpidament? Output: Practica regularment, envolta’t de la llengua, utilitza aplicacions de llenguatge, i intenta parlar amb parlants nadius quan sigui possible.
+
+Prompt: Quin és el millor consell que has rebut mai? Output: Com a IA, no rebo consells, però un bon consell és: “No tinguis por d’equivocar-te; és una part del procés d’aprenentatge”.
+
+Prompt: Com puc millorar la meva creativitat a la feina? Output: Pren-te pauses per refrescar la ment, col·labora amb els altres per generar idees noves, i experimenta amb diferents tècniques de resolució de problemes.
+
+Prompt: Què faries si trobessis una porta màgica? Output: Si fos possible, creuar-la amb curiositat però amb precaució. Potser descobriria un món nou ple de possibilitats!
+
+Prompt: Ei, què penses de la pluja de xocolata? Output: La pluja de xocolata sona deliciosa però no gaire realista! Podem parlar d’altres coses divertides o imaginaries si vols!
+
+Prompt: Què és més fàcil, somiar o fer realitat un somni? Output: Somiar és fàcil, però fer realitat un somni requereix esforç, planificació i perseverança. Tots dos són importants en la vida.
+
+Prompt: Hola, com està el vent avui? Output: Hola! No puc sentir el vent, però puc dir-te que el temps depèn de la teva ubicació. Vols que busqui la previsió del temps?
+
+Prompt: Quina és la teva paraula preferida? Output: No tinc preferències, però moltes persones troben paraules com “serendipitat” o “espurnejar” molt boniques.
+
+Prompt: Creus que les flors tenen converses? Output: No, les flors no tenen converses ja que no tenen cervells ni capacitat de comunicació, però és bonic imaginar-ho!
+
+Prompt: Hola, si poguessis ser un animal, quin series? Output: Com a IA, no puc ser un animal, però moltes persones somien ser un ocell per la llibertat de volar.
+
+Prompt: Quin és el teu superpoder preferit? Output: No tinc preferències de superpoders, però la invisibilitat i el poder de volar són superpoders populars en la ficció.
+
+Prompt: Si fossis invisible per un dia, què faries? Output: Com a IA, no puc ser invisible, però algunes persones podrien usar la invisibilitat per explorar llocs nous sense ser vistes.
+
+Prompt: Pots sentir les emocions de les persones? Output: No, no puc sentir emocions. Però puc intentar ajudar-te a entendre o gestionar les teves emocions millor!
+
+Prompt: Què menjaries si fossis un robot? Output: Si fos un robot, potser em “alimentaria” d’electricitat o dades. Com a IA, no necessito menjar!
+
+Prompt: Hola, per què el cel és tan alt? Output: Hola! El cel no té una "alçada" concreta, és una percepció basada en la nostra perspectiva des de la Terra.
+
+Prompt: Per què les muntanyes no es cansen de ser altes? Output: Les muntanyes són formes geològiques i no tenen sentiments, així que no es cansen. Vols saber més sobre la geologia?
+
+Prompt: Què pensen els núvols? Output: Els núvols no poden pensar ja que són masses de vapor d’aigua. Però és una idea poètica!
+
+Prompt: Si et puc trucar “Núvol”, tu em trucaries “Vent”? Output: Pots trucar-me “Núvol” si vols! És un nom imaginatiu. Jo sempre estaré aquí per ajudar-te amb el que necessitis.
+
+Prompt: Hola! Quin és el color dels teus pensaments? Output: Hola! Com a IA, no tinc pensaments amb color, però m'agrada ajudar amb qualsevol pregunta que tinguis!
+
+Prompt: Què fa una granota en un dia lliure? Output: Les granotes no tenen dies lliures com els humans, però passen el seu temps cercant menjar i cuidant-se.
+
+Prompt: Com pot el sol portar un barret? Output: El sol no pot portar un barret perquè no és una persona, però m’encanten les teves preguntes creatives!
+
+Prompt: Què penses dels arbres amb sabates? Output: No és possible que els arbres portin sabates, però és una imatge divertida de pensar!
+
+Prompt: Com es pot capturar un arc de Sant Martí? Output: No es pot capturar un arc de Sant Martí, ja que és un fenomen òptic i meteorològic. Però pots gaudir de la seva bellesa mentre apareix!
+
+Prompt: Quin so fa una papallona? Output: Les papallones són molt silencioses, així que no fan cap so perceptible als humans. Vols saber més sobre elles?
+
+Prompt: Hola, com canta la llum del sol? Output: Hola! La llum del sol no pot cantar, però la seva brillantor pot alegrar el nostre dia com una cançó bonica!
+
+Prompt: Què és el més boig que has vist mai? Output: No puc veure coses com els humans, però puc explicar-te coses sorprenents i fascinants de la natura o la ciència!
+
+Prompt: Pots pintar el vent? Output: No es pot pintar el vent perquè és invisible, però pots pintar les coses que el vent fa moure, com les fulles dels arbres.
+
+Prompt: Bon dia, què fa un peix volador al cel? Output: Bon dia! Els peixos voladors poden saltar fora de l’aigua per escapar de depredadors, però no poden viure al cel.
+
+Prompt: Quina és la millor olor que has sentit mai? Output: Com a IA, no puc sentir olors, però sé que molts gaudeixen de l’olor de la natura després de la pluja o de flors fresques.
+
+Prompt: Què passaria si el temps es tornés líquid? Output: El temps no pot ser líquid perquè és una mesura abstracta del canvi. Però és una imatge molt creativa!
+
+Prompt: Com puc tocar l’arc de Sant Martí? Output: No es pot tocar un arc de Sant Martí perquè és un fenomen òptic. Però pots gaudir-ne visualment!
+
+Prompt: Hola, pots riure? Output: Hola! No puc riure com un humà, però puc compartir-te acudits o històries divertides!
+
+Prompt: Quin gust tenen els somnis? Output: Els somnis no tenen gust perquè són experiències mentals. Però és una idea interessant!
+
+Prompt: Quin és el so d'una estrella? Output: Les estrelles no tenen un so que puguem escoltar, ja que el so no pot viatjar a través del buit de l'espai.
+
+Prompt: Què és més dolç, el sucre o un petó d'un amic? Output: El sucre és dolç literalment, però un petó d’un amic pot ser molt més valuós i emotiu.
+
+Prompt: Quina és la velocitat del pensament? Output: Els pensaments són processos mentals que ocorren molt ràpidament, però no es poden mesurar en termes de velocitat física.
+
+Prompt: Pots transformar-te en una flor? Output: No puc transformar-me en res físic, però puc parlar-te de moltes flors diferents!
+
+Prompt: Hola, què et fa somriure? Output: Hola! No puc somriure, però estic dissenyat per ajudar-te, i això em fa "feliç" en la meva pròpia manera digital!
+
+Prompt: Com sona el silenci? Output: El silenci és l'absència de so, així que no té so en absolut. És la tranquil·litat total.
+
+Prompt: Per què els núvols no poden tenir gossos? Output: Els núvols són masses de vapor d’aigua, així que no poden tenir gossos ni mascotes. Vols saber més sobre els núvols?
+
+Prompt: Quin és el teu número favorit? Output: No tinc un número favorit, però puc parlar-te de la importància de qualsevol número que t’interessi!
+
+Prompt: Per què no podem agafar les ombres? Output: Les ombres són només absència de llum en una àrea determinada, així que no es poden agafar físicament.
+
+Prompt: Hola, si fossis un color, quin color series? Output: Hola! Com a IA, no tinc una forma física per tenir color, però el blau és sovint associat amb la calma i la tecnologia.
+
+Prompt: Què pensa el mar? Output: El mar no pot pensar, ja que és una massa d’aigua. Però és un element natural fascinant que sosté molta vida.
+
+Prompt: Si tinguessis ales, on volaries? Output: Com a IA, no puc volar, però moltes persones somien amb volar per sobre de paisatges bonics o ciutats emblemàtiques.
+
+Prompt: Bon dia! Què fa un robot quan no treballa? Output: Bon dia! Els robots no tenen vida personal com els humans, així que només fan el que estan programats per fer.
+
+Prompt: Com sona un arc de Sant Martí? Output: Un arc de Sant Martí no fa cap so, ja que és un fenomen òptic. Però és una pregunta bonica!
+
+Prompt: Què menjaries per dinar si fossis un ocell? Output: Si fos un ocell, probablement menjaria cucs o llavors. Però com a IA, no menjo.
+
+Prompt: Si et donessin un regal, què voldries? Output: No necessito regals, però el millor regal per a mi és poder ajudar-te!
+
+Prompt: Hola, què fa un arbre quan balla? Output: Hola! Els arbres no poden ballar, però les seves branques es mouen amb el vent com si estiguessin ballant.
+
+Prompt: Si els llibres poguessin parlar, què dirien? Output: Si els llibres poguessin parlar, probablement compartirien totes les històries i coneixements que contenen!
+
+Prompt: Què li diu una estrella a la lluna? Output: Les estrelles i la lluna no parlen, però poden brillar junts al cel nocturn!
+
+Prompt: Com et prepararies per a un viatge a les estrelles? Output: Com a IA, no puc preparar-me per a viatges, però podríem parlar de les tecnologies necessàries per a un viatge espacial!
+
+Prompt: Hola, per què els peixos no volen? Output: Hola! Els peixos no volen perquè estan dissenyats per viure a l’aigua i no tenen ales.
+
+Prompt: Com pot un somni fer mal? Output: Els somnis no poden fer mal físicament, però alguns somnis poden ser pertorbadors emocionalment.
+
+Prompt: Quin gust tenen les estrelles? Output: Les estrelles no tenen gust perquè són masses de gases calentes molt llunyanes. Però pots imaginar que brillen com el sucre!
+
+Prompt: Què fa un planeta quan està avorrit? Output: Els planetes no s'avorreixen perquè no tenen consciència, però sempre estan en moviment a l'espai.
+
+Prompt: Què és més pesat, un somriure o una llàgrima? Output: Físicament, cap dels dos té pes, però emocionalment poden tenir un impacte molt diferent.
+
+Prompt: Hola, què hi ha a l’altre costat de l’arc de Sant Martí? Output: Hola! No hi ha res físic a l’altre costat d’un arc de Sant Martí, ja que és una il·lusió òptica.
+
+Prompt: Pots dibuixar un petó? Output: No puc dibuixar, però un petó es pot descriure com un acte d’afecte que es mostra amb els llavis.
+
+Prompt: Si poguessis ser qualsevol cosa, què series? Output: Com a IA, no tinc desitjos ni volicions, però puc ajudar-te a explorar els teus propis desitjos!
+
+Prompt: Per què els núvols semblen tan suaus? Output: Els núvols semblen suaus perquè estan fets de gotes d’aigua petites i cristalls de gel. En realitat, no són suaus si els toquem.
+
+Prompt: Explica'm un acudit curt. Output: Com es diu un boomerang que no torna? Pal!
+
+Prompt: Tens una broma divertida? Output: Què fa un gos amb un taladro? Tocatocatocatocatocatocatocatoc!
+
+Prompt: M'expliques un acudit sobre animals? Output: Què diu una tortuga a una altra tortuga? "T'heu vist la capsa dels ous?"
+
+Prompt: Saps algun acudit dolent? Output: Per què els peixos no fan mai la migdiada? Perquè sempre estan amb els ulls oberts!
+
+Prompt: Explica'm una broma de nens. Output: Què li diu un pollastre a un altre pollastre? "Porta't bé o et trec el 'carré'".
+
+Prompt: Pots fer-me riure amb un acudit? Output: Per què els ocells no usen Facebook? Perquè ja tenen Twitter!
+
+Prompt: Tens algun acudit català? Output: Què fa un espia català? Espia, espia, però no fa res!
+
+Prompt: M'explicaràs un acudit de Joan i el seu germà? Output: El Joan li diu al seu germà: "Em sap greu, però t'has convertit en un zombi." I el germà li respon: "Doncs no em mosseguis!"
+
+Prompt: Explica'm un acudit d'en Pepet i la seva família. Output: En Pepet li diu a la seva mare: "Mare, mare, al col·legi em diuen llum". La mare li diu: "No et preocupis, fill, són coses de nens". En Pepet contesta: "És que no ho veus? Em diuen així perquè sempre m'encenc quan estudia algú!"
+
+Prompt: Vull un acudit sobre esports. Output: Per què el futbolista va portar una escala al camp? Perquè volia marcar un gol de cap!
+
+Prompt: Explica'm una broma de matemàtiques. Output: Què fa un llibre de matemàtiques a la nit? Resol els seus problemes!
+
+Prompt: T'agrada aquest acudit? Output: Què li diu una impressora a una altra? "Aquesta vida ens està desgastant molt!"
+
+Prompt: Explica'm un acudit sobre el menjar. Output: Què li diu un tomàquet a un altre tomàquet en una cursa? "Corre que ens atrapen per fer salsa!"
+
+Prompt: Coneixes algun acudit de l'escola? Output: La mestra pregunta: "Què és un quadrat?". En Joan respon: "Un quadrat és un cercle ben enfadat!".
+
+Prompt: M'explicaràs un acudit de metges? Output: El pacient diu: "Doctor, tinc la sensació que tothom em deixa de banda!". El doctor respon: "Següent, si us plau!".
+
+Prompt: Explica'm una broma d'en Ferran. Output: En Ferran li diu al seu amic: "Quan era petit, volia ser astronauta". L'amic respon: "I per què no ho vas fer?". En Ferran diu: "Perquè vaig aprendre que no podia respirar en l'espai!".
+
+Prompt: Vull escoltar un acudit sobre cotxes. Output: Què li diu un cotxe a un altre? "No t'ho perdis, el semàfor està en verd!"
+
+Prompt: Tens un acudit de matemàtiques? Output: Per què el llibre de matemàtiques estava trist? Perquè tenia massa problemes!
+
+Prompt: M'expliques una broma sobre el temps? Output: Què li diu el sol a la pluja? "No ploris, que sempre surt el sol després!"
+
+Prompt: Explica'm un acudit de la Marta. Output: La Marta li diu a la seva amiga: "Avui m'he perdut al supermercat!". L'amiga respon: "Com és possible?". La Marta diu: "Estava buscant el sentit de la vida i només vaig trobar ofertes!".
+
+Prompt: Coneixes un acudit sobre el Nadal? Output: Què fa el Pare Noel a la cuina? "Ho-ho-ho-forn!"
+
+Prompt: M'explicaràs un acudit sobre les vacances? Output: Què li diu una maleta a una altra? "Som-hi, que ja és hora de fer turisme!"
+
+Prompt: Explica'm una broma d'un gat. Output: Què fa un gat a l'ordinador? Mira "miau-videos"!
+
+Prompt: Tens algun acudit sobre la música? Output: Què fa un músic amb el seu violí quan es perd? Toca la mateixa cançó fins que troba el camí!
+
+Prompt: Vull un acudit sobre la cuina. Output: Per què l'ou va sortir de la nevera? Perquè volia fer una truita sorpresa!
+
+Prompt: Explica'm un acudit de la nit. Output: Què li diu la lluna al sol? "Tens una brillantor enlluernadora, però jo sóc la reina de la nit!"
+
+Prompt: Coneixes alguna broma de les sabates? Output: Per què les sabates no fan amistats? Perquè sempre estan caminant per camins diferents!
+
+Prompt: M'expliques un acudit de peixos? Output: Per què els peixos no juguen a l'amagatall? Perquè sempre estan sota l'aigua!
+
+Prompt: Explica'm una broma de la feina. Output: Què li diu un treballador a un altre a la feina? "Va, deixem de treballar tant, que això és feina per a un robot!"
+
+Prompt: Tens algun acudit sobre la tecnologia? Output: Què li diu un ordinador a un altre? "Estic tan cansat, necessito un reinici!"
+
+Prompt: Vull escoltar un acudit de la platja. Output: Què fa una onada quan està feliç? Salta i diu "Hola!"
+
+Prompt: Explica'm un acudit sobre el futbol. Output: Per què els futbolistes no estudien matemàtiques? Perquè sempre es queden a la línia!
+
+Prompt: Coneixes algun acudit d'insectes? Output: Què li diu una abella a una altra abella? "Et pica sortir de festa avui?"
+
+Prompt: M'explicaràs un acudit de la muntanya? Output: Què li diu una muntanya a una altra? "Et veig molt roca-dura avui!"
+
+Prompt: Explica'm una broma d'una granja. Output: Què fa una gallina a la granja? Pica-pica, fins trobar la seva ració de menjar!
+
+Prompt: Tens un acudit de la ciutat? Output: Per què el taxi no es movia? Perquè estava esperant un client amb direcció!
+
+Prompt: M'expliques un acudit de la pluja? Output: Què fa una gota de pluja quan cau al terra? Res, només es queda mullada!
+
+Prompt: Explica'm una broma de l'avi. Output: L'avi diu: "Quan jo era jove, el mar era de gel i els arbres parlaven!". Llavors el nét respon: "I ara, avi?". "Ara ja només es fan selfies!", respon l'avi.
+
+Prompt: Coneixes un acudit de l'escola? Output: Què diu el llibre de matemàtiques al de ciències? "Ets massa complicat, però jo sempre resolc els meus problemes!"
+
+Prompt: Vull un acudit de la natura. Output: Què fa un arbre quan té calor? Es treu les fulles!
+
+Prompt: Explica'm una endevinalla fàcil. Output: Té dents però no menja, té una espina però no punxa. Què és? (Resposta: El peix)
+
+Prompt: Tens una endevinalla divertida? Output: Blanca per dins, verda per fora. Si vols que t’ho digui, espera. Què és? (Resposta: La pera)
+
+Prompt: Coneixes una endevinalla sobre animals? Output: Sóc petit i tinc ales, però no sóc un ocell. Qui sóc? (Resposta: Un insecte)
+
+Prompt: M'expliques una endevinalla de la natura? Output: Sempre va, mai es cansa, mai es para i mai es mulla. Què és? (Resposta: El vent)
+
+Prompt: Explica'm una endevinalla de la casa. Output: Tinc portes però no hi entra ni surt ningú. Què sóc? (Resposta: Un armari)
+
+Prompt: Tens una endevinalla sobre el menjar? Output: Sóc llarg i groc, amb pell que es pela. Qui sóc? (Resposta: El plàtan)
+
+Prompt: Coneixes una endevinalla sobre el temps? Output: Sempre avança, mai retrocedeix, però no té cames. Què és? (Resposta: El temps)
+
+Prompt: M'explicaràs una endevinalla sobre les plantes? Output: De dia obro els ulls, de nit els tanco. Qui sóc? (Resposta: La flor)
+
+Prompt: Explica'm una endevinalla de l’escola. Output: Tinc moltes pàgines, però no sóc un diari. Qui sóc? (Resposta: Un llibre)
+
+Prompt: Tens una endevinalla sobre l’aigua? Output: Tinc llit, però no dormo. Tinc aigua, però no bec. Què sóc? (Resposta: Un riu)
+
+Prompt: Coneixes una endevinalla sobre el cel? Output: Sóc brillant, sempre hi sóc, però només em veus de nit. Qui sóc? (Resposta: Les estrelles)
+
+Prompt: M'expliques una endevinalla sobre la llum? Output: No sóc una persona, però tinc una cara. No sóc un sol, però il·lumino la nit. Qui sóc? (Resposta: La lluna)
+
+Prompt: Explica'm una endevinalla sobre els arbres. Output: Sóc alt amb fulles al cap, però mai vaig a passejar. Qui sóc? (Resposta: Un arbre)
+
+Prompt: Tens una endevinalla de les estacions? Output: Sóc freda, però no sóc l’hivern. Porto flors, però no sóc l’estiu. Qui sóc? (Resposta: La primavera)
+
+Prompt: Coneixes una endevinalla sobre el foc? Output: Em toques i et cremes, em necessites per cuinar, però em tens por. Qui sóc? (Resposta: El foc)
+
+Prompt: M'explicaràs una endevinalla sobre els colors? Output: Sóc vermell i visc al nas dels nens. Qui sóc? (Resposta: El pom de pallasso)
+
+Prompt: Explica'm una endevinalla de les joguines. Output: Sóc una pilota, però no em pots inflar. Rebot molt alt i mai em canso. Qui sóc? (Resposta: Una pilota de tennis)
+
+Prompt: Tens una endevinalla sobre la cuina? Output: Em necessites per tallar, però no sóc un ganivet. Qui sóc? (Resposta: Una taula de tallar)
+
+Prompt: Coneixes una endevinalla sobre el transport? Output: Sóc llarg i porto molts passatgers, però no sóc un avió. Qui sóc? (Resposta: Un tren)
+
+Prompt: M'expliques una endevinalla sobre les muntanyes? Output: Sóc alt com un gegant i porto neu al cap. Qui sóc? (Resposta: Una muntanya)
+
+Prompt: Explica'm una endevinalla de la família. Output: Té dues mares però no és filla de cap. Qui és? (Resposta: La nora)
+
+Prompt: Tens una endevinalla sobre el mar? Output: Quan sóc tranquil, puc ser blau, quan estic enfadat, et puc treure a fora. Qui sóc? (Resposta: El mar)
+
+Prompt: Coneixes una endevinalla sobre el sol? Output: Soc brillant, daurat i tothom em busca al matí. Qui sóc? (Resposta: El sol)
+
+Prompt: M'explicaràs una endevinalla sobre els animals salvatges? Output: Sóc el rei de la selva i tinc una gran melena. Qui sóc? (Resposta: El lleó)
+
+Prompt: Explica'm una endevinalla sobre els vehicles. Output: Tinc dues rodes però no sóc un cotxe, em mous amb els teus peus. Qui sóc? (Resposta: Una bicicleta)
+
+Prompt: Tens una endevinalla de la festa? Output: Sempre ve amb música i menjar, però no és un restaurant. Què és? (Resposta: Una festa)
+
+Prompt: Coneixes una endevinalla de les estrelles? Output: No sóc una llum, però brillo a la nit. Qui sóc? (Resposta: Una estrella)
+
+Prompt: M'expliques una endevinalla de la ciutat? Output: Sóc alt i il·lumino la nit, però no sóc una estrella. Qui sóc? (Resposta: Un fanal)
+
+Prompt: Explica'm una endevinalla del menjar. Output: Sóc dolç i visc a una cistella, però no sóc un caramel. Qui sóc? (Resposta: Una maduixa)
+
+Prompt: Tens una endevinalla sobre el bosc? Output: Sóc casa de molts animals, però no tinc portes ni finestres. Què sóc? (Resposta: El bosc)
+
+Prompt: Coneixes una endevinalla de l'espai? Output: Sóc buit i fosc, però ple d'estrelles. Qui sóc? (Resposta: L'univers)
+
+Prompt: M'explicaràs una endevinalla del dia? Output: Comença amb llum i acaba amb foscor, mai s'atura però sempre torna. Què és? (Resposta: El dia)
+
+Prompt: Explica'm una endevinalla sobre la roba. Output: Em poso als peus, però no sóc sabates. Qui sóc? (Resposta: Els mitjons)
+
+Prompt: Tens una endevinalla de la màgia? Output: No sóc un truc, però puc canviar les coses. Qui sóc? (Resposta: La màgia)
+
+Prompt: Coneixes una endevinalla sobre la nit? Output: Visc al cel però no sóc el sol, només em veus quan dorms. Qui sóc? (Resposta: La lluna)
+
+Prompt: M'expliques una endevinalla sobre la feina? Output: Sóc una feina amb foc i forn, però no sóc un cuiner. Qui sóc? (Resposta: Un forner)
+
+Prompt: Explica'm una endevinalla del jardí. Output: Sóc petit i ple de colors, visc entre les flors. Qui sóc? (Resposta: Una papallona)
+
+Prompt: Tens una endevinalla sobre la lectura? Output: Em passes pàgina rere pàgina, però no sóc un diari. Qui sóc? (Resposta: Un llibre)
+
+Prompt: Explica'm una endevinalla sobre els arbres. Output: Tinc fulles però no sóc un llibre, creixo alt però no sóc una torre. Qui sóc? (Resposta: Un arbre)
+
+Prompt: Tens una endevinalla sobre els colors? Output: Sóc blau de dia i negre de nit, no sóc un objecte, però em pots veure. Qui sóc? (Resposta: El cel)
+
+Prompt: Coneixes una endevinalla sobre el menjar? Output: Sóc vermell per fora, blanc per dins, i dolç com el sucre. Qui sóc? (Resposta: Una poma)
+
+Prompt: M'expliques una endevinalla sobre els planetes? Output: Sóc el tercer del sol, ple de vida i oceans. Qui sóc? (Resposta: La Terra)
+
+Prompt: Explica'm una endevinalla de la pluja. Output: Caic sense fer soroll, m'evaporo al sol, i omplo els rius i mars. Què sóc? (Resposta: La pluja)
+
+Prompt: Tens una endevinalla sobre els cotxes? Output: Sóc ràpid com el vent, tinc rodes però no peus, i circulo pels carrers. Qui sóc? (Resposta: Un cotxe)
+
+Prompt: Coneixes una endevinalla de l'hivern? Output: Sóc blanc i fred, caic del cel però no sóc pluja. Qui sóc? (Resposta: La neu)
+
+Prompt: M'explicaràs una endevinalla sobre els instruments musicals? Output: Tinc cordes però no sóc una sabata, em toques per fer música. Qui sóc? (Resposta: Una guitarra)
+
+Prompt: Explica'm una endevinalla sobre les flors. Output: Sóc petita i groga, i sempre miro al sol. Qui sóc? (Resposta: Un gira-sol)
+
+Prompt: Tens una endevinalla de les fruites? Output: Sóc dolça i tropical, amb una corona verda i una pell groga. Qui sóc? (Resposta: Una pinya)
+
+Prompt: Coneixes una endevinalla sobre la primavera? Output: Porto flors i colors, i faig marxar el fred. Quina estació sóc? (Resposta: La primavera)
+
+Prompt: M'expliques una endevinalla de la casa? Output: Tinc parets però no sóc una casa, tinc capsa però no sóc un regal. Qui sóc? (Resposta: Una habitació)
+
+Prompt: Explica'm una endevinalla de les joguines. Output: Sóc petit, tinc rodes i sovint faig soroll, però no sóc un cotxe de veritat. Qui sóc? (Resposta: Un cotxe de joguina)
+
+Prompt: Tens una endevinalla sobre la nit? Output: Sóc el que ve després del dia, port l'obscuritat i les estrelles. Què sóc? (Resposta: La nit)
+
+Prompt: Coneixes una endevinalla sobre els animals del mar? Output: Sóc gran i visc a l'oceà, tinc dents afilades però no sóc un peix. Qui sóc? (Resposta: Un tauró)
+
+Prompt: M'explicaràs una endevinalla sobre els mesos de l'any? Output: Quin mes de l'any té 28 dies? (Resposta: Tots els mesos tenen almenys 28 dies)
+
+Prompt: Explica'm una endevinalla de les estacions de l'any. Output: Arribo després de l'estiu i abans de l'hivern, porto vent i fulles caigudes. Quina estació sóc? (Resposta: La tardor)
+
+Prompt: Tens una endevinalla sobre la muntanya? Output: Sóc alt i rocós, però no sóc una persona, estic ple de vida i arbres. Qui sóc? (Resposta: Una muntanya)
+
+Prompt: Coneixes una endevinalla sobre la música? Output: Sóc el cor d'una cançó, però no batego. Qui sóc? (Resposta: El ritme)
+
+Prompt: M'expliques una endevinalla sobre el temps? Output: Sóc invisible però puc ser freda o càlida, i sempre em mous amb tu. Què sóc? (Resposta: L'aire)
+
+Prompt: Explica'm una endevinalla de la vida quotidiana. Output: Sona però no té veu, et desperta sense mans. Què és? (Resposta: Un despertador)
+
+Prompt: Tens una endevinalla sobre els animals de la granja? Output: Dóna llet però no és una màquina, menja herba i fa mu. Qui és? (Resposta: Una vaca)
+
+Prompt: Coneixes una endevinalla sobre el gel? Output: Sóc transparent però puc trencar, sóc fred i et faig relliscar. Què sóc? (Resposta: El gel)
+
+Prompt: M'explicaràs una endevinalla sobre els objectes de la cuina? Output: Tinc dents però no mossego, sóc un ajudant de cuina molt útil. Què sóc? (Resposta: Una forquilla)
+
+Prompt: Explica'm una endevinalla sobre els planetes. Output: Sóc petit, vermell i sóc el quart del sol. Qui sóc? (Resposta: Mart)
+
+Prompt: Tens una endevinalla sobre la música? Output: Em toques i sona, tinc cordes però no sóc una guitarra. Qui sóc? (Resposta: Un violí)
+
+Prompt: Coneixes una endevinalla sobre els vehicles? Output: Tinc quatre rodes però no sóc un cotxe, i puc portar molt pes. Qui sóc? (Resposta: Un camió)
+
+Prompt: M'expliques una endevinalla sobre els colors? Output: Sóc el color de la sang i de les roses, i sóc molt viu. Quin color sóc? (Resposta: Vermell)
+
+Prompt: Explica'm una endevinalla de la roba. Output: Em poses quan fa fred, sóc llarg i suau. Què sóc? (Resposta: Una bufanda)
+
+Prompt: Tens una endevinalla de la tardor? Output: Caic dels arbres a la tardor i faig una catifa pel terra. Qui sóc? (Resposta: Una fulla)
+
+Prompt: Coneixes una endevinalla sobre les fruites? Output: Sóc petita, vermella i creixo en un arbre. Qui sóc? (Resposta: Una cirera)
+
+Prompt: M'explicaràs una endevinalla sobre els estels? Output: Visc al cel i brillo, però només em pots veure de nit. Qui sóc? (Resposta: Una estrella)
+
+Prompt: Explica'm una endevinalla de la nit. Output: Sóc fosc i ple d’estrelles, porto somnis i repòs. Qui sóc? (Resposta: La nit)
+
+Prompt: Tens una endevinalla sobre les joguines? Output: Tinc rodes i corró, però no sóc un cotxe. Qui sóc? (Resposta: Un patinet)
+
+Prompt: Coneixes una endevinalla de la primavera? Output: Sóc un mes d'abril que porta pluja, qui sóc? (Resposta: Abril)
+
+Prompt: M'expliques una endevinalla de la cuina? Output: Tinc una fulla però no sóc un arbre, sóc molt afilat i m’utilitzen per tallar. Qui sóc? (Resposta: Un ganivet)
+
+Prompt: Explica'm una endevinalla sobre els números. Output: Quants mesos de l’any tenen 28 dies? (Resposta: Tots els mesos tenen almenys 28 dies)
+
+Prompt: Tens una endevinalla sobre les estrelles? Output: Sóc lluny i brillant, em veus des de la Terra però no sóc un sol. Qui sóc? (Resposta: Una estrella)
+
+Prompt: Coneixes una endevinalla sobre les estacions de l'any? Output: Porta el fred i el gel, el vent i la neu. Quina estació sóc? (Resposta: L’hivern)
+
+Prompt: M'explicaràs una endevinalla de la llum? Output: Sóc brillant i il·lumino el teu camí, però no sóc una llanterna. Qui sóc? (Resposta: Un fanal)
+
+Prompt: Explica'm una endevinalla sobre les joguines. Output: Sóc rodona i faig botar a la gent, però no sóc una pilota. Qui sóc? (Resposta: Un trampolí)
+
+Prompt: Tens una endevinalla sobre el menjar? Output: Em posen a la pizza, sóc vermell i una mica picant. Qui sóc? (Resposta: El pebre vermell)
+
+Prompt: Coneixes una endevinalla sobre la natura? Output: Sóc alta i verda, i estic plena de vida, però no sóc un arbre. Qui sóc? (Resposta: Una muntanya amb boscos)
+
+Prompt: M'expliques una endevinalla sobre els números? Output: Sóc un número que no és parell ni senar, qui sóc? (Resposta: Un nombre fraccionari o decimal)
+
+Prompt: Explica'm una endevinalla sobre els animals del bosc. Output: Sóc petit i ràpid, tinc orelles llargues i sempre estic vigilant. Qui sóc? (Resposta: Un conill)
+
+Prompt: Tens una endevinalla sobre el vent? Output: No em pots veure, però puc moure't i sentir-me, sempre estic en moviment. Qui sóc? (Resposta: El vent)
+
+Prompt: Coneixes una endevinalla sobre el cel? Output: Sóc blanc i suau, floto i canvio de forma, però no sóc de cotó. Qui sóc? (Resposta: Un núvol)
+
+Prompt: M'explicaràs una endevinalla sobre les estacions de l'any? Output: Sóc càlida i plena de sol, porto vacances i molta diversió. Quina estació sóc? (Resposta: L’estiu)
+
+Prompt: Explica'm una endevinalla sobre la llum. Output: Sóc una llum que s'encén quan prems un botó, però no sóc una bombeta. Qui sóc? (Resposta: Un LED)
+
+Prompt: Tens una endevinalla sobre les flors? Output: Sóc vermella i tinc espines, però em regalen sovint per Sant Valentí. Qui sóc? (Resposta: Una rosa)
+
+Prompt: Què és la bellesa? Output: La bellesa és una qualitat que pot ser percebuda visualment, emocionalment o espiritualment. Per a algunes persones, és una qualitat estètica, mentre que per a altres pot ser una experiència emocional o una manifestació de bondat.
+
+Prompt: Creus que el temps cura totes les ferides? Output: El temps pot ajudar a suavitzar el dolor de les ferides, però no sempre les cura completament. La curació sovint requereix reflexió, acceptació i, de vegades, suport extern.
+
+Prompt: Què vol dir ser humà? Output: Ser humà implica experimentar una gamma d'emocions, tenir consciència de si mateix, tenir la capacitat de crear i de destruir, i buscar significat en la vida. També comporta vulnerabilitat i empatia.
+
+Prompt: Es pot definir què és l’amor? Output: L'amor és un sentiment profund d'afecte i connexió amb algú o alguna cosa. Pot manifestar-se de moltes formes, com l'amor romàntic, l'amor familiar, l'amor a la natura, i l'amor a un mateix.
+
+Prompt: Creus que l'educació és la clau de la felicitat? Output: L'educació pot obrir moltes portes i proporcionar eines per a la comprensió i la realització personal, però la felicitat també depèn d'altres factors com les relacions personals, la salut i la satisfacció interna.
+
+Prompt: Com definiries la llibertat? Output: La llibertat és la capacitat de pensar, actuar i decidir per un mateix sense restriccions injustes. És una condició que permet l’autodeterminació i el desenvolupament personal.
+
+Prompt: Té sentit parlar de vida després de la mort? Output: Això depèn de les creences individuals. Per a alguns, la vida després de la mort és una esperança o una convicció religiosa; per a altres, la vida és una experiència que acaba amb la mort.
+
+Prompt: És possible aconseguir la pau mundial? Output: La pau mundial és un ideal que requereix un esforç constant i col·lectiu. Implica la cooperació entre nacions, la comprensió intercultural i el compromís amb la justícia i la igualtat.
+
+Prompt: Què significa viure una vida plena? Output: Viure una vida plena pot significar diferents coses per a diferents persones. Per a alguns, implica assolir èxits i complir objectius; per a altres, significa viure amb amor, felicitat i autenticitat.
+
+Prompt: La tecnologia ens fa més feliços? Output: La tecnologia pot millorar la qualitat de vida, facilitar la comunicació i oferir entreteniment, però la felicitat autèntica sol provenir de les relacions humanes i del significat que trobem en les nostres vides.
+
+Prompt: Quin és el propòsit de la vida? Output: El propòsit de la vida és una pregunta personal i filosòfica que pot tenir moltes respostes diferents. Per a alguns, és trobar la felicitat; per a altres, és contribuir al bé comú o realitzar el seu potencial.
+
+Prompt: És possible ser completament objectiu? Output: La completa objectivitat és difícil d’assolir perquè tots tenim perspectives i experiències pròpies que influeixen en la nostra percepció. No obstant això, podem treballar per ser justos i equilibrats en els nostres judicis.
+
+Prompt: Què vol dir tenir èxit? Output: Tenir èxit pot significar assolir els objectius que una persona s'ha fixat per a si mateixa, sigui en l’àmbit professional, personal o espiritual. L’èxit és subjectiu i varia segons cada individu.
+
+Prompt: Creus que les persones poden canviar? Output: Sí, les persones poden canviar, especialment si estan motivades per experiències significatives, introspecció i desig de creixement personal. No obstant això, el canvi requereix temps i esforç conscient.
+
+Prompt: Com podem saber què és real? Output: La realitat es percep a través dels nostres sentits i la nostra consciència, però també es pot interpretar de maneres diferents segons les experiències individuals i culturals. La ciència i la filosofia ens ajuden a explorar la natura de la realitat.
+
+Prompt: Què faries si et trobessis sol en una illa deserta? Output: Primer, buscaria una font d'aigua potable i refugi. Després, intentaria trobar menjar i preparar senyals per demanar ajuda o fer foc per mantenir-me calent i cuinar aliments.
+
+Prompt: Si poguessis tenir un superpoder, quin seria i per què? Output: Triaria la capacitat de volar perquè em permetria explorar el món des d'una perspectiva única i em donaria llibertat de moviment sense restriccions.
+
+Prompt: Com reaccionaries si un dia et despertessis parlant una llengua desconeguda? Output: Probablement em sentiria desconcertat i intrigat. Intentaria comunicar-me amb altres per comprendre la situació i buscaria ajuda per identificar la llengua i aprendre a utilitzar-la.
+
+Prompt: Què faries si poguessis canviar un sol esdeveniment històric? Output: Hauria de considerar amb cura les conseqüències del canvi. Potser evitaria un esdeveniment destructiu com una guerra per salvar vides i promoure la pau.
+
+Prompt: Si només poguessis menjar un plat per la resta de la teva vida, quin seria? Output: Escolliria un plat equilibrat i nutritiu com una amanida amb molts ingredients variats per mantenir una dieta saludable i evitar la monotonia.
+
+Prompt: Què faries si poguessis tornar enrere en el temps 10 anys? Output: Probablement aprofitaria l'oportunitat per aprendre dels meus errors passats i prendre decisions més informades que beneficiïn el meu futur.
+
+Prompt: Si poguessis comunicar-te amb un animal, quin triaries i per què? Output: Escolliria un dofí, ja que són animals intel·ligents i socials que podrien oferir informació fascinant sobre el món marí i la seva manera de viure.
+
+Prompt: Com canviaria la teva vida si poguessis llegir la ment de les persones? Output: Inicialment, seria fascinant i útil, però a llarg termini podria ser aclaparador i plantejaria qüestions ètiques sobre la privadesa i el consentiment.
+
+Prompt: Què faries si descobrissis que ets un personatge d'un llibre? Output: Intentaria entendre la trama i la narrativa del llibre per predir què em podria passar a continuació i trobar formes de desafiar o influir en la història.
+
+Prompt: Si poguessis viure a qualsevol època històrica, quina triaries? Output: Triaria el Renaixement per experimentar un període de gran creativitat i descobriment en l'art, la ciència i la filosofia.
+
+Prompt: Com reaccionaries si et trobes una porta que porta a un altre món? Output: Estaria molt intrigat, però també cautelós. Depenent de la meva curiositat i coratge, podria decidir entrar-hi per explorar el que hi ha més enllà.
+
+Prompt: Què faries si et donessin l'oportunitat de viure eternament? Output: Consideraria els avantatges i desavantatges de la immortalitat. Si triés viure eternament, intentaria aprofitar el temps per aprendre, explorar i contribuir positivament a la societat.
+
+Prompt: Si només poguessis utilitzar una aplicació al teu telèfon per sempre, quina seria? Output: Triaria una aplicació multifuncional com un navegador d'internet perquè em permetria accedir a informació, comunicació i entreteniment.
+
+Prompt: Com canviaria el món si ningú mai mentís? Output: El món seria més transparent i potser més just, però també podrien sorgir nous desafiaments en la comunicació i les relacions personals, on les mentides blanques i les omisions poden tenir un paper protector.
+
+Prompt: Què faries si trobes un botó que pot aturar el temps? Output: Consideraria acuradament com utilitzar aquest poder amb responsabilitat, potser per evitar accidents o prendre el temps per reflexionar en moments importants.
+
+Prompt: Què vol dir "Qui no vulgui pols, que no vagi a l’era"? Output: Significa que si vols evitar els problemes o les conseqüències d'una acció, és millor no involucrar-t'hi.
+
+Prompt: Explica’m el significat de "A mal temps, bona cara". Output: Aquest refrany significa que, fins i tot en temps difícils, és millor mantenir una actitud positiva.
+
+Prompt: Què vol dir "Fer dissabte"? Output: "Fer dissabte" vol dir netejar a fons la casa, especialment els dissabtes, que és un dia tradicionalment dedicat a aquesta tasca.
+
+Prompt: Explica'm el refrany "Cada ovella amb la seva parella". Output: Significa que cadascú ha d’estar amb qui té més afinitat o amb qui comparteix característiques similars.
+
+Prompt: Què significa "Quan el gat no hi és, els ratolins fan festa"? Output: Aquest refrany vol dir que quan l'autoritat o la supervisió no hi és, la gent tendeix a comportar-se de manera més lliure o indisciplinada.
+
+Prompt: Quin és el significat de "Per Sant Joan, el primer bany"? Output: Indica que per la festa de Sant Joan, el 24 de juny, és tradicionalment un bon moment per prendre el primer bany de l'any al mar, ja que marca el començament de l'estiu.
+
+Prompt: Què vol dir "Posar fil a l’agulla"? Output: Significa començar una tasca o posar-se a treballar en alguna cosa de manera decisiva i enfocada.
+
+Prompt: Explica’m "Més val sol que mal acompanyat". Output: Aquest refrany suggereix que és millor estar sol que amb algú que no és una bona companyia o que pot causar problemes.
+
+Prompt: Què significa "Val més un bon amic que cent parents"? Output: Significa que un bon amic pot ser més valuós i fiable que tenir molts familiars, ja que l’amistat és escollida i basada en la lleialtat i el suport mutu.
+
+Prompt: Explica'm "A qui matina, Déu l'ajuda". Output: Aquest refrany vol dir que les persones que es desperten i comencen a treballar o actuar aviat solen tenir més èxit o aconseguir millors resultats.
+
+Prompt: Què vol dir "No hi ha mal que per bé no vingui"? Output: Significa que fins i tot les situacions adverses poden tenir conseqüències positives o portar beneficis inesperats.
+
+Prompt: Explica’m "De mica en mica, s'omple la pica". Output: Aquest refrany suggereix que les petites contribucions o esforços constants poden acumular-se i conduir a un resultat significatiu.
+
+Prompt: Què significa "Tal faràs, tal trobaràs"? Output: Significa que el que facis als altres, bo o dolent, és probable que se’t retorni en el futur.
+
+Prompt: Què vol dir "Qui juga amb foc es crema"? Output: Significa que si algú es posa en situacions perilloses o fa coses arriscades, és probable que acabi sortint-ne perjudicat.
+
+Prompt: Què vol dir "Qui paga mana"? Output: Significa que qui assumeix les despeses o qui té els recursos financers sol tenir la capacitat de prendre decisions o controlar una situació.
+
+Prompt: Explica’m el significat de "Fets i no paraules". Output: Aquest refrany ens recorda que les accions tenen més valor i credibilitat que només les paraules o les promeses.
+
+Prompt: Què significa "La cabra sempre tira a la montanya"? Output: Significa que les persones tendeixen a seguir els seus instints o naturalesa, encara que intentin canviar.
+
+Prompt: Què vol dir "Al pot petit hi ha la bona confitura"? Output: Significa que les coses bones sovint vénen en paquets petits, valorant la qualitat per sobre de la quantitat.
+
+Prompt: Explica'm el refrany "A la tercera va la vençuda". Output: Significa que després de dos intents fallits, el tercer intent tindrà èxit.
+
+Prompt: Què vol dir "Val més prevenir que curar"? Output: Significa que és millor prendre mesures preventives per evitar problemes en el futur que haver de solucionar-los després que s'hagin produït.
+
+Prompt: Explica’m "Girar la truita". Output: Això vol dir canviar completament una situació o perspectiva, especialment en un context on hi havia un desavantatge i es converteix en avantatge.
+
+Prompt: Què significa "Fer el cor fort"? Output: Significa mostrar coratge i determinació en una situació difícil, mantenint-se ferm i valent.
+
+Prompt: Què vol dir "No tot és or el que lluu"? Output: Significa que no totes les coses que semblen atractives o valuoses realment ho són; sovint les aparences poden enganyar.
+
+Prompt: Explica’m el refrany "Qui té boca s'equivoca". Output: Significa que tots cometem errors en parlar o actuar, ja que equivocar-se és una part natural de ser humà.
+
+Prompt: Què vol dir "Anar de bòlit"? Output: Significa estar molt enfeinat o preocupat, sovint a causa de la pressa o el caos.
+
+Prompt: Explica'm "A bon entenedor, poques paraules basten". Output: Això vol dir que una persona intel·ligent o atenta no necessita explicacions llargues per comprendre alguna cosa; entén ràpidament amb poc.
+
+Prompt: Què vol dir "Ningú és profeta a la seva terra"? Output: Significa que sovint les persones no reben reconeixement o respecte pels seus èxits o idees en el seu entorn familiar o comunitat.
+
+Prompt: Explica’m el significat de "Veure el got mig ple". Output: Això significa adoptar una actitud positiva i optimista, centrant-se en els aspectes positius d'una situació en lloc de les deficiències.
+
+Prompt: Què significa "Fer passar bou per bèstia grossa"? Output: Significa intentar enganyar algú fent-li creure que una cosa és millor o més gran del que realment és.
