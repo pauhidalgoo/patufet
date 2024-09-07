@@ -4,3 +4,5 @@
 /educat/test.txt
 /educat/train.txt
 classifier.bin
+*.jsonl
+*.json
