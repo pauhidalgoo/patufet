@@ -1,0 +1,225 @@
+Prompt: Resumeix el següent text: ""
+
+Summary: No es pot resumir, ja que no s'ha proporcionat cap text.
+Prompt: Explica aquest text en menys paraules.
+
+Summary: És impossible fer-ho sense un text original.
+Prompt: Fes un resum del següent text:
+
+Summary: No es pot fer un resum sense tenir un text per resumir.
+Prompt: Podries resumir el següent?
+
+Summary: No es pot realitzar el resum perquè no hi ha text proporcionat.
+Prompt: Redueix aquest text a una frase: ""
+
+Summary: No es pot reduir un text que no existeix.
+Prompt: Digues el contingut d'aquest text en poques paraules.
+
+Summary: No és possible sense un text d'origen.
+Prompt: Resumeix això: ""
+
+Summary: No es pot resumir perquè no s'ha proporcionat cap contingut.
+Prompt: Necessito un resum per a aquest fragment.
+
+Summary: No es pot crear un resum si no es proporciona cap fragment.
+Prompt: Què diu aquest text en essència?
+
+Summary: No es pot determinar l'essència sense un text.
+Prompt: Pots fer un breu resum del que s'indica aquí?
+
+Summary: Sense un text, no es pot fer un resum.
+Prompt: Resumeix el contingut aquí present: ""
+
+Summary: No hi ha contingut per resumir.
+Prompt: Fes un breu resum d'aquest text.
+
+Summary: No es pot fer un resum perquè no s'ha donat cap text.
+Prompt: Resum del següent: ""
+
+Summary: No hi ha res a resumir, ja que el text està buit.
+Prompt: Dona'm una versió resumida d'aquest text.
+
+Summary: No es pot donar una versió resumida sense un text original.
+Prompt: Explica en poques paraules el següent text.
+
+Summary: És impossible fer un resum sense text.
+Prompt: Pots simplificar aquest text per a mi?
+
+Summary: No hi ha text per simplificar.
+Prompt: Resumeix això que t'he enviat.
+
+Summary: No s'ha enviat cap text per resumir.
+Prompt: Digues-me de què tracta aquest text.
+
+Summary: No es pot determinar de què tracta sense un text.
+Prompt: Resumeix en una frase: ""
+
+Summary: No es pot fer un resum d'un text inexistent.
+Prompt: Dona'm un resum curt del següent contingut:
+
+Summary: No hi ha cap contingut a resumir.
+Prompt: Redueix aquest contingut al mínim: ""
+
+Summary: No es pot reduir un contingut que no existeix.
+Prompt: Què és el més important d'aquest text?
+
+Summary: No es pot determinar sense un text proporcionat.
+Prompt: Explica en menys paraules el que s'indica aquí.
+
+Summary: No és possible sense tenir cap text.
+Prompt: Pots fer-me un resum?
+
+Summary: No s'ha proporcionat cap text per resumir.
+Prompt: Resumeix el següent fragment.
+
+Summary: Sense un fragment proporcionat, no es pot resumir.
+Prompt: Fes un resum del següent: ""
+
+Summary: No hi ha res per resumir.
+Prompt: Resumeix aquest contingut: ""
+
+Summary: No es pot resumir un contingut buit.
+Prompt: Què diu el text següent de manera resumida?
+
+Summary: No es pot fer un resum sense cap text proporcionat.
+Prompt: Explica de manera breu aquest text.
+
+Summary: És impossible sense un text per explicar.
+Prompt: Dona'm una síntesi d'això.
+
+Summary: No es pot fer una síntesi sense cap text.
+Prompt: Resumeix el següent article.
+
+Summary: No es pot resumir un article inexistent.
+Prompt: Explica aquest paràgraf en poques paraules.
+
+Summary: No hi ha cap paràgraf per explicar.
+Prompt: Dona'm el resum d'aquest escrit.
+
+Summary: No es pot donar un resum sense un escrit proporcionat.
+Prompt: Redueix aquest text a les idees principals.
+
+Summary: No es pot reduir sense text.
+Prompt: Necessito un resum d'aquest contingut.
+
+Summary: No es pot fer un resum perquè no s'ha proporcionat cap contingut.
+Prompt: Quina és la versió curta d'aquest text?
+
+Summary: No es pot oferir una versió curta sense text.
+Prompt: Resumeix la informació següent: ""
+
+Summary: No hi ha informació per resumir.
+Prompt: Explica breument el que s'ha dit aquí.
+
+Summary: Sense un text original, no es pot explicar.
+Prompt: Fes un resum del contingut següent.
+
+Summary: No es pot resumir perquè no hi ha contingut proporcionat.
+Prompt: Dona'm un breu resum d'aquest text.
+
+Summary: No es pot fer un resum sense text.
+Prompt: Resumeix això en menys de 50 paraules.
+
+Summary: No es pot resumir un text inexistent.
+Prompt: Podries donar-me un resum del següent?
+
+Summary: No hi ha cap text per resumir.
+Prompt: Explica en poques paraules el següent.
+
+Summary: No es pot explicar sense text.
+Prompt: Resumeix aquest article: ""
+
+Summary: No hi ha article per resumir.
+Prompt: Fes-me un resum d'aquesta informació.
+
+Summary: No es pot fer un resum perquè no hi ha informació.
+Prompt: Resumeix en una frase el text següent.
+
+Summary: No hi ha cap text per resumir en una frase.
+Prompt: Dona'm la versió curta d'aquest contingut.
+
+Summary: No es pot oferir una versió curta sense contingut.
+Prompt: Quines són les idees principals d'aquest text?
+
+Summary: No es poden identificar idees principals sense un text.
+Prompt: Resumeix el següent passatge.
+
+Summary: No es pot fer un resum sense un passatge.
+Prompt: Explica breument això.
+
+Summary: No es pot explicar sense cap text.
+Prompt: Resumeix aquest text a les seves parts essencials.
+
+Summary: No hi ha cap text per descompondre.
+Prompt: Dona'm un resum d'aquest contingut.
+
+Summary: No hi ha cap contingut a resumir.
+Prompt: Pots fer-me un resum de la següent informació?
+
+Summary: Sense informació proporcionada, no es pot fer un resum.
+Prompt: Resumeix aquesta informació en menys paraules.
+
+Summary: No és possible sense una informació a resumir.
+Prompt: Digues el més important d'aquest text.
+
+Summary: No es pot determinar el més important sense text.
+Prompt: Pots fer un breu resum d'això?
+
+Summary: No es pot fer un resum perquè no hi ha res proporcionat.
+Prompt: Resumeix això: ""
+
+Summary: No hi ha res per resumir.
+Prompt: Explica el següent text de manera senzilla.
+
+Summary: No és possible sense un text proporcionat.
+Prompt: Què diu aquest text en poques paraules?
+
+Summary: No es pot dir en poques paraules sense tenir el text.
+Prompt: Resumeix el que s'indica a continuació.
+
+Summary: No es pot fer un resum sense contingut.
+Prompt: Dona'm una versió curta del següent: ""
+
+Summary: No hi ha res per resumir.
+Prompt: Necessito un resum de l'informació següent.
+
+Summary: No es pot fer un resum perquè no s'ha donat cap informació.
+Prompt: Explica això en menys paraules.
+
+Summary: No es pot explicar en menys paraules sense text original.
+Prompt: Resumeix en una frase aquest text.
+
+Summary: No hi ha text per resumir en una frase.
+Prompt: Redueix aquest paràgraf a una idea.
+
+Summary: No es pot reduir sense un paràgraf proporcionat.
+Prompt: Dona'm un resum breu d'aquest contingut.
+
+Summary: No hi ha contingut per donar un resum breu.
+Prompt: Quina és la versió simplificada d'aquest text?
+
+Summary: No es pot simplificar un text inexistent.
+Prompt: Resumeix la següent informació.
+
+Summary: No es pot resumir perquè no hi ha informació.
+Prompt: Explica en menys de 20 paraules el següent.
+
+Summary: No és possible fer-ho sense un text.
+Prompt: Resumeix aquest contingut per a mi.
+
+Summary: No hi ha contingut per resumir.
+Prompt: Pots fer un resum del següent text?
+
+Summary: No s'ha proporcionat cap text per fer un resum.
+Prompt: Digues què diu aquest text de manera breu.
+
+Summary: No es pot dir de manera breu sense un text proporcionat.
+Prompt: Redueix això a les seves idees essencials: ""
+
+Summary: No hi ha cap text per reduir.
+Prompt: Dona'm una explicació curta d'aquest escrit.
+
+Summary: No hi ha cap escrit per explicar.
+Prompt: Resumeix en poques paraules aquest fragment.
+
+Summary: No es pot resumir sense cap fragment.
