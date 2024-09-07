@@ -21,3 +21,19 @@ The idea is to have 3B tokens of quality data.
   
 - Questions & answers (500.000 entries):
   - Made by @rogerbaiges
+
+
+
+For finetunning, the idea is to have:
+
+- patufet - IT
+- alpaCat
+- patufet - QA
+- patufet - escrits
+- patufet - human-interactions
+- patufet - summaries
+
+- patufet - conversa
+- patufet - safety
+- patufet - reasoning
+- patufet - DPO
