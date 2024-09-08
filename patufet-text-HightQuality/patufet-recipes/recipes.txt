@@ -1,0 +1,561 @@
+Prompt: Bona tarda, em podries donar la recepta d'una truita de patates? Output: Aquí tens la recepta de la truita de patates: pela i talla les patates a rodanxes fines. Fes-les fregir fins que estiguin toves. Bat uns ous i afegeix les patates fregides. Després, cuina-ho tot en una paella fins que qualli per ambdós costats.
+
+Prompt: Com es fa una escalivada? Output: Per fer una escalivada, escaliva al forn pebrots, albergínies i cebes fins que estiguin ben tendres. Pela les verdures i talla-les a tires. Amaneix amb oli d’oliva, sal i pebre.
+
+Prompt: Hola, podries explicar-me com es fa una paella? Output: Comença sofregint ceba, all i pebrot en una paella gran. Afegeix tomàquet triturat, arròs i brou de peix o pollastre. Incorpora marisc o carn, i deixa-ho coure fins que l’arròs absorbeixi el brou. Servir calent.
+
+Prompt: Quina és la recepta per fer una crema catalana? Output: Escalfa llet amb canyella i pell de llimona. En un altre bol, barreja rovells d’ou i sucre. Afegeix la llet calenta i remena fins espessir. Deixa refredar i crema sucre per sobre abans de servir.
+
+Prompt: Vull fer samfaina, com es fa? Output: Pela i talla albergínies, carabassons, pebrots i cebes. Sofregeix-ho tot amb tomàquet triturat fins que les verdures estiguin ben tendres. És ideal per acompanyar plats de carn o peix.
+
+Prompt: Pots explicar-me la recepta d'un gaspatxo? Output: Talla tomàquets, pebrot, cogombre i ceba. Afegeix aigua, oli d’oliva, vinagre i una mica de pa sec. Tritura-ho tot fins que quedi ben fi i serveix fred.
+
+Prompt: Hola, com puc fer un flam casolà? Output: Escalfa llet amb vainilla. En un altre bol, bat ous amb sucre. Afegeix la llet calenta i aboca la barreja en motlles amb caramel líquid. Cou al bany maria fins que qualli.
+
+Prompt: Necessito una recepta ràpida d'amanida de pasta. Output: Bull pasta i deixa-la refredar. Afegeix tomàquet, tonyina, olives, cogombre i una mica de formatge. Amaniu-ho amb oli d’oliva i sal.
+
+Prompt: Hola, com puc preparar una fideuà? Output: Sofregeix fideus amb all i ceba. Afegeix brou de peix, calamars i gambes. Deixa coure fins que els fideus estiguin fets i serveix amb allioli.
+
+Prompt: Explica’m la recepta d’una coca de recapte. Output: Estén massa de pa sobre una safata i col·loca verdures escalivades (com pebrots i albergínia) i llonganissa o arengades. Cou al forn fins que la massa estigui daurada.
+
+Prompt: Bona tarda, em pots donar la recepta d’unes croquetes de pernil? Output: Per fer croquetes de pernil, fes un sofregit amb ceba i afegeix-hi pernil tallat a trossets petits. Prepara una beixamel espessa i barreja-ho tot. Deixa refredar, dona forma a les croquetes, arrebossa amb ou i pa ratllat i fregeix.
+
+Prompt: Com puc preparar unes albergínies farcides? Output: Talla les albergínies per la meitat, buida-les i reserva la polpa. Fes un sofregit amb ceba, pebrot i carn picada, afegeix la polpa de les albergínies i omple les meitats amb aquesta barreja. Gratina amb formatge al forn.
+
+Prompt: Hola, pots donar-me una recepta de bacallà a la llauna? Output: Desala el bacallà i enfarina’l. Fes un sofregit de tomàquet, all i pebre vermell. Col·loca el bacallà en una safata de forn, cobreix-lo amb el sofregit i gratina’l fins que quedi daurat.
+
+Prompt: Necessito una recepta de macarrons a la bolonyesa. Output: Sofregeix ceba, pastanaga i carn picada en una paella. Afegeix tomàquet triturat i deixa coure. Bull els macarrons i, un cop cuits, barreja-ho tot. Cobreix amb formatge ratllat i gratina al forn.
+
+Prompt: Com puc fer un pollastre al curri? Output: Talla el pollastre a daus i daura’l en una paella. Afegeix ceba i all picats, després afegeix curri en pols i nata líquida. Cuina fins que la salsa espesseixi i serveix amb arròs blanc.
+
+Prompt: Podries explicar-me la recepta del suquet de peix? Output: Fes un sofregit amb ceba, tomàquet i all. Afegeix patates a rodanxes i cobreix amb brou de peix. Quan les patates estiguin tendres, incorpora el peix i deixa coure fins que estigui al punt.
+
+Prompt: Com puc preparar una truita de carbassó? Output: Talla el carbassó a rodanxes fines i salteja’l fins que estigui tendre. Bat ous i afegeix-hi el carbassó. Cuina-ho tot en una paella fins que la truita qualli.
+
+Prompt: Hola, em pots explicar com fer unes patates braves? Output: Pela i talla les patates a daus grans. Freg-les fins que estiguin daurades i cruixents. Per la salsa, barreja tomàquet fregit, pebre vermell, vinagre i una mica de bitxo.
+
+Prompt: Vull fer un arròs a la cubana, com es fa? Output: Bull arròs blanc. Serveix-lo amb un ou ferrat a sobre i acompanya’l amb plàtan fregit i salsa de tomàquet per sobre.
+
+Prompt: Pots donar-me una recepta de lasanya vegetal? Output: Salteja verdures com espinacs, albergínies i carbassó. Prepara una beixamel i munta capes de pasta amb les verdures i la beixamel. Cobreix amb formatge i gratina al forn.
+
+Prompt: Bona tarda, com puc fer una sopa de ceba? Output: Fes un sofregit amb ceba a foc lent fins que estigui caramel·litzada. Afegeix brou de pollastre i deixa coure uns minuts. Serveix la sopa amb pa torrat i formatge gratinat.
+
+Prompt: Em pots passar la recepta d’una amanida russa? Output: Bull patates, pastanagues i pèsols. Talla les patates i pastanagues a daus, barreja-ho amb tonyina, olives i maionesa. Refreda abans de servir.
+
+Prompt: Hola, necessito la recepta d'un tiramisú. Output: Mulla bescuits en cafè. Prepara una crema amb rovells d'ou, sucre i mascarpone. Munta capes de bescuits amb la crema de mascarpone i acaba amb cacau en pols per sobre. Refreda abans de servir.
+
+Prompt: Com es fa un pollastre rostit? Output: Marina el pollastre amb llimona, all, herbes aromàtiques i oli d’oliva. Rost-lo al forn fins que estigui ben daurat i cuit per dins.
+
+Prompt: Vull preparar una quiche de pernil i formatge. Output: Barreja ous batuts amb nata líquida, pernil i formatge. Aboqueu-ho en una massa de pasta brisa i enforna-ho fins que quedi daurat i quallat.
+
+Prompt: Pots explicar-me la recepta de crema de carbassó? Output: Talla carbassó i patata a trossos. Cou-ho amb aigua i una mica de ceba fins que estiguin tendres. Tritura i serveix amb un raig d'oli d'oliva.
+
+Prompt: Hola, com es fan les galetes de mantega? Output: Barreja mantega amb sucre, farina i una mica de vainilla. Fes boles amb la massa i aixafa-les una mica. Cou al forn fins que estiguin daurades.
+
+Prompt: Explica’m la recepta d'una coca de vidre. Output: Estira una massa de pa ben fina. Cobreix-la amb sucre i oli d'oliva, i enforna fins que estigui cruixent. Quan surt del forn, pots afegir-hi més sucre per sobre.
+
+Prompt: Com puc preparar un risotto de bolets? Output: Sofregeix ceba i bolets, afegeix arròs i remou fins que estigui una mica transparent. Afegeix brou de pollastre de mica en mica mentre remous fins que l’arròs estigui al punt.
+
+Prompt: Hola, com es fa una pizza casolana? Output: Estira la massa de pizza, afegeix tomàquet, mozzarella i els ingredients que vulguis. Cou-la al forn fins que la massa estigui daurada i el formatge fos.
+
+Prompt: Bona tarda, em pots donar la recepta d’unes croquetes de pernil? Output: Fes un sofregit de ceba i afegeix-hi pernil picat. Prepara una beixamel espessa, barreja-ho tot i deixa refredar. Dona forma a les croquetes, arrebossa amb ou i pa ratllat, i fregeix fins que estiguin daurades.
+
+Prompt: Com puc preparar unes albergínies farcides? Output: Buida les albergínies i reserva la polpa. Fes un sofregit amb ceba, pebrot i carn picada. Afegeix la polpa de les albergínies, omple-les i gratina amb formatge al forn.
+
+Prompt: Hola, pots donar-me una recepta de bacallà a la llauna? Output: Desala el bacallà i enfarina’l. Fes un sofregit de tomàquet, all i pebre vermell. Col·loca el bacallà en una safata de forn, cobreix-lo amb el sofregit i gratina’l.
+
+Prompt: Necessito una recepta de macarrons a la bolonyesa. Output: Fes un sofregit de ceba, pastanaga i carn picada. Afegeix tomàquet triturat i deixa coure. Bull els macarrons, barreja-ho tot i gratina amb formatge.
+
+Prompt: Com puc fer un pollastre al curri? Output: Salta el pollastre amb ceba i afegeix curri i nata líquida. Deixa que es cuini a foc lent fins que la salsa espesseixi.
+
+Prompt: Podries explicar-me la recepta del suquet de peix? Output: Fes un sofregit de ceba i tomàquet. Afegeix patates i brou de peix, i quan estiguin tendres, incorpora el peix. Cuina fins que estigui al punt.
+
+Prompt: Com puc preparar una truita de carbassó? Output: Talla el carbassó a rodanxes i fregeix-lo fins que estigui tendre. Bat uns ous, barreja-ho i cuina en una paella.
+
+Prompt: Hola, em pots explicar com fer unes patates braves? Output: Freg les patates a daus i prepara una salsa amb tomàquet, pebre vermell, vinagre i una mica de bitxo. Serveix-ho amb les patates.
+
+Prompt: Vull fer un arròs a la cubana, com es fa? Output: Bull arròs blanc, serveix-lo amb un ou ferrat i afegeix salsa de tomàquet per sobre. Acompanya-ho amb plàtan fregit.
+
+Prompt: Pots donar-me una recepta de lasanya vegetal? Output: Salta verdures com espinacs i albergínia. Munta capes de pasta amb les verdures i beixamel, gratina al forn amb formatge.
+
+Prompt: Bona tarda, com puc fer una sopa de ceba? Output: Fes un sofregit de ceba, afegeix brou i deixa coure uns minuts. Serveix amb pa torrat i formatge gratinat.
+
+Prompt: Em pots passar la recepta d’una amanida russa? Output: Bull patates, pastanagues i pèsols. Barreja-ho amb tonyina, olives i maionesa.
+
+Prompt: Hola, necessito la recepta d'un tiramisú. Output: Mulla bescuits en cafè i munta capes amb crema de mascarpone. Espolvoreja amb cacau i refreda abans de servir.
+
+Prompt: Com es fa un pollastre rostit? Output: Rost el pollastre al forn amb llimona, all i herbes aromàtiques fins que estigui daurat.
+
+Prompt: Vull preparar una quiche de pernil i formatge. Output: Barreja ous batuts, nata, pernil i formatge. Aboqueu-ho en una massa brisa i enforna.
+
+Prompt: Pots explicar-me la recepta de crema de carbassó? Output: Cou carbassó i patata amb ceba, tritura-ho tot i serveix amb un raig d'oli d'oliva.
+
+Prompt: Hola, com es fan les galetes de mantega? Output: Barreja mantega, sucre i farina. Fes boles amb la massa, aplana-les i enforna fins que estiguin daurades.
+
+Prompt: Explica’m la recepta d'una coca de vidre. Output: Estira una massa de pa ben fina, cobreix-la amb sucre i oli. Enforna fins que estigui cruixent.
+
+Prompt: Com puc preparar un risotto de bolets? Output: Sofregeix ceba i bolets, afegeix arròs i remou. Afegeix brou de mica en mica fins que estigui cuit.
+
+Prompt: Hola, com es fa una pizza casolana? Output: Estira la massa, afegeix tomàquet i mozzarella, i cou al forn fins que estigui daurada.
+
+Prompt: Pots donar-me la recepta d’un brownie? Output: Fundeix xocolata amb mantega, barreja-ho amb ous, sucre i farina. Enforna fins que estigui cuit per fora però tendre per dins.
+
+Prompt: Com puc fer una amanida de quinoa? Output: Cou la quinoa, deixa-la refredar i barreja-la amb tomàquet, cogombre, ceba i alvocat. Amaneix amb oli i llimona.
+
+Prompt: Vull preparar unes llenties estofades, com ho faig? Output: Cou llenties amb ceba, pastanaga, all i llorer. Afegeix xoriç i patata, i deixa coure a foc lent fins que estiguin tendres.
+
+Prompt: Hola, em pots donar la recepta d'una sopa de peix? Output: Fes un sofregit de ceba i tomàquet, afegeix peix de roca i aigua. Deixa coure i després tritura i cola el brou. Afegeix peix i marisc abans de servir.
+
+Prompt: Necessito una recepta de calamars a la romana. Output: Talla els calamars en rodanxes, arrebossa’ls amb farina i ou, i fregeix-los fins que estiguin daurats.
+
+Prompt: Com puc fer una truita d'espinacs? Output: Salta els espinacs, bat uns ous i barreja-ho. Cuina en una paella fins que qualli.
+
+Prompt: Em podries dir com es fa una amanida cèsar? Output: Barreja enciam amb pollastre a la planxa, crostons de pa i formatge parmesà. Afegeix salsa cèsar i serveix.
+
+Prompt: Quina és la recepta d’un arròs negre? Output: Fes un sofregit de ceba i pebrot, afegeix calamars i tinta de sípia. Afegeix arròs i brou de peix, i cuina fins que estigui al punt.
+
+Prompt: Bona tarda, com es fa una crema de verdures? Output: Cou pastanaga, carbassó i porro amb aigua. Tritura-ho tot i serveix amb un raig d’oli d’oliva.
+
+Prompt: Pots donar-me una recepta de farcit de pebrots? Output: Buida els pebrots, prepara un sofregit de carn picada amb ceba i tomàquet. Omple els pebrots amb la barreja i cou-los al forn.
+
+Prompt: Com es fa un pastís de poma? Output: Estira una massa de pasta brisa i col·loca-hi pomes tallades a làmines. Cobreix amb sucre i canyella, i enforna fins que estigui daurat.
+
+Prompt: Hola, podries donar-me la recepta d’unes mandonguilles amb tomàquet? Output: Barreja carn picada amb all i julivert, forma les mandonguilles i fregeix-les. Fes un sofregit de tomàquet i afegeix-hi les mandonguilles. Deixa coure uns minuts.
+
+Prompt: Quina és la recepta d'unes coques de recapte? Output: Estira una massa de pa i col·loca-hi verdures escalivades i llonganissa. Enforna fins que la massa estigui cruixent.
+
+Prompt: Com puc fer una lasanya de carn? Output: Fes un sofregit de carn picada amb ceba i tomàquet. Munt capes de pasta de lasanya amb la carn i beixamel. Gratina amb formatge al forn.
+
+Prompt: Bona tarda, pots dir-me com es fan les llenties amb xoriç? Output: Cou llenties amb ceba, all i llorer. Afegeix xoriç a rodanxes i deixa coure fins que estiguin tendres.
+
+Prompt: Em podries passar la recepta de la crema catalana? Output: Escalfa llet amb canyella i pell de llimona. Barreja rovells d'ou amb sucre, afegeix-hi la llet i cuina fins que espesseixi. Deixa refredar i crema sucre per sobre abans de servir.
+
+Prompt: Hola, pots donar-me la recepta de pollastre a l'ast? Output: Marina el pollastre amb all, llimona i herbes. Cuina'l a l'ast fins que estigui daurat i sucós.
+
+Prompt: Com puc fer unes patates al forn? Output: Talla les patates a rodanxes, amaneix-les amb oli, sal i herbes aromàtiques. Cou-les al forn fins que estiguin daurades.
+
+Prompt: Vull preparar un gaspatxo andalús, com ho faig? Output: Tritura tomàquets, pebrot, cogombre i all. Afegeix vinagre, oli i aigua freda. Refreda abans de servir.
+
+Prompt: Pots donar-me la recepta de fideus a la cassola? Output: Sofregeix fideus amb ceba i pebrot, afegeix brou de pollastre i carn de porc. Deixa coure fins que els fideus estiguin al punt.
+
+Prompt: Com puc fer un bacallà amb samfaina? Output: Fes samfaina amb pebrot, albergínia, ceba i tomàquet. Desala el bacallà i fregeix-lo. Serveix-lo amb la samfaina per sobre.
+
+Prompt: Bona tarda, podries dir-me com fer un estofat de vedella? Output: Doura els trossos de vedella, afegeix ceba, pastanaga i patates. Cobreix amb brou i deixa coure a foc lent fins que la carn estigui tendra.
+
+Prompt: Com es fa un pa de pessic? Output: Bat ous amb sucre fins que quedi una crema esponjosa. Afegeix farina i enforna fins que estigui cuit i daurat.
+
+Prompt: Hola, pots donar-me una recepta de sopa de galets? Output: Fes un brou amb carn de pollastre i vedella. Afegeix els galets al brou i deixa que es coguin fins que estiguin tendres.
+
+Prompt: Vull fer una pizza amb formatge de cabra, com ho faig? Output: Estira la massa de pizza, afegeix tomàquet, formatge de cabra i nous. Cou al forn fins que estigui daurada.
+
+Prompt: Com puc fer unes postres de flam de coco? Output: Bat ous amb llet condensada i coco ratllat. Aboqueu-ho en motlles amb caramel i cuina al bany maria fins que qualli.
+
+Prompt: Em pots passar la recepta d'una coca de llimona? Output: Barreja sucre amb ous i afegeix suc i ratlladura de llimona. Incorpora farina i enforna fins que estigui daurada.
+
+Prompt: Bona tarda, com puc fer arròs a la marinera? Output: Fes un sofregit de ceba, pebrot i tomàquet. Afegeix marisc i arròs, cobreix amb brou de peix i deixa cuinar fins que l’arròs estigui al punt.
+
+Prompt: Podries dir-me com preparar uns musclos al vapor? Output: Neteja els musclos, col·loca'ls en una olla amb una mica d'aigua i vi blanc. Cou fins que s'obrin.
+
+Prompt: Quina és la recepta d'un salmó al forn amb llimona? Output: Col·loca el salmó en una safata de forn amb rodanxes de llimona, oli d’oliva i herbes aromàtiques. Cou al forn fins que estigui al punt.
+
+Prompt: Com puc preparar un pastís de xocolata? Output: Fundeix xocolata amb mantega, barreja-ho amb ous, sucre i farina. Enforna fins que estigui cuit per fora però tendre per dins.
+
+Prompt: Pots donar-me la recepta d’un bacallà amb allioli? Output: Desala el bacallà i cou-lo al forn. Prepara un allioli i cobreix el bacallà amb aquesta salsa. Gratina al forn fins que estigui daurat.
+
+Prompt: Vull fer un hummus, com es fa? Output: Tritura cigrons cuits amb tahina, all, suc de llimona, comí i oli d’oliva fins que quedi una pasta suau. Serveix-ho amb un raig d’oli i pimentó per sobre.
+
+Prompt: Com es fa una crema de pastanaga? Output: Cou pastanagues amb patata i ceba en aigua o brou. Tritura-ho tot fins que quedi una crema suau. Afegeix un raig de nata o oli d'oliva abans de servir.
+
+Prompt: Hola, em pots donar la recepta d’una mousse de xocolata? Output: Fundeix xocolata i deixa refredar. Bat clares d’ou a punt de neu i barreja-les suaument amb la xocolata fosa. Refreda abans de servir.
+
+Prompt: Com puc fer una escudella i carn d'olla? Output: Bull carn de vedella, pollastre i botifarra amb verdures com col, patata i pastanaga. Afegeix galets al brou i serveix-ho amb la carn.
+
+Prompt: Necessito la recepta d'unes sardines a la brasa. Output: Neteja les sardines i col·loca-les a la brasa amb una mica de sal i oli d'oliva. Cou-les fins que estiguin daurades.
+
+Prompt: Com es prepara un entrecot a la planxa? Output: Salpebra l'entrecot i cuina'l a la planxa ben calenta al teu gust. Serveix amb una mica de mantega o oli d’oliva per sobre.
+
+Prompt: Hola, podries dir-me com fer una amanida de cigrons? Output: Barreja cigrons cuits amb tomàquet, cogombre, ceba i olives. Amaneix amb oli d’oliva, sal i una mica de llimona.
+
+Prompt: Quina és la recepta d'un pastís de formatge? Output: Barreja formatge crema, ous, sucre i nata líquida. Aboqueu-ho en un motlle i enforna fins que quedi quallat. Refreda abans de servir.
+
+Prompt: Com puc fer unes gambes a l'allet? Output: Salta alls laminats en una paella amb oli. Afegeix gambes pelades i cuina-les ràpidament fins que estiguin daurades.
+
+Prompt: Em podries dir com preparar un fricandó? Output: Doura la carn de vedella amb farina i reserva. Fes un sofregit de ceba, tomàquet i bolets, afegeix-hi la carn i deixa coure a foc lent amb brou fins que estigui tendra.
+
+Prompt: Hola, com puc fer un arròs amb llet? Output: Cou arròs amb llet, sucre i una branca de canyella fins que l'arròs estigui tendre i la llet espessida. Refreda abans de servir.
+
+Prompt: Com es fa un flam de vainilla? Output: Bat ous amb llet i sucre. Afegeix una mica de vainilla i aboca la barreja en motlles amb caramel. Cou al bany maria fins que qualli.
+
+Prompt: Vull preparar macarrons amb verdures, com es fa? Output: Salta ceba, carbassó, albergínia i pebrot. Afegeix tomàquet triturat i deixa coure uns minuts. Barreja-ho amb els macarrons bullits i serveix.
+
+Prompt: Com es fa una crema de marisc? Output: Fes un sofregit de ceba i tomàquet, afegeix marisc i tritura-ho tot amb brou de peix. Cola la crema i serveix amb un raig de nata líquida.
+
+Prompt: Bona tarda, pots dir-me com fer unes croquetes de pollastre? Output: Fes un sofregit de ceba i afegeix pollastre picat. Prepara una beixamel espessa, barreja-ho tot, deixa refredar, dona forma a les croquetes, arrebossa-les i fregeix.
+
+Prompt: Com puc preparar una amanida de pasta? Output: Bull la pasta i deixa-la refredar. Barreja-la amb tonyina, olives, cogombre i formatge fresc. Amaneix amb oli d’oliva i sal.
+
+Prompt: Necessito una recepta de samfaina, com es fa? Output: Salta pebrot, albergínia, carbassó i ceba amb tomàquet triturat fins que les verdures estiguin tendres. Serveix com a acompanyament.
+
+Prompt: Hola, com puc fer una sopa d'all? Output: Fregeix alls laminats amb pa sec. Afegeix aigua o brou, pebre vermell i deixa coure uns minuts. Pots afegir-hi un ou batut al final.
+
+Prompt: Com es fa un estofat de porc? Output: Doura els trossos de porc amb ceba i pastanaga. Afegeix vi blanc i patates, cobreix amb brou i deixa coure a foc lent fins que estigui tendre.
+
+Prompt: Bona tarda, podries dir-me com fer una crema de carbassa? Output: Cou carbassa amb patata i ceba en brou. Tritura-ho tot fins que quedi una crema suau i afegeix un raig de nata líquida.
+
+Prompt: Em pots passar la recepta d’unes cloïsses a la marinera? Output: Salta all i ceba amb tomàquet triturat. Afegeix les cloïsses i una mica de vi blanc. Cuina fins que les cloïsses s’obrin i serveix.
+
+Prompt: Com puc fer una truita de patates amb ceba? Output: Pela i talla patates a rodanxes fines. Fes-les fregir amb ceba fins que estiguin toves. Bat ous, barreja-ho amb les patates i cuina-ho tot en una paella.
+
+Prompt: Vull fer uns calamars farcits, com es fa? Output: Fes un sofregit de ceba, pebrot i carn picada. Omple els calamars amb aquesta barreja, tanca'ls amb un escuradents i cuina'ls al forn amb una mica de vi blanc.
+
+Prompt: Com puc preparar una escarola amb romesco? Output: Renta l’escarola i prepara la salsa romesco amb tomàquets, alls, nyores, ametlles, avellanes, vinagre i oli d’oliva. Barreja l’escarola amb la salsa i serveix.
+
+Prompt: Hola, em pots donar la recepta d’unes faves a la catalana? Output: Fes un sofregit amb ceba i afegeix cansalada i botifarra negra a trossets. Afegeix faves i un raig de vi, i deixa coure fins que estiguin tendres.
+
+Prompt: Com puc fer un pollastre amb prunes? Output: Doura el pollastre amb ceba i afegeix prunes i pinyons. Cobreix amb brou o vi blanc i cuina a foc lent fins que el pollastre estigui tendre.
+
+Prompt: Necessito una recepta d’espinacs amb panses i pinyons. Output: Salta els espinacs amb una mica d'oli d'oliva. Afegeix panses i pinyons, i cuina-ho tot fins que estiguin daurats.
+
+Prompt: Com puc preparar un conill amb allada? Output: Talla el conill a trossos, sala'l i fregeix-lo amb alls laminats. Deixa que es daurin bé i serveix-ho amb julivert picat per sobre.
+
+Prompt: Podries explicar-me la recepta de pastís de pinyons? Output: Prepara una base de pasta de full, farceix-la amb crema pastissera i cobreix amb pinyons. Enforna fins que estigui daurat.
+
+Prompt: Hola, com puc fer un arròs al forn? Output: Sofregeix carn de porc amb ceba, afegeix arròs i brou. Cou-ho tot al forn fins que l’arròs estigui cuit i serveix amb botifarra i costella.
+
+Prompt: Pots donar-me una recepta de bacallà a la brasa? Output: Desala el bacallà i cuina'l a la brasa amb oli d'oliva i alls. Serveix-ho amb patates al caliu.
+
+Prompt: Com puc fer una truita de xampinyons? Output: Salta els xampinyons amb all i julivert. Bat ous i afegeix els xampinyons, cuina la barreja en una paella fins que la truita qualli.
+
+Prompt: Bona tarda, pots explicar-me com fer una esqueixada de bacallà? Output: Desala el bacallà, esmicola’l i barreja’l amb tomàquet, ceba, pebrot i olives. Amaneix amb oli d’oliva i vinagre.
+
+Prompt: Com es prepara un arròs amb bolets? Output: Salta bolets amb all i afegeix arròs. Incorpora brou de verdures a poc a poc fins que l'arròs estigui cuit.
+
+Prompt: Com puc preparar patates d’Olot? Output: Talla les patates a làmines fines. Farceix-les amb carn picada, arrebossa-les amb ou i farina, i fregeix-les fins que estiguin daurades.
+
+Prompt: Pots donar-me la recepta d’un suflé de formatge? Output: Prepara una beixamel espessa i afegeix-hi formatge ratllat. Incorpora clares d’ou muntades i enforna fins que el suflé pugi i estigui daurat.
+
+Prompt: Com puc fer uns musclos amb salsa verda? Output: Cuina els musclos al vapor. Prepara una salsa amb all, julivert, vi blanc i oli, i aboca-la sobre els musclos.
+
+Prompt: Hola, pots dir-me com fer un entrepà de calamars? Output: Arrebossa els calamars amb farina i ou, fregeix-los i posa’ls dins d’un panet cruixent amb una mica de maionesa.
+
+Prompt: Vull fer una coca de recapte amb sardines, com ho faig? Output: Estira una massa de pa, col·loca-hi verdures escalivades i sardines fresques. Cou al forn fins que la massa estigui daurada.
+
+Prompt: Com puc preparar pollastre amb samfaina? Output: Fes samfaina amb pebrot, albergínia, ceba i tomàquet. Doura el pollastre i afegeix-lo a la samfaina, deixa coure a foc lent fins que estigui tendre.
+
+Prompt: Com es fa un pastís de pastanaga? Output: Barreja pastanaga ratllada amb farina, sucre, ous i una mica de canyella. Enforna fins que estigui cuit i serveix amb una cobertura de formatge cremós.
+
+Prompt: Hola, pots donar-me la recepta de calamars a la planxa? Output: Neteja els calamars i cuina'ls a la planxa amb una mica d'oli i all picat. Serveix amb una mica de julivert.
+
+Prompt: Com es fa una fideuà de marisc? Output: Salta els fideus amb ceba, all i tomàquet. Afegeix marisc i cobreix amb brou de peix, cuina fins que els fideus estiguin al punt.
+
+Prompt: Bona tarda, pots explicar-me com fer una amanida de tomàquet i mozzarella? Output: Talla tomàquets i mozzarella a rodanxes, col·loca’ls alternant-los en un plat. Amaneix amb oli d’oliva, sal i una mica d'alfàbrega fresca.
+
+Prompt: Com puc preparar un peix al forn amb patates? Output: Col·loca rodanxes de patata en una safata de forn, posa el peix al damunt amb all i llimona. Cou-ho fins que el peix estigui al punt i les patates daurades.
+
+Prompt: Pots donar-me la recepta d’unes albergínies a la parmesana? Output: Fregeix les albergínies a rodanxes, alterna capes d’albergínia amb tomàquet i formatge parmesà en una safata de forn. Gratina fins que el formatge estigui fos.
+
+Prompt: Com es fa una sopa de verdures? Output: Cou pastanaga, carbassó, porro i patata amb aigua o brou de verdures. Tritura-ho tot o deixa els trossos si ho prefereixes.
+
+Prompt: Hola, com puc preparar una coca de recapte amb botifarra? Output: Estira una massa de pa i col·loca-hi verdures escalivades i botifarra. Cou al forn fins que la massa estigui daurada.
+
+Prompt: Com puc fer un arròs amb verdures? Output: Salta verdures com carbassó, albergínia i pebrot. Afegeix arròs i brou de verdures, cuina fins que estigui al punt.
+
+Prompt: Vull fer uns bunyols de bacallà, com es fan? Output: Desala el bacallà i tritura'l amb all i julivert. Barreja-ho amb farina i aigua per fer una massa espessa, forma bunyols i fregeix-los.
+
+Prompt: Com puc fer un flam de cafè? Output: Barreja ous amb llet, sucre i cafè. Aboqueu-ho en motlles amb caramel i cuina al bany maria fins que qualli.
+
+Prompt: Bona tarda, pots explicar-me com fer unes gambes a la planxa? Output: Escalfa una planxa amb oli, cuina les gambes fins que estiguin daurades per ambdós costats i salpebra abans de servir.
+
+Prompt: Com puc preparar una amanida de col i pastanaga? Output: Talla la col i la pastanaga a tires fines, barreja-ho amb maionesa i una mica de suc de llimona. Refreda abans de servir.
+
+Prompt: Com puc preparar una crema de pèsols? Output: Cou els pèsols amb ceba i una mica de patata. Tritura-ho tot amb brou de verdures fins a obtenir una crema suau. Afegeix un raig de nata líquida o oli d’oliva abans de servir.
+
+Prompt: Vull fer uns calamars a la romana, com es fan? Output: Talla els calamars en rodanxes, arrebossa’ls amb farina i ou, i fregeix-los fins que estiguin daurats.
+
+Prompt: Com es fa un pastís de tres xocolates? Output: Fes una base de galetes triturades amb mantega. Prepara tres capes de mousse de xocolata negra, xocolata amb llet i xocolata blanca. Refreda i serveix.
+
+Prompt: Bona tarda, pots explicar-me com fer una paella de verdures? Output: Fes un sofregit de ceba, pebrot, carxofes i altres verdures. Afegeix arròs i brou de verdures. Cuina a foc lent fins que l’arròs absorbeixi el brou.
+
+Prompt: Com puc fer una crema de porros? Output: Cou porros i patates en aigua o brou. Tritura-ho tot i serveix amb un raig d’oli d’oliva o nata líquida.
+
+Prompt: Hola, com puc preparar un arròs amb conill? Output: Doura el conill amb ceba i all, afegeix arròs i sofregit de tomàquet. Cobreix amb brou i cuina fins que l'arròs estigui al punt.
+
+Prompt: Com es fan unes torrades de Santa Teresa? Output: Mulla llesques de pa en llet i ous batuts. Freg-les fins que estiguin daurades i serveix amb sucre o canyella per sobre.
+
+Prompt: Vull fer uns espaguetis carbonara, com es fan? Output: Fes saltar cansalada en una paella. Barreja ous batuts amb parmesà i afegeix-ho als espaguetis calents, juntament amb la cansalada. Remena bé i serveix.
+
+Prompt: Com puc fer una coca de llardons? Output: Estira la massa de pasta de full i reparteix els llardons per sobre. Espolvoreja sucre i pinyons, i enforna fins que estigui daurada.
+
+Prompt: Pots explicar-me com fer una salsa romesco? Output: Tritura tomàquet escalivat, all, nyores, ametlles, avellanes, pa fregit, vinagre i oli d'oliva. Afegeix sal al gust i serveix amb calçots o verdures.
+
+Prompt: Com puc preparar un trinxat de la Cerdanya? Output: Bull patata i col, aixafa-les i barreja-ho amb botifarra negra fregida a trossos. Fes una truita amb la barreja o serveix-ho com a puré.
+
+Prompt: Vull fer una amanida de patata, com es fa? Output: Bull patates i talla-les a daus. Barreja-les amb ceba, cogombrets, olives i maionesa. Refreda abans de servir.
+
+Prompt: Com es fa un pastís de Santiago? Output: Barreja ametlles mòltes amb ous, sucre i una mica de ratlladura de llimona. Aboqueu-ho en un motlle i enforna fins que estigui daurat. Decora amb sucre glaç i una creu de Santiago.
+
+Prompt: Hola, pots explicar-me com fer una crema de carabassa? Output: Cou carabassa amb patata i ceba en aigua o brou. Tritura-ho tot i afegeix nata líquida o un raig d’oli d’oliva abans de servir.
+
+Prompt: Com puc fer uns panellets? Output: Barreja farina d’ametlla, sucre i rovells d’ou. Fes boles amb la massa i decora-les amb pinyons o altres ingredients. Cou-les al forn fins que estiguin daurades.
+
+Prompt: Vull preparar macarrons gratinats, com es fan? Output: Fes un sofregit de tomàquet amb carn picada. Barreja-ho amb els macarrons bullits, cobreix amb formatge ratllat i gratina al forn.
+
+Prompt: Com es fa una amanida caprese? Output: Talla tomàquet i mozzarella a rodanxes, amaneix amb oli d’oliva, sal i alfàbrega fresca. Serveix-ho fred.
+
+Prompt: Em pots passar la recepta d’una mousse de llimona? Output: Barreja suc de llimona amb nata muntada i llet condensada. Refreda-ho a la nevera abans de servir.
+
+Prompt: Com puc preparar ous farcits de tonyina? Output: Bull ous, pela'ls i parteix-los per la meitat. Barreja els rovells amb tonyina i maionesa, farceix les clares i decora amb una mica de pebre vermell.
+
+Prompt: Vull fer una quiche de verdures, com ho faig? Output: Salta verdures com espinacs i xampinyons. Barreja-les amb ous batuts i nata líquida, i aboca-ho sobre una base de pasta brisa. Enforna fins que qualli.
+
+Prompt: Com puc fer una crema de marisc? Output: Fes un sofregit de ceba i tomàquet, afegeix marisc i tritura-ho amb brou de peix. Cola la crema i serveix amb un raig de nata líquida.
+
+Prompt: Necessito la recepta de carxofes al forn. Output: Neteja les carxofes i col·loca-les en una safata de forn amb oli d’oliva, all picat i julivert. Cou al forn fins que estiguin tendres.
+
+Prompt: Hola, pots donar-me la recepta d'unes llesques amb foie? Output: Torra llesques de pa, col·loca-hi foie gras per sobre i serveix-ho amb una mica de melmelada o fruita fresca.
+
+Prompt: Com puc preparar un rap a la marinera? Output: Doura el rap en una paella, afegeix ceba, all i tomàquet. Afegeix vi blanc i cuina fins que el rap estigui al punt.
+
+Prompt: Vull fer patates guisades amb carn, com ho faig? Output: Salta trossos de carn amb ceba i all. Afegeix patates a trossos i cobreix amb brou. Cuina a foc lent fins que les patates estiguin tendres.
+
+Prompt: Com es fa un xató? Output: Barreja escarola amb bacallà esqueixat, tonyina, olives i anxoves. Afegeix salsa romesco per amanir.
+
+Prompt: Pots dir-me com preparar uns calçots a la brasa? Output: Neteja els calçots i cou-los a la brasa fins que la pell estigui negra i ben cuita. Pela’ls i serveix amb salsa romesco.
+
+Prompt: Com puc fer un arròs de muntanya? Output: Sofregeix carn de conill i porc amb ceba i all. Afegeix arròs i brou de carn, i cuina a foc lent fins que l’arròs estigui al punt.
+
+Prompt: Vull preparar una botifarra amb mongetes, com ho faig? Output: Fes la botifarra a la planxa i acompanya-la amb mongetes saltejades amb all i julivert.
+
+Prompt: Com es fa una crema de bolets? Output: Salta bolets amb ceba, afegeix brou i tritura-ho tot fins a obtenir una crema suau. Serveix amb un raig de nata líquida.
+
+Prompt: Pots explicar-me com preparar unes galetes d’ametlla? Output: Barreja ametlla mòlta amb sucre i ous. Forma petites boles i enforna fins que estiguin daurades.
+
+Prompt: Com puc fer una cassola de tros? Output: Sofregeix carn de porc amb ceba, all i tomàquet. Afegeix patates, carxofes i una mica de brou. Deixa coure fins que tot estigui tendre.
+
+Prompt: Vull fer uns rovellons a la planxa, com es fan? Output: Neteja els rovellons i cuina'ls a la planxa amb all picat i julivert. Salpebra al gust.
+
+Prompt: Com es fa un pollastre a la cervesa? Output: Doura el pollastre amb ceba, afegeix cervesa i cuina a foc lent fins que la carn estigui tendra i la salsa hagi reduït.
+
+Prompt: Pots donar-me la recepta d’una coca de recapte amb verdures? Output: Estira una massa de pa, col·loca-hi verdures escalivades com pebrot i albergínia. Cou al forn fins que la massa estigui cruixent.
+
+Prompt: Com puc fer un estofat de llenties? Output: Cou les llenties amb ceba, pastanaga, pebrot i llorer. Afegeix xoriç o botifarra negra i cuina a foc lent fins que les llenties estiguin tendres.
+
+Prompt: Pots explicar-me com fer una crema d'espàrrecs? Output: Cou espàrrecs amb ceba i patata. Tritura-ho tot amb brou de verdures fins a obtenir una crema suau. Afegeix un raig de nata líquida abans de servir.
+
+Prompt: Com puc preparar un bacallà al pil-pil? Output: Desala el bacallà i cuina'l en una cassola amb oli d'oliva. Mou la cassola constantment fins que l'oli emulsioni i es formi una salsa espessa.
+
+Prompt: Vull fer uns cargols a la llauna, com es preparen? Output: Neteja els cargols i col·loca'ls sobre una llauna amb sal, oli i herbes aromàtiques. Cou-los al forn fins que estiguin daurats.
+
+Prompt: Com es fa un tiramisú? Output: Mulla bescuits en cafè i alterna capes de bescuits amb crema de mascarpone. Espolvoreja cacau en pols per sobre i refreda abans de servir.
+
+Prompt: Pots dir-me com fer una escudella i carn d'olla? Output: Bull carn de vedella, pollastre, botifarra i verdures com patates i col. Serveix el brou amb galets i les carns i verdures com a segon plat.
+
+Prompt: Com es fa una crema de xampinyons? Output: Salta xampinyons amb ceba, afegeix brou i tritura-ho tot fins a obtenir una crema suau. Serveix amb un raig de nata líquida.
+
+Prompt: Vull fer una coca de llardons, com es fa? Output: Estira la massa de pasta de full, afegeix-hi llardons esmicolats, sucre i pinyons. Cou al forn fins que estigui daurada.
+
+Prompt: Com es preparen uns espaguetis a la bolonyesa? Output: Sofregeix ceba i carn picada, afegeix tomàquet triturat i cuina a foc lent. Serveix la salsa amb els espaguetis bullits.
+
+Prompt: Hola, com puc fer una truita de patates? Output: Pela i talla les patates a rodanxes fines, fregeix-les fins que estiguin toves. Bat ous, barreja amb les patates i cuina la truita en una paella.
+
+Prompt: Com puc preparar uns calçots amb salsa romesco? Output: Cou els calçots a la brasa fins que la pell estigui negra. Serveix-los amb salsa romesco feta amb tomàquet, nyores, fruits secs i oli d'oliva.
+
+Prompt: Vull fer una fideuà, com es fa? Output: Sofregeix fideus amb all i ceba. Afegeix calamars, gambes i brou de peix. Cuina fins que els fideus estiguin al punt.
+
+Prompt: Com puc preparar una escarola amb bacallà esqueixat? Output: Renta l’escarola i barreja-la amb bacallà esqueixat, olives i ceba. Amaneix amb oli d’oliva, vinagre i sal.
+
+Prompt: Pots dir-me com preparar uns bunyols de vent? Output: Fes una massa amb farina, mantega, aigua i ous. Forma boles i fregeix-les fins que estiguin daurades. Espolvoreja amb sucre abans de servir.
+
+Prompt: Com es fa una coca de pinyons? Output: Estira una massa de pa, afegeix-hi pinyons i sucre per sobre. Cou al forn fins que estigui daurada i cruixent.
+
+Prompt: Vull fer una amanida amb formatge de cabra, com es fa? Output: Barreja enciam amb tomàquet, nous i formatge de cabra a la planxa. Amaneix amb oli d’oliva i vinagre balsàmic.
+
+Prompt: Com puc fer una sopa de galets amb pilota? Output: Prepara un brou amb carn de vedella, pollastre i botifarra. Afegeix galets i pilotes de carn picada, i cuina fins que els galets estiguin tendres.
+
+Prompt: Pots explicar-me com fer uns ous estrellats? Output: Freg les patates a rodanxes fines. Afegeix ous ferrats per sobre i trenca'ls perquè es barregin amb les patates. Pots afegir-hi pernil o xoriç.
+
+Prompt: Com es fa un llobarro a la sal? Output: Cobreix el llobarro amb una capa gruixuda de sal i cou-lo al forn. Quan estigui fet, trenca la crosta de sal i serveix.
+
+Prompt: Com puc preparar uns raviolis de carn? Output: Prepara una massa de pasta i farceix-la amb carn picada cuinada amb ceba i herbes. Bull els raviolis i serveix-los amb salsa de tomàquet o nata.
+
+Prompt: Pots donar-me la recepta d’unes gambes a l’allet? Output: Salta alls laminats en una paella amb oli d’oliva. Afegeix les gambes i cuina-les fins que estiguin daurades. Serveix amb una mica de julivert picat.
+
+Prompt: Com puc preparar un suquet de rap? Output: Fes un sofregit de ceba i tomàquet, afegeix patates i brou de peix. Incorpora el rap i deixa coure fins que les patates estiguin tendres.
+
+Prompt: Vull fer un xató, com es fa? Output: Barreja escarola amb bacallà esqueixat, anxoves, tonyina i olives. Afegeix salsa romesco per amanir.
+
+Prompt: Com puc fer uns espinacs a la catalana? Output: Salta espinacs amb panses i pinyons en una paella amb oli d’oliva. Afegeix una mica de sal i pebre abans de servir.
+
+Prompt: Com puc fer una quiche de porros? Output: Salta porros amb una mica d'oli. Barreja-ho amb ous batuts i nata líquida, aboca-ho sobre una base de pasta brisa i enforna fins que qualli.
+
+Prompt: Com es fa un arròs amb llet? Output: Cou arròs amb llet, sucre i una branca de canyella fins que l'arròs estigui tendre i la llet espessida. Refreda abans de servir.
+
+Prompt: Com puc preparar un entrecot a la planxa? Output: Escalfa bé la planxa, cuina l'entrecot al punt desitjat i salpebra'l abans de servir. Pots acompanyar-lo amb mantega o oli d’oliva.
+
+Prompt: Vull fer una amanida de pasta, com es fa? Output: Bull la pasta, deixa-la refredar i barreja-la amb tomàquet, tonyina, olives i cogombre. Amaneix amb oli d’oliva i vinagre.
+
+Prompt: Com es fa una coca de Sant Joan? Output: Estira una massa de brioix, afegeix-hi fruita confitada i pinyons per sobre. Cou al forn fins que estigui daurada.
+
+Prompt: Com puc fer uns calamars farcits? Output: Omple els calamars amb una barreja de carn picada, ceba i all. Cuina'ls al forn amb una mica de vi blanc fins que estiguin tendres.
+
+Prompt: Vull preparar una mousse de xocolata, com es fa? Output: Fundeix xocolata i deixa-la refredar. Bat clares d’ou a punt de neu i barreja-les amb la xocolata fosa. Refreda la mousse abans de servir.
+
+Prompt: Com puc fer una truita de carbassó? Output: Talla el carbassó a rodanxes i salta'l fins que estigui tendre. Bat ous, barreja-ho amb el carbassó i cuina la truita en una paella.
+
+Prompt: Com es fa un flam de coco? Output: Bat ous amb llet condensada, llet i coco ratllat. Aboqueu-ho en motlles amb caramel i cuina al bany maria fins que qualli.
+
+Prompt: Vull fer unes croquetes de pollastre, com es fan? Output: Fes un sofregit de ceba i afegeix-hi pollastre esmicolat. Prepara una beixamel espessa, barreja-ho tot, deixa refredar, forma les croquetes, arrebossa-les i fregeix-les.
+
+Prompt: Com puc preparar uns musclos a la marinera? Output: Cuina els musclos al vapor. Fes un sofregit de ceba, tomàquet i all, afegeix vi blanc i serveix amb els musclos.
+
+Prompt: Com es fa un llom amb formatge al forn? Output: Col·loca talls de llom en una safata de forn, afegeix formatge per sobre i gratina fins que el formatge es fongui.
+
+Prompt: Com puc fer un arròs amb conill? Output: Sofregeix el conill amb ceba, all i tomàquet. Afegeix arròs, cobreix amb brou i cuina a foc lent fins que l’arròs estigui cuit.
+
+Prompt: Pots donar-me la recepta de bacallà a la llauna? Output: Desala el bacallà i enfarina'l lleugerament. Fes un sofregit de tomàquet, all i pebre vermell, aboca-ho sobre el bacallà i gratina al forn.
+
+Prompt: Vull fer pollastre amb prunes, com es fa? Output: Doura el pollastre amb ceba i all, afegeix prunes, vi blanc i una mica de brou. Cuina a foc lent fins que el pollastre estigui tendre.
+
+Prompt: Com puc fer una pizza casolana? Output: Estira la massa de pizza, afegeix tomàquet, mozzarella i els ingredients que prefereixis. Cou-la al forn fins que la massa estigui daurada.
+
+Prompt: Com es fan unes galtes de porc estofades? Output: Doura les galtes amb ceba i pastanaga, afegeix vi negre i deixa cuinar a foc lent fins que la carn estigui tendra.
+
+Prompt: Com puc fer una sopa de tomàquet? Output: Cou tomàquets amb ceba i all, tritura-ho tot fins a obtenir una crema suau. Serveix amb un raig d’oli d’oliva.
+
+Prompt: Vull preparar uns espaguetis amb marisc, com ho faig? Output: Salta gambes i musclos amb all, afegeix tomàquet triturat i vi blanc. Barreja amb els espaguetis bullits i serveix.
+
+Prompt: Com es fa una coca de recapte amb sardines? Output: Estira la massa de pa, afegeix verdures escalivades i sardines fresques. Cou al forn fins que la massa estigui daurada.
+
+Prompt: Com puc preparar un pollastre al forn? Output: Marina el pollastre amb all, llimona i herbes aromàtiques. Cou-lo al forn fins que estigui daurat i sucós.
+
+Prompt: Com es fa un pastís de llimona? Output: Fes una base de galetes triturades amb mantega, farceix-la amb una crema de llimona feta amb ous, sucre i suc de llimona. Refreda abans de servir.
+
+Prompt: Com puc preparar patates al caliu? Output: Embolica patates amb paper d’alumini i cou-les al caliu o al forn fins que estiguin tendres. Serveix-les amb una mica de sal i oli d’oliva.
+
+Prompt: Com puc fer una truita de bacallà? Output: Desala el bacallà, esmicola’l i barreja’l amb ous batuts. Cuina la truita en una paella amb una mica d’oli fins que qualli.
+
+Prompt: Com es fa un flam de formatge? Output: Bat ous amb formatge crema, llet condensada i llet. Aboqueu-ho en motlles amb caramel i cuina al bany maria fins que qualli.
+
+Prompt: Vull fer una escalivada, com es fa? Output: Escaliva albergínies, pebrots i cebes al forn fins que estiguin ben tendres. Pela les verdures i talla-les a tires, amaneix amb oli d’oliva i sal.
+
+Prompt: Com puc preparar una sopa de ceba? Output: Sofregeix ceba amb mantega fins que estigui caramel·litzada. Afegeix brou de pollastre i deixa cuinar uns minuts. Serveix amb pa torrat i formatge gratinat.
+
+Prompt: Vull fer una paella de marisc, com es fa? Output: Fes un sofregit amb ceba, all, tomàquet i pebrot. Afegeix arròs, brou de peix i marisc. Cuina fins que l’arròs estigui al punt.
+
+Prompt: Com puc fer unes mongetes amb botifarra? Output: Fes la botifarra a la planxa i acompanya-la amb mongetes saltejades amb all i julivert.
+
+Prompt: Com puc fer una quiche de formatge? Output: Barreja ous batuts amb nata líquida i formatge ratllat. Aboca la barreja sobre una base de pasta brisa i enforna fins que qualli.
+
+Prompt: Com es fa un suflé de formatge? Output: Prepara una beixamel espessa i afegeix-hi formatge ratllat. Incorpora clares d’ou muntades i enforna fins que el suflé pugi i estigui daurat.
+
+Prompt: Com puc fer una amanida de quinoa? Output: Cou la quinoa, deixa-la refredar i barreja-la amb verdures com tomàquet, cogombre i ceba. Amaneix amb oli d’oliva i suc de llimona.
+
+Prompt: Com es fan unes postres de crema catalana? Output: Escalfa llet amb canyella i pell de llimona. Barreja rovells d’ou amb sucre, afegeix-hi la llet i cuina fins que espesseixi. Refreda i crema sucre per sobre abans de servir.
+
+Prompt: Com puc fer un arròs caldós de peix? Output: Fes un sofregit amb ceba, pebrot i tomàquet. Afegeix arròs i brou de peix, cuina a foc lent i afegeix peix i marisc al final.
+
+Prompt: Com puc fer una crema de patata i porro? Output: Cou patates i porros amb aigua o brou, tritura-ho tot fins a obtenir una crema suau i afegeix nata líquida o oli d’oliva abans de servir.
+
+Prompt: Vull preparar una lasanya de verdures, com es fa? Output: Salta verdures com espinacs i albergínies. Munta capes de pasta de lasanya amb les verdures i beixamel, gratina amb formatge al forn.
+
+Prompt: Com puc fer un bacallà gratinat amb allioli? Output: Desala el bacallà i cou-lo al forn. Prepara un allioli i cobreix el bacallà amb aquesta salsa, gratina al forn fins que estigui daurat.
+
+Prompt: Com es fa un pastís de formatge? Output: Barreja formatge crema amb ous, sucre i nata líquida. Aboqueu-ho en un motlle i enforna fins que estigui quallat. Refreda abans de servir.
+
+Prompt: Com puc fer una truita de verdures? Output: Salta verdures com espinacs, carbassó i ceba. Barreja-ho amb ous batuts i cuina la truita en una paella fins que qualli.
+
+Prompt: Com es fa un pollastre al curri? Output: Talla el pollastre a daus i daura’l amb ceba. Afegeix curri en pols i nata líquida, cuina a foc lent fins que la salsa espesseixi.
+
+Prompt: Com puc fer un arròs amb bacallà? Output: Fes un sofregit de ceba, pebrot i tomàquet, afegeix bacallà esmicolat i arròs. Cobreix amb brou i cuina a foc lent fins que l'arròs estigui al punt.
+
+Prompt: Com es fa un púding de pa? Output: Barreja llet amb ous, sucre i pa sec esmicolat. Aboqueu-ho en un motlle amb caramel i cuina al bany maria fins que qualli.
+
+Prompt: Vull fer una salsa pesto, com es fa? Output: Tritura alfàbrega fresca amb pinyons, all, parmesà i oli d’oliva. Serveix amb pasta o com a acompanyament de carns.
+
+Prompt: Com puc preparar uns canelons de carn? Output: Farceix les plaques de canelons amb carn picada cuinada amb ceba i tomàquet. Cobreix amb beixamel i gratina al forn.
+
+Prompt: Com es fa una crema de carxofes? Output: Cou carxofes amb ceba i patata. Tritura-ho tot amb brou de verdures fins a obtenir una crema suau. Afegeix un raig de nata líquida abans de servir.
+
+Prompt: Com puc fer una amanida de llenties? Output: Barreja llenties cuites amb tomàquet, cogombre, ceba i tonyina. Amaneix amb oli d’oliva, vinagre i sal.
+
+Prompt: Com es fa una mousse de llimona? Output: Barreja suc de llimona amb nata muntada i llet condensada. Refreda-ho a la nevera abans de servir.
+
+Prompt: Com puc fer un arròs a la cubana? Output: Bull arròs blanc, serveix-lo amb un ou ferrat i afegeix salsa de tomàquet per sobre. Acompanya-ho amb plàtan fregit.
+
+Prompt: Com es fa una sopa de peix? Output: Fes un sofregit amb ceba i tomàquet, afegeix peix de roca i aigua. Deixa coure i tritura el brou. Afegeix peix i marisc abans de servir.
+
+Prompt: Com puc fer unes postres de tiramisú? Output: Mulla bescuits en cafè i alterna capes de bescuits amb crema de mascarpone. Espolvoreja cacau en pols per sobre i refreda abans de servir.
+
+Prompt: Com es fa una paella de carn? Output: Fes un sofregit de ceba, pebrot i tomàquet, afegeix carn de porc i pollastre. Afegeix arròs i brou, cuina a foc lent fins que l’arròs estigui al punt.
+
+Prompt: Com puc fer uns raviolis de formatge? Output: Prepara una massa de pasta i farceix-la amb formatge ricotta o mozzarella. Bull els raviolis i serveix-los amb salsa de tomàquet.
+
+Prompt: Com es fa una coca de llardons? Output: Estira la massa de pasta de full, afegeix-hi llardons esmicolats i sucre. Cou al forn fins que estigui daurada i cruixent.
+
+Prompt: Com puc fer una truita d'espinacs? Output: Salta els espinacs amb all, barreja-ho amb ous batuts i cuina la truita en una paella fins que qualli.
+
+Prompt: Com es fa un bacallà amb samfaina? Output: Desala el bacallà i fregeix-lo. Fes samfaina amb pebrot, albergínia, ceba i tomàquet, i serveix-la sobre el bacallà.
+
+Prompt: Com puc fer uns pebrots farcits de carn? Output: Buida els pebrots i farceix-los amb carn picada cuinada amb ceba i tomàquet. Cou-los al forn fins que estiguin tendres.
+
+Prompt: Com es fa un pastís de tres xocolates? Output: Fes una base de galetes triturades amb mantega. Prepara tres capes de mousse de xocolata negra, amb llet i blanca. Refreda i serveix.
+
+Prompt: Com puc fer una sopa de verdures? Output: Cou verdures com pastanaga, carbassó i patata amb aigua o brou de verdures. Tritura-ho tot o deixa els trossos si ho prefereixes.
+
+Prompt: Com es fa un flam d’ou? Output: Bat ous amb llet i sucre, aboca la barreja en motlles amb caramel i cuina al bany maria fins que qualli.
+
+Prompt: Com puc fer un llobarro al forn? Output: Col·loca el llobarro en una safata de forn amb patates, ceba i tomàquet. Amaneix amb oli d’oliva i herbes, i cou al forn fins que estigui cuit.
+
+Prompt: Com es fa una crema de marisc? Output: Fes un sofregit de ceba i tomàquet, afegeix marisc i tritura-ho tot amb brou de peix. Cola la crema i serveix amb un raig de nata líquida.
+
+Prompt: Com puc fer uns espaguetis amb pesto? Output: Tritura alfàbrega fresca amb all, pinyons, parmesà i oli d’oliva. Barreja la salsa amb els espaguetis bullits i serveix.
+
+Prompt: Com es fa una sopa d'all? Output: Fes un sofregit d’alls laminats amb oli, afegeix pebre vermell i aigua o brou. Deixa coure uns minuts i afegeix un ou batut.
+
+Prompt: Com puc fer una crema de carbassa? Output: Cou carbassa amb patata i ceba en aigua o brou. Tritura-ho tot i serveix amb un raig de nata líquida.
+
+Prompt: Com es fa un arròs amb pollastre? Output: Sofregeix el pollastre amb ceba i tomàquet, afegeix arròs i cobreix amb brou. Cuina a foc lent fins que l’arròs estigui al punt.
+
+Prompt: Com puc fer una mousse de cafè? Output: Barreja cafè soluble amb nata muntada i sucre. Refreda abans de servir.
+
+Prompt: Com puc fer una quiche de bolets? Output: Salta bolets amb all, barreja-ho amb ous batuts i nata líquida. Aboca-ho sobre una base de pasta brisa i enforna fins que qualli.
+
+Prompt: Com es fa un suquet de peix? Output: Fes un sofregit de ceba, tomàquet i all. Afegeix patates i brou de peix, i cuina fins que estiguin tendres. Incorpora el peix al final i deixa coure uns minuts.
+
+Prompt: Com puc fer una crema de tomàquet? Output: Cou tomàquets amb ceba i all, tritura-ho tot fins a obtenir una crema suau. Serveix amb un raig d’oli d’oliva.
+
+Prompt: Com es fa un pollastre amb salsa de mostassa? Output: Cuina el pollastre a la planxa, afegeix una salsa feta amb nata líquida i mostassa, i deixa reduir fins que espesseixi.
+
+Prompt: Com puc fer una amanida de cigrons? Output: Barreja cigrons cuits amb tomàquet, cogombre, ceba i olives. Amaneix amb oli d’oliva, suc de llimona i sal.
+
+Prompt: Com es fa un risotto de bolets? Output: Salta bolets amb ceba, afegeix arròs i remou. Afegeix brou de verdures de mica en mica fins que l'arròs estigui cuit i cremós.
+
+Prompt: Com puc fer un pollastre a la taronja? Output: Cuina el pollastre amb ceba i suc de taronja fins que la salsa redueixi i el pollastre estigui tendre.
+
+Prompt: Com puc preparar un gaspatxo? Output: Tritura tomàquets, pebrot, cogombre i all. Afegeix vinagre, oli d’oliva i aigua freda. Refreda abans de servir.
+
+Prompt: Com puc fer unes postres de flam de cafè? Output: Bat ous amb llet, sucre i cafè. Aboqueu-ho en motlles amb caramel i cuina al bany maria fins que qualli.
+
+Prompt: Com es fa un pollastre amb ametlles? Output: Cuina el pollastre amb ceba i all, afegeix ametlles torrades i una mica de vi blanc. Deixa reduir fins que la salsa espesseixi.
+
+Prompt: Com puc preparar uns musclos al vapor? Output: Neteja els musclos i cuina’ls al vapor amb una mica de vi blanc fins que s’obrin.
+
+Prompt: Com es fa una crema de verdures? Output: Cou verdures com pastanaga, carbassó i porro amb aigua o brou. Tritura-ho tot fins a obtenir una crema suau.
+
+Prompt: Com puc fer una paella mixta? Output: Fes un sofregit de ceba, pebrot, carn i marisc. Afegeix arròs i brou de pollastre, i cuina fins que l'arròs estigui cuit.
+
+Prompt: Com es fa un flam de mató? Output: Barreja mató amb ous, sucre i llet. Aboqueu-ho en motlles amb caramel i cuina al bany maria fins que qualli.
+
+Prompt: Com puc preparar una amanida cèsar? Output: Barreja enciam amb pollastre a la planxa, crostons de pa i formatge parmesà. Afegeix salsa cèsar i serveix.
+
+Prompt: Com es fa un entrecot al forn? Output: Doura l'entrecot en una paella i acaba de cuinar-lo al forn al punt desitjat. Acompanya'l amb mantega o oli d'oliva.
+
+Prompt: Com puc fer una coca de recapte amb albergínia? Output: Estira una massa de pa, col·loca-hi albergínia escalivada i altres verdures. Cou al forn fins que la massa estigui daurada.
+
+Prompt: Com es fan unes galtes de porc a la brasa? Output: Marina les galtes amb all i herbes, cuina-les a la brasa fins que estiguin tendres i daurades.
+
+Prompt: Com puc fer una amanida de pasta amb salmó? Output: Bull la pasta, refreda-la i barreja-la amb salmó fumat, enciam i tomàquet. Amaneix amb oli d’oliva i suc de llimona.
+
+Prompt: Com es fa una mousse de xocolata blanca? Output: Fundeix xocolata blanca i barreja-la amb nata muntada. Refreda la mousse a la nevera abans de servir.
+
+Prompt:

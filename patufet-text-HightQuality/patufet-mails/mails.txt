@@ -1,0 +1,4177 @@
+Prompt: Escriu un correu electrònic formal demanant una reunió amb el Sr. Pere Garcia, director de vendes, per parlar sobre una possible col·laboració.
+
+Output:
+Assumpte: Sol·licitud de reunió per a possible col·laboració
+
+Benvolgut Sr. Garcia,
+
+Em dirigeixo a vostè amb la intenció de concertar una reunió per discutir una possible col·laboració entre les nostres empreses. Estic convençut que aquesta reunió podria ser molt beneficiosa per ambdues parts.
+
+Si us plau, faci'm saber quina data i hora li serien més convenients per a aquesta trobada. Restaré atent a la seva resposta.
+
+Cordialment,
+[El teu nom]
+
+2.
+Prompt: Escriu un correu electrònic informal convidant la teva amiga Anna a una festa sorpresa per al seu aniversari aquest dissabte a casa teva.
+
+Output:
+Assumpte: Festa sorpresa!
+
+Hola Anna!
+
+Aquest dissabte estic organitzant una festa sorpresa per celebrar el teu aniversari! Serà a casa meva i començarà a les 19:00. No t'ho pots perdre!
+
+Espero que puguis venir i celebrar amb nosaltres!
+
+Una abraçada,
+[El teu nom]
+
+3.
+Prompt: Escriu un correu electrònic de seguiment per confirmar l'assistència del Sr. Joan Martínez a una reunió prevista per al 15 de setembre a les 10:00 hores.
+
+Output:
+Assumpte: Confirmació d'assistència a la reunió del 15 de setembre
+
+Benvolgut Sr. Martínez,
+
+Espero que aquest correu el trobi bé. M'agradaria confirmar la seva assistència a la reunió prevista per al 15 de setembre a les 10:00 hores.
+
+Si us plau, faci'm saber si aquesta data i hora encara li són convenients.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+4.
+Prompt: Escriu un correu electrònic per disculpar-te amb el teu cap, la Sra. Maria Soler, per haver arribat tard a la reunió d'aquest matí.
+
+Output:
+Assumpte: Disculpes per arribar tard a la reunió
+
+Estimada Sra. Soler,
+
+Vull disculpar-me sincerament per haver arribat tard a la reunió d'aquest matí. Entenc que la puntualitat és crucial i lamento qualsevol inconvenient que la meva tardança hagi pogut causar.
+
+Em comprometo a millorar la meva puntualitat en el futur.
+
+Gràcies per la seva comprensió.
+
+Salutacions cordials,
+[El teu nom]
+
+5.
+Prompt: Escriu un correu electrònic per informar el Sr. Albert Rodríguez que la reunió programada per demà ha estat cancel·lada.
+
+Output:
+Assumpte: Cancel·lació de la reunió de demà
+
+Benvolgut Sr. Rodríguez,
+
+Lamento informar-lo que la reunió que teníem programada per demà ha estat cancel·lada a causa d'un imprevist. Li demano disculpes per qualsevol inconvenient que això pugui causar.
+
+Ens posarem en contacte amb vostè per reprogramar la reunió en una data futura.
+
+Cordialment,
+[El teu nom]
+
+6.
+Prompt: Escriu un correu electrònic a la teva companya de treball Laura per agrair-li la seva ajuda en la preparació de la presentació de l'últim projecte.
+
+Output:
+Assumpte: Gràcies per la teva ajuda amb la presentació
+
+Hola Laura,
+
+Només volia agrair-te la teva ajuda en la preparació de la presentació de l'últim projecte. El teu suport va ser fonamental i va marcar la diferència.
+
+Espero que puguem treballar junts de nou aviat.
+
+Una abraçada,
+[El teu nom]
+
+7.
+Prompt: Escriu un correu electrònic a l'equip per recordar-los la data límit per presentar els informes mensuals.
+
+Output:
+Assumpte: Recordatori: Data límit per presentar els informes mensuals
+
+Hola equip,
+
+Només volia recordar-vos que la data límit per presentar els informes mensuals és aquest divendres, 10 de març. Si us plau, assegureu-vos de completar i enviar els vostres informes abans d'aquesta data.
+
+Gràcies per la vostra col·laboració.
+
+Salutacions,
+[El teu nom]
+
+8.
+Prompt: Escriu un correu electrònic al departament de recursos humans per sol·licitar informació sobre el procés de promoció interna.
+
+Output:
+Assumpte: Sol·licitud d'informació sobre el procés de promoció interna
+
+Benvolguts membres de Recursos Humans,
+
+Em dirigeixo a vostès per sol·licitar informació sobre el procés de promoció interna dins de la nostra empresa. M'agradaria conèixer més detalls sobre els criteris i els procediments que cal seguir.
+
+Agradeixo per endavant la vostra atenció i restaré a l'espera de la vostra resposta.
+
+Atentament,
+[El teu nom]
+
+9.
+Prompt: Escriu un correu electrònic per comunicar al teu professor que no podràs assistir a classe la setmana vinent per motius personals.
+
+Output:
+Assumpte: Absència a classe la setmana vinent
+
+Benvolgut professor,
+
+Li escric per informar-lo que, per motius personals, no podré assistir a les seves classes la setmana vinent. Li agrairia si em pogués proporcionar les assignatures o tasques per no perdre el ritme.
+
+Gràcies per la seva comprensió.
+
+Atentament,
+[El teu nom]
+
+10.
+Prompt: Escriu un correu electrònic demanant un pressupost per a la compra de 50 ordinadors portàtils a l'empresa Tecnoshop.
+
+Output:
+Assumpte: Sol·licitud de pressupost per a la compra de 50 ordinadors portàtils
+
+Benvolguts,
+
+Els escric per sol·licitar un pressupost per a la compra de 50 ordinadors portàtils per a la nostra empresa. Ens agradaria conèixer les opcions disponibles, així com els preus i les condicions de pagament.
+
+Esperem la seva resposta.
+
+Cordialment,
+[El teu nom]
+
+11.
+Prompt: Escriu un correu electrònic informal a la teva amiga Clara per preguntar-li si vol anar a fer una excursió aquest cap de setmana.
+
+Output:
+Assumpte: Excursió aquest cap de setmana?
+
+Hola Clara,
+
+Aquest cap de setmana vull anar a fer una excursió i vaig pensar que podria ser divertit si vinguessis. Què en penses? Podríem anar a la muntanya o a la platja, segons el que et vingui més de gust.
+
+Deixa'm saber si t'animes!
+
+Petons,
+[El teu nom]
+
+12.
+Prompt: Escriu un correu electrònic per convidar el teu col·lega Marc a una reunió per revisar els objectius del projecte actual.
+
+Output:
+Assumpte: Reunió per revisar els objectius del projecte
+
+Hola Marc,
+
+M'agradaria proposar una reunió per revisar els objectius del nostre projecte actual i assegurar-nos que estem alineats amb les prioritats establertes. Creus que podríem trobar-nos demà a les 15:00?
+
+Deixa'm saber si aquesta hora et va bé.
+
+Gràcies!
+[El teu nom]
+
+13.
+Prompt: Escriu un correu electrònic formal sol·licitant una extensió per a la presentació d'un informe al teu supervisor, la Sra. Teresa Vidal.
+
+Output:
+Assumpte: Sol·licitud d'extensió per a la presentació de l'informe
+
+Estimada Sra. Vidal,
+
+Em dirigeixo a vostè per sol·licitar una extensió per a la presentació de l'informe que està prevista per aquest divendres. Estic treballant intensament per assegurar-me que el contingut sigui de la més alta qualitat, però necessito una mica més de temps per completar-lo.
+
+Agrairia molt la seva comprensió i restaré a l'espera de la seva resposta.
+
+Atentament,
+[El teu nom]
+
+14.
+Prompt: Escriu un correu electrònic per felicitar el teu amic Joan per la seva recent promoció a director de màrqueting.
+
+Output:
+Assumpte: Felicitacions per la teva promoció!
+
+Hola Joan,
+
+He sabut de la teva promoció a director de màrqueting i només volia enviar-te una felicitació enorme! És un èxit ben merescut i estic segur que faràs una feina increïble en el teu nou càrrec.
+
+Enhorabona, amic!
+
+Una abraçada,
+[El teu nom]
+
+15.
+Prompt: Escriu un correu electrònic a un client, el Sr. Jordi Pujol, per informar-lo que la seva comanda s'ha retardat i que s'enviarà la setmana vinent.
+
+Output:
+Assumpte: Retard en l'enviament de la seva comanda
+
+Benvolgut Sr. Pujol,
+
+Lamento informar-lo que la seva comanda ha patit un retard inesperat i serà enviada la setmana vinent. Li demano disculpes per qualsevol inconvenient que això pugui causar i li asseguro que estem fent tot el possible per enviar-la al més aviat possible.
+
+Gràcies per la seva comprensió.
+
+Cordialment,
+[El teu nom]
+
+16.
+Prompt: Escriu un correu electrònic per confirmar la teva assistència a la reunió anual d'accionistes de l'empresa XYZ, el 20 d'abril.
+
+Output:
+Assumpte: Confirmació d'assistència a la reunió anual d'accionistes
+
+Benvolguts,
+
+Amb aquest correu vull confirmar la meva assistència a la reunió anual d'accionistes de l'empresa XYZ que tindrà lloc el proper 20 d'abril.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+17.
+Prompt: Escriu un correu electrònic al teu veí Josep per demanar-li que et reculli el correu mentre estàs de viatge la setmana vinent.
+
+Output:
+Assumpte: Petició de recollida de correu
+
+Hola Josep,
+
+La setmana vinent estaré de viatge i volia demanar-te un favor. Podries recollir el meu correu mentre no hi sóc? Em seria de gran ajuda.
+
+Gràcies per endavant!
+
+Una abraçada,
+[El teu nom]
+
+18.
+Prompt: Escriu un correu electrònic al departament de suport tècnic per informar-los d'un problema amb el teu compte d'usuari.
+
+Output:
+Assumpte: Problema amb el compte d'usuari
+
+Benvolgut equip de suport tècnic,
+
+Estic experimentant problemes amb el meu compte d'usuari. No puc accedir-hi des d'ahir a la tarda i rebo un missatge d'error desconegut. Els agrairia la seva ajuda per resoldre aquest problema.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+19.
+Prompt: Escriu un correu electrònic formal per presentar-te com a nou membre de l'equip al departament de finances.
+
+Output:
+Assumpte: Presentació com a nou membre de l'equip
+
+Benvolguts companys del departament de finances,
+
+Em plau presentar-me com a nou membre del vostre equip. Em dic [El teu nom] i estic emocionat d'unir-me a vosaltres per contribuir amb les meves habilitats i experiència.
+
+Estic desitjant conèixer-vos a tots i treballar junts.
+
+Salutacions cordials,
+[El teu nom]
+
+20.
+Prompt: Escriu un correu electrònic a un amic, David, explicant-li que no pots assistir a la seva festa aquest cap de setmana perquè tens una reunió familiar.
+
+Output:
+Assumpte: No podré assistir a la teva festa
+
+Hola David,
+
+Lamento dir-te que no podré assistir a la teva festa aquest cap de setmana. Tinc una reunió familiar que no puc evitar. Em sap molt greu, però espero que puguis passar-ho molt bé i celebrar molt!
+
+Ens veiem aviat!
+
+Petons,
+[El teu nom]
+
+21.
+Prompt: Escriu un correu electrònic al teu professor, Sr. López, per demanar-li que revisi el teu últim treball i et faci comentaris.
+
+Output:
+Assumpte: Sol·licitud de revisió del treball
+
+Benvolgut Sr. López,
+
+Li envio aquest correu per demanar-li si podria revisar el meu últim treball i proporcionar-me alguns comentaris per millorar-lo. Estic molt interessat en saber la seva opinió i qualsevol suggeriment que pugui tenir.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+22.
+Prompt: Escriu un correu electrònic per avisar el teu equip que la reunió setmanal s'ha avançat a dijous a les 14:00.
+
+Output:
+Assumpte: Canvi de data per a la reunió setmanal
+
+Hola equip,
+
+Us volia informar que la nostra reunió setmanal s'ha avançat a dijous a les 14:00. Si us plau, ajusteu els vostres horaris en conseqüència.
+
+Gràcies i disculpeu per les molèsties.
+
+Salutacions,
+[El teu nom]
+
+23.
+Prompt: Escriu un correu electrònic a la teva germana Marta per recordar-li de comprar els bitllets per al concert del dissabte.
+
+Output:
+Assumpte: No oblidis comprar els bitllets per al concert!
+
+Hola Marta,
+
+Només et recordo que no oblidis comprar els bitllets per al concert de dissabte. Estic molt emocionat per anar-hi amb tu!
+
+Petons,
+[El teu nom]
+
+24.
+Prompt: Escriu un correu electrònic a un company de treball per demanar-li que et substitueixi en una reunió perquè estàs malalt.
+
+Output:
+Assumpte: Substitució a la reunió
+
+Hola [Nom del company],
+
+Lamento informar-te que avui estic malalt i no podré assistir a la reunió de les 11:00. Podries, si us plau, substituir-me i prendre notes per mi?
+
+T'agraeixo molt la teva ajuda.
+
+Cuida't,
+[El teu nom]
+
+25.
+Prompt: Escriu un correu electrònic formal al departament de comptabilitat per demanar una còpia de la factura de juliol.
+
+Output:
+Assumpte: Sol·licitud de còpia de la factura de juliol
+
+Benvolgut departament de comptabilitat,
+
+Els escric per sol·licitar una còpia de la factura corresponent al mes de juliol per a la meva revisió. Els agrairia que me la poguessin enviar a la major brevetat possible.
+
+Gràcies per la seva atenció.
+
+Cordialment,
+[El teu nom]
+
+26.
+Prompt: Escriu un correu electrònic informal al teu amic Pau per explicar-li una experiència divertida que vas tenir el cap de setmana passat.
+
+Output:
+Assumpte: Història divertida del cap de setmana passat
+
+Hola Pau,
+
+No et creuràs el que em va passar el cap de setmana passat! Estava passejant pel parc quan de sobte un gos va començar a seguir-me amb una pilota a la boca, i no es va aturar fins que li vaig llançar la pilota almenys cinc vegades! Va ser hilarant i la gent no podia parar de riure.
+
+Ens veiem aviat!
+
+Petons,
+[El teu nom]
+
+27.
+Prompt: Escriu un correu electrònic al teu supervisor per demanar permís per treballar des de casa la setmana vinent.
+
+Output:
+Assumpte: Sol·licitud per treballar des de casa
+
+Benvolgut supervisor,
+
+M'agradaria demanar permís per treballar des de casa durant la setmana vinent. Crec que podré ser igual de productiu i continuaré complint amb totes les meves responsabilitats.
+
+Gràcies per considerar la meva sol·licitud.
+
+Salutacions,
+[El teu nom]
+
+28.
+Prompt: Escriu un correu electrònic per informar a l'equip que el projecte ha estat completat abans del termini.
+
+Output:
+Assumpte: Projecte completat abans del termini!
+
+Hola equip,
+
+Estic encantat d'informar-vos que hem completat el projecte abans del termini! Gràcies a tots per la vostra dedicació i treball dur per fer-ho possible.
+
+Felicitats a tots!
+
+Salutacions,
+[El teu nom]
+
+29.
+Prompt: Escriu un correu electrònic per enviar les notes de la reunió d'avui a tots els participants.
+
+Output:
+Assumpte: Notes de la reunió d'avui
+
+Hola a tots,
+
+Adjunto les notes de la reunió d'avui per a la vostra revisió. Si hi ha alguna cosa que vulgueu afegir o corregir, si us plau, feu-m'ho saber.
+
+Gràcies per la vostra atenció.
+
+Salutacions,
+[El teu nom]
+
+30.
+Prompt: Escriu un correu electrònic per felicitar el teu company de treball per haver assolit els objectius de vendes d'aquest trimestre.
+
+Output:
+Assumpte: Felicitats per assolir els objectius de vendes!
+
+Hola [Nom del company],
+
+Només volia felicitar-te per haver assolit els objectius de vendes d'aquest trimestre! Has fet una feina excel·lent i tot l'equip està molt orgullós de tu.
+
+Enhorabona!
+
+Salutacions,
+[El teu nom]
+
+31.
+Prompt: Escriu un correu electrònic a la teva mare explicant-li com va anar la teva entrevista de treball.
+
+Output:
+Assumpte: Com va anar la meva entrevista de treball
+
+Hola mare,
+
+Vull explicar-te com va anar la meva entrevista de treball. Crec que va anar molt bé! Van semblar interessats en la meva experiència i em van preguntar moltes coses sobre el meu anterior lloc de treball. Ara només queda esperar!
+
+T'enviaré un missatge quan tingui més notícies.
+
+Petons,
+[El teu nom]
+
+32.
+Prompt: Escriu un correu electrònic per agrair a la Sra. Lluïsa Casas la seva participació en l'esdeveniment d'ahir.
+
+Output:
+Assumpte: Gràcies per la seva participació
+
+Estimada Sra. Casas,
+
+Vull agrair-li sincerament la seva participació en l'esdeveniment d'ahir. Va ser un plaer tenir-la amb nosaltres i les seves aportacions van ser molt valuoses.
+
+Espero que puguem comptar amb vostè en futurs esdeveniments.
+
+Atentament,
+[El teu nom]
+
+33.
+Prompt: Escriu un correu electrònic formal per informar al Sr. Toni Nadal que la seva candidatura per al càrrec ha estat acceptada.
+
+Output:
+Assumpte: Acceptació de la seva candidatura
+
+Benvolgut Sr. Nadal,
+
+Em complau informar-li que la seva candidatura per al càrrec ha estat acceptada. Ens posarem en contacte amb vostè per a la següent fase del procés de selecció.
+
+Gràcies pel seu interès i estem desitjant conèixer-lo millor.
+
+Cordialment,
+[El teu nom]
+
+34.
+Prompt: Escriu un correu electrònic a la teva amiga Mireia per demanar-li que t'acompanyi a comprar roba demà.
+
+Output:
+Assumpte: Compres demà?
+
+Hola Mireia,
+
+Demà pensava anar a comprar roba i vaig pensar que seria molt més divertit si vinguessis amb mi! T'apuntes? Podríem anar a la tarda i després prendre alguna cosa.
+
+Deixa'm saber si et va bé!
+
+Petons,
+[El teu nom]
+
+35.
+Prompt: Escriu un correu electrònic al teu proveïdor per preguntar-li si pot oferir un descompte en la teva propera comanda.
+
+Output:
+Assumpte: Sol·licitud de descompte per a la propera comanda
+
+Benvolgut proveïdor,
+
+Em poso en contacte amb vostè per preguntar-li si hi ha la possibilitat d'obtenir un descompte en la nostra propera comanda. Hem estat treballant junts durant molt de temps i qualsevol reducció en el preu seria molt apreciada.
+
+Gràcies per la seva consideració.
+
+Atentament,
+[El teu nom]
+
+36.
+Prompt: Escriu un correu electrònic per informar el teu cap que has completat la formació en línia requerida.
+
+Output:
+Assumpte: Formació en línia completada
+
+Benvolgut cap,
+
+Només volia informar-lo que he completat la formació en línia requerida i he passat tots els exàmens amb èxit. He adjuntat el certificat de finalització per a la seva revisió.
+
+Gràcies per donar-me l'oportunitat de millorar les meves habilitats.
+
+Salutacions,
+[El teu nom]
+
+37.
+Prompt: Escriu un correu electrònic per cancel·lar una cita amb el dentista el proper dijous.
+
+Output:
+Assumpte: Cancel·lació de cita amb el dentista
+
+Benvolguts,
+
+Lamento informar-vos que hauré de cancel·lar la meva cita amb el dentista prevista per al proper dijous. Si us plau, aviseu-me si és possible reprogramar-la per a una altra data.
+
+Gràcies per la vostra comprensió.
+
+Cordialment,
+[El teu nom]
+
+38.
+Prompt: Escriu un correu electrònic per confirmar l'assistència al sopar d'empresa del proper divendres.
+
+Output:
+Assumpte: Confirmació d'assistència al sopar d'empresa
+
+Benvolguts,
+
+Amb aquest correu vull confirmar la meva assistència al sopar d'empresa que tindrà lloc el proper divendres. Espero compartir una nit agradable amb tots vostès.
+
+Salutacions cordials,
+[El teu nom]
+
+39.
+Prompt: Escriu un correu electrònic al teu amic Gerard per preguntar-li com li va la seva nova feina.
+
+Output:
+Assumpte: Com va la teva nova feina?
+
+Hola Gerard,
+
+Només volia preguntar-te com et va la teva nova feina. Espero que estiguis gaudint i aprenent molt! Explica'm com va tot quan tinguis un moment.
+
+Cuida't molt!
+
+Una abraçada,
+[El teu nom]
+
+40.
+Prompt: Escriu un correu electrònic per demanar informació sobre les tarifes d'un servei de neteja per a oficines.
+
+Output:
+Assumpte: Sol·licitud d'informació sobre tarifes de neteja per a oficines
+
+Benvolguts,
+
+M'agradaria obtenir informació sobre les tarifes i serveis que ofereixen per a la neteja d'oficines. Estem buscant un proveïdor fiable i ens agradaria conèixer més detalls sobre les seves ofertes.
+
+Gràcies per la seva atenció i esperem la seva resposta.
+
+Cordialment,
+[El teu nom]
+
+41.
+Prompt: Escriu un correu electrònic per disculpar-te amb el teu professor per no haver entregat l'última tasca a temps.
+
+Output:
+Assumpte: Disculpes per no haver entregat la tasca a temps
+
+Benvolgut professor,
+
+Vull disculpar-me per no haver entregat l'última tasca a temps. Vaig tenir alguns problemes personals que em van impedir complir amb la data límit. Em comprometo a entregar-la al més aviat possible.
+
+Gràcies per la seva comprensió.
+
+Atentament,
+[El teu nom]
+
+42.
+Prompt: Escriu un correu electrònic al departament de recursos humans per sol·licitar informació sobre el pla de pensions de l'empresa.
+
+Output:
+Assumpte: Sol·licitud d'informació sobre el pla de pensions
+
+Benvolgut departament de recursos humans,
+
+Em poso en contacte amb vostès per sol·licitar informació detallada sobre el pla de pensions de l'empresa. M'agradaria conèixer els beneficis i les opcions disponibles.
+
+Agrairia la seva ajuda en aquest assumpte.
+
+Atentament,
+[El teu nom]
+
+43.
+Prompt: Escriu un correu electrònic per convidar la teva amiga Maria a un viatge de cap de setmana a la muntanya.
+
+Output:
+Assumpte: Viatge de cap de setmana a la muntanya
+
+Hola Maria,
+
+Aquest cap de setmana estava pensant en fer un viatge a la muntanya i m'agradaria molt que vinguessis. Què et sembla la idea? Podríem gaudir de la natura i passar una bona estona.
+
+Deixa'm saber si t'animes!
+
+Petons,
+[El teu nom]
+
+44.
+Prompt: Escriu un correu electrònic formal al director d'una escola per oferir una xerrada sobre educació ambiental.
+
+Output:
+Assumpte: Proposta de xerrada sobre educació ambiental
+
+Benvolgut director,
+
+Em poso en contacte amb vostè per oferir una xerrada sobre educació ambiental per als estudiants de la seva escola. Crec que aquest tema és molt important i m'agradaria compartir coneixements i experiències amb els joves.
+
+Resto a la seva disposició per a qualsevol aclariment i espero la seva resposta.
+
+Atentament,
+[El teu nom]
+
+45.
+Prompt: Escriu un correu electrònic per avisar la teva família que vindràs a visitar-los el cap de setmana.
+
+Output:
+Assumpte: Visita el cap de setmana
+
+Hola família,
+
+Només volia avisar-vos que vindré a visitar-vos aquest cap de setmana. Estic molt emocionat de veure-us a tots i passar una bona estona junts.
+
+Ens veiem aviat!
+
+Petons,
+[El teu nom]
+
+46.
+Prompt: Escriu un correu electrònic a la teva companya de pis per demanar-li que netegi la cuina.
+
+Output:
+Assumpte: Neteja de la cuina
+
+Hola [Nom de la companya],
+
+Et volia demanar si podries netejar la cuina aquesta setmana. Hem estat fent servir molt la cuina i crec que li aniria bé una neteja a fons.
+
+Gràcies!
+
+Una abraçada,
+[El teu nom]
+
+47.
+Prompt: Escriu un correu electrònic per convidar el teu amic Josep a un partit de futbol aquest diumenge.
+
+Output:
+Assumpte: Partit de futbol aquest diumenge?
+
+Hola Josep,
+
+Aquest diumenge aniré a veure un partit de futbol i m'agradaria molt que vinguessis amb mi. Serà una tarda divertida! T'apuntes?
+
+Deixa'm saber si et va bé.
+
+Una abraçada,
+[El teu nom]
+
+48.
+Prompt: Escriu un correu electrònic al teu professor per preguntar si hi ha alguna lectura recomanada per a l'examen.
+
+Output:
+Assumpte: Lectura recomanada per a l'examen
+
+Benvolgut professor,
+
+Li escric per preguntar si hi ha alguna lectura recomanada que ens pugui ajudar a preparar-nos millor per a l'examen. M'agradaria assegurar-me que estic cobrant tots els materials necessaris.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+49.
+Prompt: Escriu un correu electrònic per demanar una pròrroga per al pagament d'una factura a l'empresa Electricitat SA.
+
+Output:
+Assumpte: Sol·licitud de pròrroga per al pagament de la factura
+
+Benvolguts,
+
+Em poso en contacte amb vostès per demanar una pròrroga per al pagament de la factura del mes passat. A causa de circumstàncies imprevistes, necessito una mica més de temps per fer el pagament complet.
+
+Agrairia molt la seva comprensió i ajuda en aquest assumpte.
+
+Atentament,
+[El teu nom]
+
+50.
+Prompt: Escriu un correu electrònic per informar el teu superior que has finalitzat l'informe trimestral abans del termini.
+
+Output:
+Assumpte: Informe trimestral finalitzat
+
+Benvolgut [Nom del superior],
+
+Només volia informar-lo que he finalitzat l'informe trimestral abans del termini establert. He adjuntat una còpia de l'informe per a la seva revisió.
+
+Gràcies per l'oportunitat de treballar en aquest projecte.
+
+Salutacions,
+[El teu nom]
+
+51.
+Prompt: Escriu un correu electrònic a la Sra. Anna López demanant informació sobre el curs de programació web. Signa com a "Jordi Garcia".
+
+Output:
+Assumpte: Sol·licitud d'informació sobre el curs de programació web
+
+Benvolguda Sra. López,
+
+M'adreço a vostè per sol·licitar informació sobre el curs de programació web que ofereixen. M'agradaria conèixer els continguts del curs, les dates disponibles i el cost de la matrícula.
+
+Gràcies per la seva atenció i espero la seva resposta.
+
+Atentament,
+Jordi Garcia
+
+52.
+Prompt: Escriu un correu electrònic formal per confirmar la teva assistència a una conferència organitzada per la Sra. Laura Rodríguez. Signa com a "Marta Casas".
+
+Output:
+Assumpte: Confirmació d'assistència a la conferència
+
+Estimada Sra. Rodríguez,
+
+Amb aquest correu, vull confirmar la meva assistència a la conferència que organitza la setmana vinent. Estic molt emocionada de poder participar-hi i espero poder aportar al debat.
+
+Gràcies per aquesta oportunitat.
+
+Cordialment,
+Marta Casas
+
+53.
+Prompt: Escriu un correu electrònic per demanar una reunió amb el Dr. Carlos Pérez per parlar sobre un projecte de recerca. Signa com a "Lluís Martí".
+
+Output:
+Assumpte: Sol·licitud de reunió per discutir projecte de recerca
+
+Benvolgut Dr. Pérez,
+
+Em poso en contacte amb vostè per sol·licitar una reunió per parlar sobre un projecte de recerca que estic desenvolupant i que crec que pot ser d'interès comú. M'agradaria saber quan seria un bon moment per trobar-nos.
+
+Espero la seva resposta.
+
+Atentament,
+Lluís Martí
+
+54.
+Prompt: Escriu un correu electrònic a la teva amiga Núria convidant-la a sopar aquest divendres a casa teva. Signa com a "Carla Fernández".
+
+Output:
+Assumpte: Sopar aquest divendres?
+
+Hola Núria,
+
+Aquest divendres estic organitzant un sopar a casa meva i m'encantaria que hi vinguessis! Serà una nit relaxada amb bona companyia i menjar deliciós.
+
+T'animes?
+
+Petons,
+Carla Fernández
+
+55.
+Prompt: Escriu un correu electrònic per disculpar-te amb el teu professor, el Sr. Joan Torres, per no haver entregat el treball a temps. Signa com a "Pere Puig".
+
+Output:
+Assumpte: Disculpes per no entregar el treball a temps
+
+Benvolgut Sr. Torres,
+
+Vull disculpar-me sincerament per no haver entregat el treball a temps. Vaig tenir algunes dificultats inesperades, però estic treballant dur per acabar-lo al més aviat possible.
+
+Gràcies per la seva comprensió.
+
+Atentament,
+Pere Puig
+
+56.
+Prompt: Escriu un correu electrònic a la Sra. Rosa Mas per sol·licitar informació sobre el servei de consultoria que ofereixen. Signa com a "Andreu Vidal".
+
+Output:
+Assumpte: Sol·licitud d'informació sobre servei de consultoria
+
+Estimada Sra. Mas,
+
+M'agradaria sol·licitar més informació sobre el servei de consultoria que ofereixen. Estem buscant una col·laboració que ens ajudi a millorar els nostres processos interns i crec que el vostre servei podria ser el que necessitem.
+
+Gràcies per endavant per la seva atenció.
+
+Cordialment,
+Andreu Vidal
+
+57.
+Prompt: Escriu un correu electrònic a la teva cap, Sra. Montse Gual, per sol·licitar un dia lliure. Signa com a "Sònia Sala".
+
+Output:
+Assumpte: Sol·licitud de dia lliure
+
+Estimada Sra. Gual,
+
+Li escric per sol·licitar un dia lliure el proper dilluns, si fos possible. Necessito atendre un assumpte personal i agrairia molt la seva comprensió.
+
+Gràcies per considerar la meva sol·licitud.
+
+Atentament,
+Sònia Sala
+
+58.
+Prompt: Escriu un correu electrònic a la Sra. Laura Jiménez per agrair-li la seva participació a l'esdeveniment d'ahir. Signa com a "Joan Pujol".
+
+Output:
+Assumpte: Gràcies per la seva participació
+
+Benvolguda Sra. Jiménez,
+
+Vull agrair-li sincerament la seva participació a l'esdeveniment d'ahir. Les seves paraules van ser molt inspiradores i estic segur que tots els assistents van gaudir molt.
+
+Esperem poder comptar amb vostè en futurs esdeveniments.
+
+Cordialment,
+Joan Pujol
+
+59.
+Prompt: Escriu un correu electrònic per sol·licitar una devolució a l'empresa XYZ. Signa com a "Miquel Prats".
+
+Output:
+Assumpte: Sol·licitud de devolució
+
+Benvolguts,
+
+Els escric per sol·licitar la devolució d'un article que vaig comprar recentment. He adjuntat el número de comanda i altres detalls necessaris per facilitar el procés.
+
+Gràcies per la seva atenció.
+
+Atentament,
+Miquel Prats
+
+60.
+Prompt: Escriu un correu electrònic al departament de recursos humans per informar-los d'un canvi en les meves dades bancàries. Signa com a "Eva Serra".
+
+Output:
+Assumpte: Actualització de dades bancàries
+
+Benvolgut departament de recursos humans,
+
+Els escric per informar-los d'un canvi en les meves dades bancàries. Adjunto el formulari necessari amb la nova informació per actualitzar els registres.
+
+Gràcies per la seva atenció.
+
+Cordialment,
+Eva Serra
+
+61.
+Prompt: Escriu un correu electrònic per felicitar la teva companya de feina Maria Gil per haver acabat el projecte amb èxit. Signa com a "Lluc Navarro".
+
+Output:
+Assumpte: Felicitacions pel projecte!
+
+Hola Maria,
+
+Només volia felicitar-te per haver acabat el projecte amb èxit! Has fet una feina increïble i estem molt orgullosos del teu treball.
+
+Enhorabona!
+
+Salutacions,
+Lluc Navarro
+
+62.
+Prompt: Escriu un correu electrònic formal a la Sra. Laura Salvat demanant una reunió per discutir les noves directrius del projecte. Signa com a "Arnau Casals".
+
+Output:
+Assumpte: Sol·licitud de reunió per discutir noves directrius
+
+Estimada Sra. Salvat,
+
+Em poso en contacte amb vostè per sol·licitar una reunió per discutir les noves directrius del projecte. Crec que seria molt beneficiós per assegurar-nos que estem alineats amb els objectius.
+
+Gràcies per la seva atenció i espero la seva resposta.
+
+Atentament,
+Arnau Casals
+
+63.
+Prompt: Escriu un correu electrònic al teu professor, el Sr. Pere Costa, per demanar-li una carta de recomanació per a una beca. Signa com a "Clara Roca".
+
+Output:
+Assumpte: Sol·licitud de carta de recomanació
+
+Benvolgut Sr. Costa,
+
+Li escric per sol·licitar una carta de recomanació per a una beca a la qual estic aplicant. Crec que la seva recomanació seria de gran ajuda en el meu procés de sol·licitud.
+
+Gràcies per la seva consideració.
+
+Atentament,
+Clara Roca
+
+64.
+Prompt: Escriu un correu electrònic a la Sra. Marta Cerdà per informar-la que no podràs assistir a la reunió de demà. Signa com a "Xavier Sala".
+
+Output:
+Assumpte: No podré assistir a la reunió de demà
+
+Benvolguda Sra. Cerdà,
+
+Lamento informar-la que no podré assistir a la reunió programada per demà a causa d'un compromís ineludible. Demano disculpes per qualsevol inconvenient que això pugui causar.
+
+Gràcies per la seva comprensió.
+
+Atentament,
+Xavier Sala
+
+65.
+Prompt: Escriu un correu electrònic per donar la benvinguda al nou membre de l'equip, el Sr. Albert Rius. Signa com a "Meritxell Ferrer".
+
+Output:
+Assumpte: Benvingut a l'equip!
+
+Benvolgut Albert,
+
+Estic molt contenta de donar-te la benvinguda a l'equip! Estem molt emocionats de treballar amb tu i segur que aportarà molt a la nostra feina.
+
+Si necessites alguna cosa, no dubtis a preguntar.
+
+Salutacions,
+Meritxell Ferrer
+
+66.
+Prompt: Escriu un correu electrònic al teu cap, Sr. Martí Ribas, per demanar-li que revisi l'informe que has enviat. Signa com a "Josep Dalmau".
+
+Output:
+Assumpte: Sol·licitud de revisió de l'informe
+
+Benvolgut Sr. Ribas,
+
+Li escric per demanar-li si podria revisar l'informe que he enviat aquest matí. Estaria molt agraït per qualsevol comentari o suggeriment que pugui tenir.
+
+Gràcies per la seva atenció.
+
+Atentament,
+Josep Dalmau
+
+67.
+Prompt: Escriu un correu electrònic per disculpar-te amb el teu amic Andreu per haver oblidat el seu aniversari. Signa com a "Carles Miret".
+
+Output:
+Assumpte: Disculpes pel meu oblit
+
+Hola Andreu,
+
+Vull demanar-te disculpes per haver oblidat el teu aniversari. Em sap molt greu i espero que puguis perdonar-me. Espero que hagis tingut un dia fantàstic!
+
+Una forta abraçada,
+Carles Miret
+
+68.
+Prompt: Escriu un correu electrònic a la Sra. Mercè Cervera per agrair-li la seva col·laboració en el projecte recentment finalitzat. Signa com a "Adrià Fuster".
+
+Output:
+Assumpte: Gràcies per la seva col·laboració
+
+Benvolguda Sra. Cervera,
+
+Vull agrair-li la seva valuosa col·laboració en el projecte que acabem de finalitzar. El seu suport i coneixement han estat fonamentals per a l'èxit del projecte.
+
+Espero poder treballar amb vostè de nou en el futur.
+
+Atentament,
+Adrià Fuster
+
+69.
+Prompt: Escriu un correu electrònic a la Sra. Teresa Sánchez per demanar una cita per revisar el pla de màrqueting. Signa com a "Ricard Mas".
+
+Output:
+Assumpte: Sol·licitud de cita per revisar el pla de màrqueting
+
+Estimada Sra. Sánchez,
+
+M'agradaria demanar una cita amb vostè per revisar el pla de màrqueting de cara al proper trimestre. Crec que hi ha algunes àrees en què podríem millorar i m'agradaria discutir-les amb vostè.
+
+Gràcies per la seva atenció i espero la seva resposta.
+
+Cordialment,
+Ricard Mas
+
+70.
+Prompt: Escriu un correu electrònic a la teva cosina Júlia per felicitar-la pel seu recent compromís. Signa com a "Marc Vila".
+
+Output:
+Assumpte: Felicitats pel teu compromís!
+
+Hola Júlia,
+
+Acabo de saber la notícia del teu compromís i volia felicitar-te! Estic molt content per tu i per aquesta nova etapa que comences. Espero que sigui una experiència meravellosa.
+
+Una abraçada gran,
+Marc Vila
+
+71.
+Prompt: Escriu un correu electrònic al teu professor de matemàtiques, el Sr. Enric Pla, per demanar-li aclariments sobre l'última classe. Signa com a "Joan Soler".
+
+Output:
+Assumpte: Sol·licitud d'aclariments sobre l'última classe
+
+Benvolgut Sr. Pla,
+
+Li escric per demanar-li alguns aclariments sobre el contingut de l'última classe de matemàtiques. Hi ha alguns conceptes que no vaig acabar d'entendre i m'agradaria parlar-ne amb vostè per assegurar-me que ho comprenc bé.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+Joan Soler
+
+72.
+Prompt: Escriu un correu electrònic per demanar informació sobre un producte al servei d'atenció al client de l'empresa XYZ. Signa com a "Laura Domènech".
+
+Output:
+Assumpte: Sol·licitud d'informació sobre el producte
+
+Benvolgut servei d'atenció al client,
+
+M'agradaria obtenir més informació sobre un dels vostres productes. Concretament, m'interessa conèixer les característiques tècniques i la garantia del producte.
+
+Gràcies per la seva atenció.
+
+Atentament,
+Laura Domènech
+
+73.
+Prompt: Escriu un correu electrònic a la teva amiga Marta per informar-la que no podràs assistir a la seva festa d'aniversari. Signa com a "Aina Puig".
+
+Output:
+Assumpte: No podré assistir a la teva festa
+
+Hola Marta,
+
+Em sap molt greu dir-te que no podré assistir a la teva festa d'aniversari. Tinc un compromís familiar ineludible. Espero que tinguis un dia fantàstic i que puguis celebrar-ho molt!
+
+Petons,
+Aina Puig
+
+74.
+Prompt: Escriu un correu electrònic al teu veí Carles per demanar-li que baixi el volum de la música perquè estàs treballant. Signa com a "Pilar Ruiz".
+
+Output:
+Assumpte: Volum de la música
+
+Hola Carles,
+
+Volia demanar-te si podries baixar una mica el volum de la música. Estic treballant i em costa concentrar-me amb el soroll. Gràcies per la teva comprensió!
+
+Salutacions,
+Pilar Ruiz
+
+75.
+Prompt: Escriu un correu electrònic per confirmar la teva assistència a la festa sorpresa de la Sra. Maria Ortiz. Signa com a "Francesc Tomàs".
+
+Output:
+Assumpte: Confirmació d'assistència a la festa sorpresa
+
+Benvolguts,
+
+Amb aquest correu vull confirmar la meva assistència a la festa sorpresa de la Sra. Maria Ortiz. Estic molt emocionat per l'oportunitat de celebrar aquest esdeveniment tan especial.
+
+Gràcies per organitzar-ho!
+
+Atentament,
+Francesc Tomàs
+
+76.
+Prompt: Escriu un correu electrònic per demanar un reemborsament a l'empresa ABC per un producte defectuós.
+
+Output:
+Assumpte: Sol·licitud de reemborsament per producte defectuós
+
+Benvolguts,
+
+Els escric per sol·licitar un reemborsament per un producte que he rebut defectuós. Adjunto el número de comanda i les fotografies del producte en qüestió.
+
+Gràcies per la seva atenció.
+
+Cordialment,
+[El teu nom]
+
+77.
+Prompt: Escriu un correu electrònic al teu supervisor per sol·licitar una reunió per discutir el teu rendiment i possibles promocions.
+
+Output:
+Assumpte: Sol·licitud de reunió per discutir rendiment i promocions
+
+Benvolgut supervisor,
+
+M'agradaria sol·licitar una reunió per discutir el meu rendiment recent i explorar possibles oportunitats de promoció dins de l'empresa. Crec que una conversa en persona podria ser molt beneficiosa.
+
+Gràcies per considerar la meva sol·licitud.
+
+Atentament,
+[El teu nom]
+
+78.
+Prompt: Escriu un correu electrònic per informar el teu equip que la sessió de formació programada per demà s'ha ajornat fins a nou avís.
+
+Output:
+Assumpte: Ajornament de la sessió de formació
+
+Hola equip,
+
+Només volia informar-vos que la sessió de formació programada per demà ha estat ajornada fins a nou avís. Us mantindré informats de la nova data tan aviat com sigui possible.
+
+Gràcies per la vostra comprensió.
+
+Salutacions,
+[El teu nom]
+
+79.
+Prompt: Escriu un correu electrònic al teu professor per agrair-li els comentaris positius sobre el teu últim treball.
+
+Output:
+Assumpte: Gràcies pels seus comentaris positius
+
+Benvolgut professor,
+
+Vull agrair-li els comentaris positius que ha fet sobre el meu últim treball. Estic molt agraït pel seu suport i per les valuoses observacions que m'ha proporcionat.
+
+Atentament,
+[El teu nom]
+
+80.
+Prompt: Escriu un correu electrònic al teu amic Pau per convidar-lo a un esdeveniment benèfic aquest dissabte.
+
+Output:
+Assumpte: Esdeveniment benèfic aquest dissabte
+
+Hola Pau,
+
+Aquest dissabte hi ha un esdeveniment benèfic al qual m'agradaria assistir, i seria genial si poguessis acompanyar-me. Què en penses? Podria ser una bona oportunitat per passar una bona estona junts i ajudar una bona causa.
+
+Deixa'm saber si t'apuntes!
+
+Una abraçada,
+[El teu nom]
+
+81.
+Prompt: Escriu un correu electrònic a l'equip per agrair-los la seva feina en el projecte recentment completat.
+
+Output:
+Assumpte: Gràcies per la vostra feina en el projecte
+
+Hola equip,
+
+Vull agrair-vos la vostra excel·lent feina en el projecte recentment completat. Ha estat un plaer treballar amb tots vosaltres i espero que tinguem més oportunitats de treballar junts en el futur.
+
+Felicitats a tots!
+
+Salutacions,
+[El teu nom]
+
+82.
+Prompt: Escriu un correu electrònic per demanar informació sobre les opcions de pagament per a un curs en línia.
+
+Output:
+Assumpte: Sol·licitud d'informació sobre opcions de pagament
+
+Benvolguts,
+
+M'agradaria obtenir més informació sobre les opcions de pagament per al curs en línia que ofereixen. Podrien proporcionar-me més detalls sobre els plans de pagament disponibles?
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+83.
+Prompt: Escriu un correu electrònic per informar un client, el Sr. Antoni Vidal, que el seu projecte està gairebé completat.
+
+Output:
+Assumpte: Actualització sobre l'estat del seu projecte
+
+Benvolgut Sr. Vidal,
+
+Em complau informar-lo que el seu projecte està gairebé completat. Estem en les últimes fases i esperem lliurar-lo dins del termini acordat.
+
+Gràcies per la seva confiança en els nostres serveis.
+
+Cordialment,
+[El teu nom]
+
+84.
+Prompt: Escriu un correu electrònic per sol·licitar un pressupost a una empresa de càtering per a un esdeveniment corporatiu.
+
+Output:
+Assumpte: Sol·licitud de pressupost per a esdeveniment corporatiu
+
+Benvolguts,
+
+Estem organitzant un esdeveniment corporatiu i m'agradaria sol·licitar un pressupost per als seus serveis de càtering. Ens agradaria saber quines opcions ofereixen i els preus associats.
+
+Espero la seva resposta.
+
+Atentament,
+[El teu nom]
+
+85.
+Prompt: Escriu un correu electrònic per informar el teu cap que necessites prendre uns dies de baixa mèdica.
+
+Output:
+Assumpte: Sol·licitud de baixa mèdica
+
+Benvolgut cap,
+
+Em poso en contacte amb vostè per informar-li que necessito prendre uns dies de baixa mèdica a causa d'un problema de salut. Adjunto el certificat mèdic per a la seva referència.
+
+Gràcies per la seva comprensió.
+
+Atentament,
+[El teu nom]
+
+86.
+Prompt: Escriu un correu electrònic per recordar al teu equip la data límit per enviar els informes trimestrals.
+
+Output:
+Assumpte: Recordatori: Data límit per enviar informes trimestrals
+
+Hola equip,
+
+Només volia recordar-vos que la data límit per enviar els informes trimestrals és aquest divendres. Si us plau, assegureu-vos d'enviar-los abans de la data límit per evitar qualsevol problema.
+
+Gràcies!
+
+Salutacions,
+[El teu nom]
+
+87.
+Prompt: Escriu un correu electrònic per donar la benvinguda a un nou membre de l'equip, la Sra. Paula Moreno.
+
+Output:
+Assumpte: Benvinguda a l'equip!
+
+Hola Paula,
+
+Vull donar-te la benvinguda al nostre equip! Estem molt emocionats de tenir-te amb nosaltres i estem segurs que faràs una gran contribució amb les teves habilitats i experiència.
+
+Si necessites alguna cosa, no dubtis a preguntar.
+
+Salutacions,
+[El teu nom]
+
+88.
+Prompt: Escriu un correu electrònic al departament d'informàtica per informar-los d'un problema amb el teu ordinador.
+
+Output:
+Assumpte: Problema amb l'ordinador
+
+Benvolgut departament d'informàtica,
+
+Estic experimentant un problema amb el meu ordinador que impedeix el seu correcte funcionament. Necessito ajuda per solucionar aquest problema el més aviat possible.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+89.
+Prompt: Escriu un correu electrònic al teu professor per informar-li que no podràs assistir a la classe de demà per motius personals.
+
+Output:
+Assumpte: Absència a la classe de demà
+
+Benvolgut professor,
+
+Li escric per informar-lo que, per motius personals, no podré assistir a la classe de demà. Agrairia si pogués proporcionar-me qualsevol material o tasca que es pugui assignar durant la seva absència.
+
+Gràcies per la seva comprensió.
+
+Atentament,
+[El teu nom]
+
+90.
+Prompt: Escriu un correu electrònic a un client per informar-lo que el seu enviament s'ha retardat a causa de problemes logístics.
+
+Output:
+Assumpte: Retard en l'enviament
+
+Benvolgut client,
+
+Lamento informar-lo que el seu enviament ha patit un retard a causa de problemes logístics. Estem treballant per resoldre la situació i li farem arribar el seu enviament tan aviat com sigui possible.
+
+Gràcies per la seva comprensió.
+
+Cordialment,
+[El teu nom]
+
+91.
+Prompt: Escriu un correu electrònic al teu cap per informar-lo de la finalització d'un projecte important abans del termini establert.
+
+Output:
+Assumpte: Finalització del projecte abans del termini
+
+Benvolgut cap,
+
+Em complau informar-lo que hem finalitzat el projecte important abans del termini establert. Adjunto l'informe final per a la seva revisió.
+
+Gràcies per la seva confiança en el nostre treball.
+
+Salutacions,
+[El teu nom]
+
+92.
+Prompt: Escriu un correu electrònic per sol·licitar informació sobre els serveis d'una empresa de mudances per a un trasllat internacional.
+
+Output:
+Assumpte: Sol·licitud d'informació sobre serveis de mudances
+
+Benvolguts,
+
+Estic interessat en obtenir informació sobre els seus serveis de mudances per a un trasllat internacional. M'agradaria conèixer les opcions disponibles i els preus.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+93.
+Prompt: Escriu un correu electrònic per confirmar l'assistència a una entrevista de treball amb el Sr. Manuel Ruiz el 15 de maig.
+
+Output:
+Assumpte: Confirmació d'assistència a l'entrevista de treball
+
+Benvolgut Sr. Ruiz,
+
+Amb aquest correu vull confirmar la meva assistència a l'entrevista de treball programada per al 15 de maig. Estic desitjant conèixer-lo i discutir les oportunitats disponibles.
+
+Gràcies per aquesta oportunitat.
+
+Atentament,
+[El teu nom]
+
+94.
+Prompt: Escriu un correu electrònic per demanar a un company de treball que t'ajudi amb una tasca urgent.
+
+Output:
+Assumpte: Necessito la teva ajuda amb una tasca urgent
+
+Hola [Nom del company],
+
+T'escric perquè necessito la teva ajuda amb una tasca urgent que necessito completar avui. Podries donar-me un cop de mà?
+
+T'agraeixo molt la teva col·laboració.
+
+Salutacions,
+[El teu nom]
+
+95.
+Prompt: Escriu un correu electrònic al departament de manteniment per informar-los d'una fuita d'aigua a l'oficina.
+
+Output:
+Assumpte: Fuita d'aigua a l'oficina
+
+Benvolgut departament de manteniment,
+
+Hi ha una fuita d'aigua a l'oficina que necessita ser atesa amb urgència. Si us plau, podríeu enviar algú per solucionar el problema al més aviat possible?
+
+Gràcies per la vostra ràpida resposta.
+
+Atentament,
+[El teu nom]
+
+96.
+Prompt: Escriu un correu electrònic per comunicar al teu equip que s'ha canviat la data de la reunió mensual.
+
+Output:
+Assumpte: Canvi de data de la reunió mensual
+
+Hola equip,
+
+Us informo que la data de la reunió mensual s'ha canviat al pròxim dimarts a les 10:00 hores. Si us plau, ajusteu els vostres calendaris en conseqüència.
+
+Gràcies per la vostra comprensió.
+
+Salutacions,
+[El teu nom]
+
+97.
+Prompt: Escriu un correu electrònic per cancel·lar una reserva en un hotel i demanar un reemborsament complet.
+
+Output:
+Assumpte: Cancel·lació de reserva i sol·licitud de reemborsament
+
+Benvolguts,
+
+Lamento informar-los que he de cancel·lar la meva reserva a l'hotel per a les dates indicades a continuació. M'agradaria sol·licitar un reemborsament complet, segons la seva política de cancel·lació.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+98.
+Prompt: Escriu un correu electrònic per felicitar un col·lega per haver estat promogut recentment.
+
+Output:
+Assumpte: Felicitats per la teva promoció!
+
+Hola [Nom del col·lega],
+
+Vull felicitar-te per la teva recent promoció! És un èxit molt merescut i estic segur que faràs una feina excel·lent en el teu nou càrrec.
+
+Enhorabona!
+
+Salutacions,
+[El teu nom]
+
+99.
+Prompt: Escriu un correu electrònic al teu supervisor per informar-lo de l'estat d'un projecte en el qual estàs treballant.
+
+Output:
+Assumpte: Actualització sobre l'estat del projecte
+
+Benvolgut supervisor,
+
+Vull informar-lo sobre l'estat actual del projecte en el qual estic treballant. Estem complint els terminis establerts i esperem finalitzar-lo dins del temps previst.
+
+Si necessita més detalls, estic a la seva disposició.
+
+Atentament,
+[El teu nom]
+
+100.
+Prompt: Escriu un correu electrònic per convidar el teu amic Joan a una excursió a la muntanya aquest diumenge.
+
+Output:
+Assumpte: Excursió a la muntanya aquest diumenge
+
+Hola Joan,
+
+Aquest diumenge estic organitzant una excursió a la muntanya i m'agradaria molt que vinguessis. Què et sembla la idea? Serà una gran oportunitat per gaudir de la natura i passar-ho bé.
+
+Deixa'm saber si t'animes!
+
+Una abraçada,
+[El teu nom]
+
+101.
+Prompt: Escriu un correu electrònic al teu amic Marc per preguntar-li si vol participar en un torneig de Monopoly el pròxim dissabte.
+
+Output:
+Assumpte: Torneig de Monopoly aquest dissabte!
+
+Hola Marc,
+
+Espero que estiguis bé! Aquest dissabte estic organitzant un torneig de Monopoly i crec que seria divertit que vinguessis a participar. Què et sembla la idea? Serà una gran oportunitat per demostrar les teves habilitats estratègiques!
+
+Deixa'm saber si t'animes!
+
+Una abraçada,
+[El teu nom]
+
+102.
+Prompt: Escriu un correu electrònic formal a l'alcalde de la teva ciutat per proposar una campanya de reciclatge al barri.
+
+Output:
+Assumpte: Proposta de campanya de reciclatge al barri
+
+Benvolgut Sr. Alcalde,
+
+Em dirigeixo a vostè per proposar una campanya de reciclatge al nostre barri. Crec que és crucial fomentar la consciència mediambiental i animar els residents a reciclar més. M'agradaria organitzar una reunió per discutir aquesta iniciativa i explorar com podríem col·laborar.
+
+Espero la seva resposta i agraeixo la seva consideració.
+
+Atentament,
+[El teu nom]
+
+103.
+Prompt: Escriu un correu electrònic a la teva germana per explicar-li que vas trobar un gatet abandonat i estàs considerant adoptar-lo.
+
+Output:
+Assumpte: He trobat un gatet!
+
+Hola [Nom de la germana],
+
+Aquesta tarda he trobat un gatet abandonat al carrer i estic pensant en adoptar-lo. És molt petit i sembla molt perdut, però també és adorable! Creus que seria una bona idea? M'encantaria tenir la teva opinió.
+
+Petons,
+[El teu nom]
+
+104.
+Prompt: Escriu un correu electrònic a la teva amiga Marta per demanar-li que t'ajudi a organitzar una festa sorpresa per al seu germà.
+
+Output:
+Assumpte: Ajuda per a la festa sorpresa del teu germà
+
+Hola Marta,
+
+Estic pensant en organitzar una festa sorpresa per al teu germà i m'agradaria saber si podries ajudar-me amb els preparatius. Crec que seria molt divertit i li agradaria molt!
+
+Deixa'm saber si pots col·laborar!
+
+Una abraçada,
+[El teu nom]
+
+105.
+Prompt: Escriu un correu electrònic a un veí per demanar-li que cuidi les teves plantes mentre estàs de viatge durant una setmana.
+
+Output:
+Assumpte: Cura de plantes mentre estic de viatge
+
+Hola [Nom del veí],
+
+La setmana vinent estaré fora de la ciutat per un viatge i volia demanar-te un favor. Podries cuidar les meves plantes mentre no hi sóc? No necessiten gaire cura, només una mica d'aigua cada dos dies.
+
+Moltes gràcies per avançat!
+
+Una abraçada,
+[El teu nom]
+
+106.
+Prompt: Escriu un correu electrònic al servei meteorològic local per sol·licitar dades històriques sobre la temperatura i les precipitacions per a un projecte escolar.
+
+Output:
+Assumpte: Sol·licitud de dades històriques sobre temperatura i precipitacions
+
+Benvolgut servei meteorològic,
+
+Em poso en contacte amb vostès per sol·licitar dades històriques sobre la temperatura i les precipitacions a la nostra regió per a un projecte escolar que estic realitzant. Apreciaria molt la seva ajuda proporcionant-me aquestes dades.
+
+Gràcies per la seva col·laboració.
+
+Atentament,
+[El teu nom]
+
+107.
+Prompt: Escriu un correu electrònic a un amic que fa temps que no veus per preguntar-li si vol anar a un concert de música clàssica el proper diumenge.
+
+Output:
+Assumpte: Concert de música clàssica aquest diumenge?
+
+Hola [Nom de l'amic],
+
+Fa molt temps que no ens veiem i he pensat que seria una bona idea anar junts a un concert de música clàssica aquest diumenge. Què et sembla la idea? Podria ser una bona manera de posar-nos al dia.
+
+Espero la teva resposta!
+
+Una abraçada,
+[El teu nom]
+
+108.
+Prompt: Escriu un correu electrònic al servei d'atenció al client d'una botiga en línia per demanar informació sobre el procés de devolució d'un producte.
+
+Output:
+Assumpte: Sol·licitud d'informació sobre el procés de devolució
+
+Benvolgut servei d'atenció al client,
+
+Em poso en contacte amb vostès per demanar informació sobre el procés de devolució d'un producte que vaig comprar recentment a la seva botiga en línia. M'agradaria conèixer els passos necessaris i qualsevol requisit que hagi de complir.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+109.
+Prompt: Escriu un correu electrònic a un amic demanant-li consells per millorar les teves habilitats de cuina.
+
+Output:
+Assumpte: Consells per millorar les meves habilitats de cuina
+
+Hola [Nom de l'amic],
+
+He estat intentant millorar les meves habilitats de cuina últimament i vaig pensar que tu podries tenir alguns bons consells per a mi. Tens alguna recepta o tècnica que pugui provar? M'encantaria convertir-me en un cuiner millor!
+
+Espero la teva ajuda.
+
+Una abraçada,
+[El teu nom]
+
+110.
+Prompt: Escriu un correu electrònic per convidar els teus pares a un sopar especial a casa teva el proper dissabte.
+
+Output:
+Assumpte: Sopar especial a casa meva
+
+Hola pare i mare,
+
+Aquest dissabte estic organitzant un sopar especial a casa meva i m'encantaria que vinguéssiu. Tinc pensat preparar alguns plats especials i passar una nit agradable en família.
+
+Deixa'm saber si us ve de gust!
+
+Petons,
+[El teu nom]
+
+111.
+Prompt: Escriu un correu electrònic al responsable de comunicació d'una ONG per oferir-te com a voluntari en el seu proper esdeveniment.
+
+Output:
+Assumpte: Oferta de voluntariat per al proper esdeveniment
+
+Benvolgut responsable de comunicació,
+
+Estic molt interessat en el treball que fa la seva ONG i m'agradaria oferir-me com a voluntari per al seu proper esdeveniment. Crec que podria aportar el meu granet de sorra i ajudar en el que calgui.
+
+Espero la seva resposta.
+
+Atentament,
+[El teu nom]
+
+112.
+Prompt: Escriu un correu electrònic a la teva amiga Clara per demanar-li la seva opinió sobre una idea de negoci que estàs considerant.
+
+Output:
+Assumpte: Opinió sobre una idea de negoci
+
+Hola Clara,
+
+Estic considerant una nova idea de negoci i m'agradaria tenir la teva opinió. Creus que podríem parlar un dia d'aquesta setmana? Sé que tens una gran experiència en aquest camp i m'agradaria escoltar el teu punt de vista.
+
+Gràcies per endavant!
+
+Petons,
+[El teu nom]
+
+113.
+Prompt: Escriu un correu electrònic al departament de seguretat de l'empresa per informar-los d'un correu electrònic sospitós que has rebut.
+
+Output:
+Assumpte: Informe de correu electrònic sospitós
+
+Benvolgut departament de seguretat,
+
+He rebut un correu electrònic que sembla sospitós i voldria informar-vos d'aquest incident. Adjunto una captura de pantalla del correu per a la vostra revisió.
+
+Espero la vostra resposta sobre com procedir.
+
+Atentament,
+[El teu nom]
+
+114.
+Prompt: Escriu un correu electrònic al director d'una biblioteca per suggerir una xerrada sobre la història local de la ciutat.
+
+Output:
+Assumpte: Suggeriment de xerrada sobre la història local
+
+Benvolgut director,
+
+Em poso en contacte amb vostè per suggerir una xerrada sobre la història local de la nostra ciutat a la biblioteca. Crec que seria una gran oportunitat per educar la comunitat i connectar-nos més amb el nostre passat.
+
+Estic disposat a ajudar a organitzar l'esdeveniment si li sembla bé.
+
+Atentament,
+[El teu nom]
+
+115.
+Prompt: Escriu un correu electrònic al teu professor per demanar-li recomanacions de llibres per aprofundir en el tema de la seva assignatura.
+
+Output:
+Assumpte: Recomanacions de llibres per aprofundir en el tema de l'assignatura
+
+Benvolgut professor,
+
+M'agradaria demanar-li recomanacions de llibres per aprofundir en el tema de la seva assignatura. M'interessa especialment explorar més sobre els conceptes que hem tractat recentment a classe.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+116.
+Prompt: Escriu un correu electrònic a la teva amiga Laura per explicar-li un somni estrany que vas tenir la nit passada.
+
+Output:
+Assumpte: Somni estrany de la nit passada
+
+Hola Laura,
+
+Ahir a la nit vaig tenir un somni molt estrany! Somiava que estàvem en una jungla plena de flamingos que parlaven i ens guiaven per un camí secret. Va ser molt surrealista! Creus que significa alguna cosa?
+
+Espero veure't aviat per parlar-ne més!
+
+Petons,
+[El teu nom]
+
+117.
+Prompt: Escriu un correu electrònic al teu professor per informar-lo que el treball final ha estat enviat correctament.
+
+Output:
+Assumpte: Enviament del treball final
+
+Benvolgut professor,
+
+Només volia informar-li que he enviat el treball final a través del portal en línia. Si us plau, faci'm saber si hi ha algun problema amb la recepció del document.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+118.
+Prompt: Escriu un correu electrònic a la teva amiga Marta per preguntar-li si vol participar en una classe de ioga aquest cap de setmana.
+
+Output:
+Assumpte: Classe de ioga aquest cap de setmana?
+
+Hola Marta,
+
+Aquest cap de setmana pensava anar a una classe de ioga i vaig pensar que podria ser divertit si t'unies a mi. Què et sembla? Serà una bona manera de relaxar-nos i passar una bona estona.
+
+Deixa'm saber si t'animes!
+
+Una abraçada,
+[El teu nom]
+
+119.
+Prompt: Escriu un correu electrònic a una empresa de serveis d'internet per demanar informació sobre la seva cobertura i tarifes.
+
+Output:
+Assumpte: Sol·licitud d'informació sobre cobertura i tarifes
+
+Benvolguts,
+
+Estic interessat en els seus serveis d'internet i m'agradaria obtenir més informació sobre la seva cobertura a la meva zona, així com les tarifes disponibles. Podrien proporcionar-me més detalls?
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+120.
+Prompt: Escriu un correu electrònic al responsable de formació d'una empresa per sol·licitar informació sobre cursos de desenvolupament professional.
+
+Output:
+Assumpte: Sol·licitud d'informació sobre cursos de desenvolupament professional
+
+Benvolgut responsable de formació,
+
+Estic interessat en conèixer més sobre els cursos de desenvolupament professional que ofereixen a la seva empresa. Podria proporcionar-me informació sobre els cursos disponibles, dates i requisits?
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+121.
+Prompt: Escriu un correu electrònic al servei tècnic d'un proveïdor d'internet per informar d'una connexió lenta i intermitent.
+
+Output:
+Assumpte: Problema de connexió lenta i intermitent
+
+Benvolgut servei tècnic,
+
+Estic experimentant problemes amb la meva connexió a internet, que és lenta i intermitent des d'ahir. Podrien ajudar-me a resoldre aquest problema tan aviat com sigui possible?
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+122.
+Prompt: Escriu un correu electrònic a la teva amiga Júlia per compartir la teva opinió sobre un llibre que acabes de llegir.
+
+Output:
+Assumpte: Opinió sobre el llibre que vaig llegir
+
+Hola Júlia,
+
+Acabo de llegir el llibre que em vas recomanar i volia compartir la meva opinió. Em va encantar la trama i els personatges! Va ser una lectura molt emocionant i em va mantenir enganxat fins al final. Moltes gràcies per la recomanació!
+
+Ens veiem aviat!
+
+Petons,
+[El teu nom]
+
+123.
+Prompt: Escriu un correu electrònic al departament de màrqueting d'una empresa per suggerir una col·laboració en un projecte de publicitat.
+
+Output:
+Assumpte: Proposta de col·laboració en un projecte de publicitat
+
+Benvolgut departament de màrqueting,
+
+M'agradaria proposar una col·laboració amb la seva empresa en un projecte de publicitat que estem desenvolupant. Crec que podríem aportar molt valor a aquest projecte i m'agradaria discutir les possibilitats amb vostès.
+
+Espero la seva resposta.
+
+Atentament,
+[El teu nom]
+
+124.
+Prompt: Escriu un correu electrònic a la teva mare per preguntar-li si té la recepta del pastís de xocolata que solies fer de petit.
+
+Output:
+Assumpte: Recepta del pastís de xocolata
+
+Hola mare,
+
+Estava pensant en fer el pastís de xocolata que solies fer quan era petit i m'agradaria saber si tens la recepta. Era el meu favorit i m'encantaria intentar fer-lo!
+
+Gràcies!
+
+Petons,
+[El teu nom]
+
+125.
+Prompt: Escriu un correu electrònic a la teva companya de pis per proposar una nit de pel·lícules aquest cap de setmana.
+
+Output:
+Assumpte: Nit de pel·lícules aquest cap de setmana?
+
+Hola [Nom de la companya de pis],
+
+Estava pensant que podríem fer una nit de pel·lícules aquest cap de setmana, amb crispetes i tot! Què en penses? Podria ser una bona manera de relaxar-nos després d'una setmana intensa.
+
+Deixa'm saber si t'apuntes!
+
+Una abraçada,
+[El teu nom]
+
+126.
+Prompt: Escriu un correu electrònic al teu antic professor de biologia per agrair-li la seva inspiració i suport durant els teus anys d'estudiant.
+
+Output:
+Assumpte: Gràcies per la seva inspiració i suport
+
+Benvolgut professor,
+
+Només volia agrair-li tot el seu suport i inspiració durant els meus anys com a estudiant de biologia. Les seves classes van despertar en mi una passió per la ciència que encara mantinc avui en dia. Gràcies per ser un mentor tan increïble!
+
+Amb gratitud,
+[El teu nom]
+
+127.
+Prompt: Escriu un correu electrònic al teu cap per suggerir una nova eina de gestió de projectes que has descobert.
+
+Output:
+Assumpte: Suggeriment d'una nova eina de gestió de projectes
+
+Benvolgut cap,
+
+He descobert recentment una nova eina de gestió de projectes que crec que podria ser molt beneficiosa per al nostre equip. Estic disposat a fer una demostració de com funciona si li sembla bé.
+
+Gràcies per considerar la meva proposta.
+
+Atentament,
+[El teu nom]
+
+128.
+Prompt: Escriu un correu electrònic per disculpar-te amb la teva amiga Anna per haver oblidat la seva festa d'aniversari.
+
+Output:
+Assumpte: Disculpes per haver oblidat la teva festa d'aniversari
+
+Hola Anna,
+
+Em sap molt greu haver oblidat la teva festa d'aniversari. Vaig estar molt ocupat amb altres assumptes i no em vaig adonar del dia. Espero que em puguis perdonar i que hagis tingut un dia fantàstic.
+
+Petons,
+[El teu nom]
+
+129.
+Prompt: Escriu un correu electrònic al servei d'atenció al client d'una aerolínia per informar-los que el teu vol ha estat cancel·lat i sol·licitar un reemborsament.
+
+Output:
+Assumpte: Sol·licitud de reemborsament per vol cancel·lat
+
+Benvolgut servei d'atenció al client,
+
+El meu vol recentment ha estat cancel·lat i m'agradaria sol·licitar un reemborsament complet. He adjuntat els detalls de la reserva per facilitar el procés.
+
+Gràcies per la seva assistència.
+
+Atentament,
+[El teu nom]
+
+130.
+Prompt: Escriu un correu electrònic a un amic per explicar-li que has començat a aprendre un nou idioma.
+
+Output:
+Assumpte: Aprenentatge d'un nou idioma
+
+Hola [Nom de l'amic],
+
+Volia explicar-te que he començat a aprendre un nou idioma! He decidit aprendre francès i m'estic divertint molt. És una mica difícil, però m'encanta el repte. Tens alguna recomanació per a aprenentatges lingüístics?
+
+Espero veure't aviat!
+
+Una abraçada,
+[El teu nom]
+
+131.
+Prompt: Escriu un correu electrònic al teu supervisor per sol·licitar permís per fer teletreball durant una setmana.
+
+Output:
+Assumpte: Sol·licitud de permís per fer teletreball
+
+Benvolgut supervisor,
+
+M'agradaria sol·licitar permís per fer teletreball durant la setmana vinent a causa d'alguns compromisos personals. Tinc la certesa que podré complir amb totes les meves responsabilitats des de casa.
+
+Gràcies per considerar la meva sol·licitud.
+
+Atentament,
+[El teu nom]
+
+132.
+Prompt: Escriu un correu electrònic a la teva cosina per preguntar-li si té alguna recomanació de sèrie per veure durant el cap de setmana.
+
+Output:
+Assumpte: Recomanació de sèrie per al cap de setmana
+
+Hola [Nom de la cosina],
+
+Aquest cap de setmana vull relaxar-me una mica i vaig pensar que podries tenir alguna bona recomanació de sèrie per veure. Tens alguna cosa que m'hauria de mirar? M'encantaria escoltar les teves idees!
+
+Petons,
+[El teu nom]
+
+133.
+Prompt: Escriu un correu electrònic al servei de neteja de l'oficina per sol·licitar una neteja profunda després d'un esdeveniment recent.
+
+Output:
+Assumpte: Sol·licitud de neteja profunda a l'oficina
+
+Benvolgut servei de neteja,
+
+Després del nostre esdeveniment recent a l'oficina, necessitem una neteja profunda de l'espai. Podrien programar una neteja per aquesta setmana? Apreciem molt la seva ajuda per mantenir el nostre espai de treball net i ordenat.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+134.
+Prompt: Escriu un correu electrònic al teu veí per convidar-lo a una barbacoa a casa teva aquest cap de setmana.
+
+Output:
+Assumpte: Barbacoa a casa meva aquest cap de setmana
+
+Hola [Nom del veí],
+
+Estic organitzant una barbacoa aquest cap de setmana a casa meva i m'agradaria molt que vinguessis. Serà una gran oportunitat per conèixer-nos millor i passar una bona estona.
+
+Espero que puguis venir!
+
+Salutacions,
+[El teu nom]
+
+135.
+Prompt: Escriu un correu electrònic a la teva amiga Marta per explicar-li que has començat a fer escalada i t'agradaria que t'acompanyés alguna vegada.
+
+Output:
+Assumpte: Nova afició: escalada
+
+Hola Marta,
+
+He començat a fer escalada recentment i m'està encantant! M'agradaria molt que vinguessis acompanyar-me alguna vegada. Què en penses? Podria ser molt divertit i una bona manera de mantenir-nos en forma!
+
+Espero la teva resposta!
+
+Una abraçada,
+[El teu nom]
+
+136.
+Prompt: Escriu un correu electrònic al teu antic cap per demanar-li una carta de recomanació per a una nova oportunitat laboral.
+
+Output:
+Assumpte: Sol·licitud de carta de recomanació
+
+Benvolgut [Nom de l'antic cap],
+
+Espero que estigui bé. Em poso en contacte amb vostè per demanar-li una carta de recomanació per a una nova oportunitat laboral que estic considerant. La seva opinió significaria molt per a mi i agrairia molt la seva ajuda.
+
+Gràcies per considerar la meva sol·licitud.
+
+Atentament,
+[El teu nom]
+
+137.
+Prompt: Escriu un correu electrònic al teu amic per informar-lo que has guanyat una competició de fotografia.
+
+Output:
+Assumpte: He guanyat una competició de fotografia!
+
+Hola [Nom de l'amic],
+
+Volia explicar-te que he guanyat una competició de fotografia! Vaig enviar una de les meves fotos favorites i acaben d'informar-me que he guanyat. Estic molt emocionat i volia compartir la notícia amb tu.
+
+Espero veure't aviat per celebrar-ho!
+
+Una abraçada,
+[El teu nom]
+
+138.
+Prompt: Escriu un correu electrònic per informar un client que el seu projecte ha estat completat i està llest per a la revisió final.
+
+Output:
+Assumpte: Projecte completat i llest per a revisió final
+
+Benvolgut client,
+
+Em complau informar-lo que el seu projecte ha estat completat i està llest per a la seva revisió final. Si us plau, faci'm saber si hi ha alguna cosa més que necessiti abans de procedir amb el lliurament final.
+
+Gràcies per la seva col·laboració.
+
+Atentament,
+[El teu nom]
+
+139.
+Prompt: Escriu un correu electrònic a un amic per demanar-li que et recomani un bon restaurant per sopar aquest cap de setmana.
+
+Output:
+Assumpte: Recomanació de restaurant per aquest cap de setmana
+
+Hola [Nom de l'amic],
+
+Estava pensant en sortir a sopar aquest cap de setmana i vaig pensar que tu podries tenir alguna bona recomanació. Tens algun restaurant favorit que creus que hauria de provar? M'encantaria escoltar la teva opinió.
+
+Gràcies!
+
+Una abraçada,
+[El teu nom]
+
+140.
+Prompt: Escriu un correu electrònic al teu professor per demanar-li una reunió per discutir el teu projecte de recerca.
+
+Output:
+Assumpte: Sol·licitud de reunió per discutir el projecte de recerca
+
+Benvolgut professor,
+
+M'agradaria demanar una reunió amb vostè per discutir el meu projecte de recerca i obtenir la seva opinió sobre alguns aspectes que m'estan preocupant. Podríem trobar-nos aquesta setmana?
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+141.
+Prompt: Escriu un correu electrònic a la teva germana per explicar-li que estàs pensant en fer un canvi de carrera.
+
+Output:
+Assumpte: Pensant en un canvi de carrera
+
+Hola [Nom de la germana],
+
+He estat reflexionant molt últimament i crec que estic pensant en fer un canvi de carrera. Em sento molt emocionat però també nerviós per aquesta decisió. M'encantaria tenir la teva opinió i parlar-ne més.
+
+Espero veure't aviat!
+
+Petons,
+[El teu nom]
+
+142.
+Prompt: Escriu un correu electrònic al teu veí per demanar-li que et torni una eina que li vas deixar fa unes setmanes.
+
+Output:
+Assumpte: Necessito recuperar una eina
+
+Hola [Nom del veí],
+
+Només volia recordar-te l'eina que et vaig deixar fa unes setmanes. Necessito utilitzar-la per a un projecte aquest cap de setmana. Podries tornar-me-la quan tinguis un moment?
+
+Gràcies!
+
+Salutacions,
+[El teu nom]
+
+143.
+Prompt: Escriu un correu electrònic al teu cap per informar-lo que necessites sortir abans de la feina demà.
+
+Output:
+Assumpte: Sol·licitud per sortir abans de la feina
+
+Benvolgut cap,
+
+M'agradaria informar-lo que necessito sortir una mica abans de la feina demà a causa d'un compromís personal. Em comprometo a completar totes les meves tasques abans de sortir.
+
+Gràcies per la seva comprensió.
+
+Atentament,
+[El teu nom]
+
+144.
+Prompt: Escriu un correu electrònic a un amic per proposar una excursió amb bicicleta aquest cap de setmana.
+
+Output:
+Assumpte: Excursió amb bicicleta aquest cap de setmana?
+
+Hola [Nom de l'amic],
+
+Aquest cap de setmana estava pensant en fer una excursió amb bicicleta per la muntanya i vaig pensar que podria ser divertit si t'unies a mi. Què en penses? Serà una bona manera de gaudir de la natura i fer una mica d'exercici.
+
+Deixa'm saber si t'apuntes!
+
+Una abraçada,
+[El teu nom]
+
+145.
+Prompt: Escriu un correu electrònic al teu professor de música per preguntar-li si pot recomanar-te algunes peces per practicar amb el piano.
+
+Output:
+Assumpte: Recomanacions de peces per practicar amb el piano
+
+Benvolgut professor,
+
+Estic buscant noves peces per practicar amb el piano i vaig pensar que vostè podria tenir algunes recomanacions. M'agradaria aprendre alguna cosa desafiante però també divertida.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+146.
+Prompt: Escriu un correu electrònic al teu amic per compartir la teva experiència en un festival de música al qual acabes d'anar.
+
+Output:
+Assumpte: Experiència al festival de música
+
+Hola [Nom de l'amic],
+
+Acabo de tornar d'un festival de música increïble i volia compartir la meva experiència amb tu. Va ser espectacular, amb tantes bandes i tant bona música! Vaig conèixer gent nova i em vaig divertir molt. Hauries d'unir-te a mi la propera vegada!
+
+Ens veiem aviat!
+
+Una abraçada,
+[El teu nom]
+
+147.
+Prompt: Escriu un correu electrònic al servei d'atenció al client d'una botiga per informar-los que has rebut un producte incorrecte.
+
+Output:
+Assumpte: Producte incorrecte rebut
+
+Benvolgut servei d'atenció al client,
+
+He rebut un producte incorrecte en la meva última comanda i m'agradaria demanar una solució. Adjunto una foto del producte rebut i la meva factura per a la seva revisió.
+
+Gràcies per la seva assistència.
+
+Atentament,
+[El teu nom]
+
+148.
+Prompt: Escriu un correu electrònic a la teva amiga per explicar-li que has començat a escriure un llibre.
+
+Output:
+Assumpte: He començat a escriure un llibre!
+
+Hola [Nom de l'amiga],
+
+Volia explicar-te que he començat a escriure un llibre! És una idea que he tingut des de fa temps i finalment he decidit posar-me a escriure. Estic molt emocionat i m'encantaria compartir alguns capítols amb tu quan estiguin llestos.
+
+Ens veiem aviat!
+
+Petons,
+[El teu nom]
+
+149.
+Prompt: Escriu un correu electrònic al teu cap per informar-lo que has trobat un error en el pressupost del projecte.
+
+Output:
+Assumpte: Error detectat en el pressupost del projecte
+
+Benvolgut cap,
+
+He revisat el pressupost del projecte i he detectat un error que crec que hauríem de corregir. Si us plau, podria revisar-lo i fer-me saber la seva opinió sobre com procedir?
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+150.
+Prompt: Escriu un correu electrònic a la teva amiga per proposar un intercanvi de llibres.
+
+Output:
+Assumpte: Intercanvi de llibres?
+
+Hola [Nom de l'amiga],
+
+Estava pensant que podríem fer un intercanvi de llibres! Tinc alguns llibres que crec que t'agradarien, i m'encantaria veure què tens tu que em recomanaries. Què en penses?
+
+Espero la teva resposta!
+
+Petons,
+[El teu nom]
+
+151.
+Prompt: Escriu un correu electrònic a la teva cosina per convidar-la a un taller de ceràmica el pròxim dissabte.
+
+Output:
+Assumpte: Taller de ceràmica el pròxim dissabte
+
+Hola [Nom de la cosina],
+
+He vist que hi ha un taller de ceràmica el pròxim dissabte i vaig pensar que podria ser divertit anar-hi juntes. T'agradaria venir? Podria ser una bona oportunitat per aprendre alguna cosa nova i passar una estona agradable.
+
+Deixa'm saber si t'animes!
+
+Petons,
+[El teu nom]
+
+152.
+Prompt: Escriu un correu electrònic al teu amic per preguntar-li si vol anar a un escape room aquest cap de setmana.
+
+Output:
+Assumpte: Escape room aquest cap de setmana?
+
+Hola [Nom de l'amic],
+
+Estava pensant en anar a un escape room aquest cap de setmana i vaig pensar que seria divertit si vinguessis. Què en penses? Seria una gran oportunitat per fer una cosa diferent i divertida.
+
+Deixa'm saber si t'apuntes!
+
+Una abraçada,
+[El teu nom]
+
+153.
+Prompt: Escriu un correu electrònic a la teva amiga per demanar-li que t'ajudi a decorar el teu apartament.
+
+Output:
+Assumpte: Ajuda per decorar el meu apartament
+
+Hola [Nom de l'amiga],
+
+Estic redecorant el meu apartament i necessito la teva ajuda! Tens un gran gust per la decoració i m'agradaria que m'ajudessis a triar alguns mobles i decoracions. Què en penses? Podem fer-ho aquest cap de setmana?
+
+Deixa'm saber si pots ajudar!
+
+Petons,
+[El teu nom]
+
+154.
+Prompt: Escriu un correu electrònic al teu professor per demanar-li que revisi la teva proposta de projecte.
+
+Output:
+Assumpte: Sol·licitud de revisió de la proposta de projecte
+
+Benvolgut professor,
+
+Li escric per demanar-li si podria revisar la meva proposta de projecte i proporcionar-me els seus comentaris. M'agradaria assegurar-me que estic en el bon camí abans de continuar amb la investigació.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+155.
+Prompt: Escriu un correu electrònic a la teva amiga per explicar-li que has començat a aprendre a tocar la guitarra.
+
+Output:
+Assumpte: Aprenent a tocar la guitarra!
+
+Hola [Nom de l'amiga],
+
+Volia explicar-te que he començat a aprendre a tocar la guitarra! És una mica difícil al principi, però estic gaudint molt del procés d'aprenentatge. Espero poder tocar algunes cançons aviat!
+
+Petons,
+[El teu nom]
+
+156.
+Prompt: Escriu un correu electrònic a un amic per preguntar-li si vol participar en una marató amb tu el pròxim mes.
+
+Output:
+Assumpte: Marató el pròxim mes?
+
+Hola [Nom de l'amic],
+
+He decidit participar en una marató el pròxim mes i vaig pensar que seria genial si t'unies a mi. Què en penses? Seria un repte divertit i una bona manera de mantenir-nos en forma.
+
+Espero la teva resposta!
+
+Una abraçada,
+[El teu nom]
+
+157.
+Prompt: Escriu un correu electrònic al teu cap per proposar una sessió de formació per millorar les habilitats de comunicació de l'equip.
+
+Output:
+Assumpte: Proposta de sessió de formació per millorar habilitats de comunicació
+
+Benvolgut cap,
+
+Crec que seria beneficiós per a l'equip tenir una sessió de formació per millorar les nostres habilitats de comunicació. Això podria ajudar-nos a treballar de manera més eficient i millorar la nostra col·laboració en projectes futurs.
+
+Gràcies per considerar la meva proposta.
+
+Atentament,
+[El teu nom]
+
+158.
+Prompt: Escriu un correu electrònic a la teva amiga per informar-la que has decidit adoptar un gos.
+
+Output:
+Assumpte: He decidit adoptar un gos!
+
+Hola [Nom de l'amiga],
+
+Després de pensar-hi molt, he decidit adoptar un gos! Estic molt emocionat i una mica nerviós, però estic segur que serà una gran experiència. No puc esperar a presentar-te'l!
+
+Ens veiem aviat!
+
+Petons,
+[El teu nom]
+
+159.
+Prompt: Escriu un correu electrònic al servei d'atenció al client d'una botiga per demanar informació sobre la disponibilitat d'un producte.
+
+Output:
+Assumpte: Sol·licitud d'informació sobre la disponibilitat d'un producte
+
+Benvolgut servei d'atenció al client,
+
+M'agradaria obtenir informació sobre la disponibilitat d'un producte a la seva botiga. Podria informar-me si tenen en estoc l'article amb el codi de referència 12345?
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+160.
+Prompt: Escriu un correu electrònic al teu veí per demanar-li que et vigili la casa mentre estàs de viatge.
+
+Output:
+Assumpte: Petició de vigilància de la casa mentre estic de viatge
+
+Hola [Nom del veí],
+
+Estaré fora de la ciutat durant una setmana i volia demanar-te si podries vigilar la meva casa mentre no hi sóc. Només necessito que recullis el correu i estiguis pendent de qualsevol cosa inusual.
+
+Moltes gràcies per la teva ajuda!
+
+Salutacions,
+[El teu nom]
+
+161.
+Prompt: Escriu un correu electrònic al teu antic professor per demanar-li consells sobre la teva carrera professional.
+
+Output:
+Assumpte: Consells sobre la meva carrera professional
+
+Benvolgut professor,
+
+Espero que estigui bé. Em poso en contacte amb vostè perquè m'agradaria demanar-li alguns consells sobre la meva carrera professional. Estic considerant algunes opcions i crec que la seva experiència podria ser molt valuosa per a mi.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+162.
+Prompt: Escriu un correu electrònic a la teva cosina per demanar-li que et recomani algunes pel·lícules per veure durant el cap de setmana.
+
+Output:
+Assumpte: Recomanació de pel·lícules per al cap de setmana
+
+Hola [Nom de la cosina],
+
+Aquest cap de setmana vull fer una marató de pel·lícules i vaig pensar que podries tenir algunes bones recomanacions. Tens alguna pel·lícula que creus que hauria de veure? M'encantaria escoltar les teves idees!
+
+Petons,
+[El teu nom]
+
+163.
+Prompt: Escriu un correu electrònic al teu amic per convidar-lo a una sessió de meditació al parc.
+
+Output:
+Assumpte: Sessió de meditació al parc?
+
+Hola [Nom de l'amic],
+
+Aquest cap de setmana estava pensant en fer una sessió de meditació al parc i vaig pensar que podria ser una bona idea si t'unies a mi. Què en penses? Serà una gran manera de relaxar-nos i connectar amb la natura.
+
+Deixa'm saber si t'animes!
+
+Una abraçada,
+[El teu nom]
+
+164.
+Prompt: Escriu un correu electrònic a la teva germana per preguntar-li si vol anar a una classe de cuina amb tu.
+
+Output:
+Assumpte: Classe de cuina aquest cap de setmana?
+
+Hola [Nom de la germana],
+
+He vist que hi ha una classe de cuina aquest cap de setmana i vaig pensar que seria divertit anar-hi juntes. T'agradaria venir? Podria ser una bona manera d'aprendre alguna cosa nova i passar una bona estona.
+
+Deixa'm saber si t'animes!
+
+Petons,
+[El teu nom]
+
+165.
+Prompt: Escriu un correu electrònic al teu professor per preguntar-li si pots presentar el teu treball amb retard.
+
+Output:
+Assumpte: Sol·licitud per presentar el treball amb retard
+
+Benvolgut professor,
+
+Li escric per demanar-li si seria possible presentar el meu treball amb un lleuger retard. He tingut alguns contratemps i necessito una mica més de temps per completar-lo. Em disculpo per les molèsties i espero la seva comprensió.
+
+Gràcies per la seva consideració.
+
+Atentament,
+[El teu nom]
+
+166.
+Prompt: Escriu un correu electrònic al teu supervisor per demanar-li feedback sobre el teu últim projecte.
+
+Output:
+Assumpte: Sol·licitud de feedback sobre el meu últim projecte
+
+Benvolgut supervisor,
+
+M'agradaria demanar-li feedback sobre el meu últim projecte per veure com puc millorar en el futur. Crec que els seus comentaris serien molt valuosos per al meu desenvolupament professional.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+167.
+Prompt: Escriu un correu electrònic al teu amic per compartir les teves idees sobre un projecte creatiu que estàs considerant.
+
+Output:
+Assumpte: Idees per a un projecte creatiu
+
+Hola [Nom de l'amic],
+
+Estic considerant un nou projecte creatiu i volia compartir algunes idees amb tu. Crec que podríem col·laborar i fer alguna cosa molt interessant. Què en penses?
+
+Espero la teva resposta!
+
+Una abraçada,
+[El teu nom]
+
+168.
+Prompt: Escriu un correu electrònic al teu veí per demanar-li que et deixi una mica de farina perquè has quedat sense mentre cuinaves.
+
+Output:
+Assumpte: Podries deixar-me una mica de farina?
+
+Hola [Nom del veí],
+
+Estic cuinant ara mateix i he quedat sense farina. Podries deixar-me una mica fins que pugui anar a comprar més? Et prometo tornar-te-la aviat!
+
+Gràcies!
+
+Salutacions,
+[El teu nom]
+
+169.
+Prompt: Escriu un correu electrònic al teu professor per agrair-li una recomanació de lectura que et va fer.
+
+Output:
+Assumpte: Gràcies per la recomanació de lectura
+
+Benvolgut professor,
+
+Només volia agrair-li la recomanació de lectura que em va fer. Vaig gaudir molt del llibre i vaig aprendre moltes coses noves. Moltes gràcies per la seva suggerència!
+
+Atentament,
+[El teu nom]
+
+170.
+Prompt: Escriu un correu electrònic al teu supervisor per informar-lo que has completat una tasca abans del termini.
+
+Output:
+Assumpte: Tasca completada abans del termini
+
+Benvolgut supervisor,
+
+Només volia informar-lo que he completat la tasca assignada abans del termini. He adjuntat l'informe per a la seva revisió. Si necessita alguna cosa més, estic a la seva disposició.
+
+Gràcies!
+
+Salutacions,
+[El teu nom]
+
+171.
+Prompt: Escriu un correu electrònic a la teva amiga per compartir la teva emoció per una nova feina que acabes d'aconseguir.
+
+Output:
+Assumpte: He aconseguit una nova feina!
+
+Hola [Nom de l'amiga],
+
+Estic molt emocionat perquè acabo d'aconseguir una nova feina! És un gran pas per a mi i no puc esperar per començar. Volia compartir la notícia amb tu perquè sé que sempre has estat un gran suport.
+
+Petons,
+[El teu nom]
+
+172.
+Prompt: Escriu un correu electrònic a un client per informar-lo que la seva comanda ha estat enviada.
+
+Output:
+Assumpte: La seva comanda ha estat enviada
+
+Benvolgut client,
+
+Em complau informar-lo que la seva comanda ha estat enviada i està en camí cap a vostè. Adjunto el número de seguiment perquè pugui monitoritzar l'enviament.
+
+Gràcies per la seva compra!
+
+Cordialment,
+[El teu nom]
+
+173.
+Prompt: Escriu un correu electrònic al teu professor per demanar-li una pròrroga per a un assaig.
+
+Output:
+Assumpte: Sol·licitud de pròrroga per a l'assaig
+
+Benvolgut professor,
+
+Li escric per demanar-li una pròrroga per a l'assaig que ha de presentar-se la setmana vinent. Estic treballant dur, però necessito una mica més de temps per assegurar-me que el treball és de la millor qualitat possible.
+
+Gràcies per la seva comprensió.
+
+Atentament,
+[El teu nom]
+
+174.
+Prompt: Escriu un correu electrònic a la teva amiga per explicar-li que has decidit començar a fer voluntariat.
+
+Output:
+Assumpte: He decidit començar a fer voluntariat!
+
+Hola [Nom de l'amiga],
+
+Volia explicar-te que he decidit començar a fer voluntariat en una organització local. Estic molt emocionat per aquesta nova experiència i espero poder fer una contribució positiva.
+
+Petons,
+[El teu nom]
+
+175.
+Prompt: Escriu un correu electrònic al servei de suport tècnic per informar-los que el teu ordinador està funcionant lentament després d'una actualització.
+
+Output:
+Assumpte: Ordinador funcionant lentament després d'actualització
+
+Benvolgut servei de suport tècnic,
+
+Després d'una actualització recent, el meu ordinador està funcionant molt lentament i no puc utilitzar-lo de manera eficient. Podrien ajudar-me a resoldre aquest problema?
+
+Gràcies per la seva assistència.
+
+Atentament,
+[El teu nom]
+
+176.
+Prompt: Escriu un correu electrònic al teu amic per preguntar-li si vol anar a fer una caminada aquest cap de setmana.
+
+Output:
+Assumpte: Caminada aquest cap de setmana?
+
+Hola [Nom de l'amic],
+
+Aquest cap de setmana estava pensant en anar a fer una caminada i vaig pensar que seria genial si t'unies a mi. Què en penses? Podria ser una bona manera de gaudir de l'aire lliure i fer una mica d'exercici.
+
+Espero la teva resposta!
+
+Una abraçada,
+[El teu nom]
+
+177.
+Prompt: Escriu un correu electrònic al teu cap per informar-lo que has trobat una manera de millorar l'eficiència d'un procés de treball.
+
+Output:
+Assumpte: Millora en l'eficiència del procés de treball
+
+Benvolgut cap,
+
+He estat revisant alguns dels nostres processos de treball i crec que he trobat una manera de millorar la seva eficiència. M'agradaria discutir aquesta idea amb vostè i veure si podríem implementar alguns canvis.
+
+Gràcies per considerar la meva proposta.
+
+Atentament,
+[El teu nom]
+
+178.
+Prompt: Escriu un correu electrònic al teu amic per demanar-li consells sobre com cuidar una planta que acabes de comprar.
+
+Output:
+Assumpte: Consells per cuidar una nova planta
+
+Hola [Nom de l'amic],
+
+Acabo de comprar una nova planta i no estic segur de com cuidar-la correctament. Saps molt de plantes i vaig pensar que podries tenir alguns bons consells per a mi.
+
+Espero la teva ajuda!
+
+Una abraçada,
+[El teu nom]
+
+179.
+Prompt: Escriu un correu electrònic al servei d'atenció al client per informar-los que has rebut un cobrament incorrecte a la teva factura.
+
+Output:
+Assumpte: Cobrament incorrecte a la factura
+
+Benvolgut servei d'atenció al client,
+
+He revisat la meva última factura i he notat un cobrament incorrecte. Podrien revisar-ho i fer les correccions necessàries? Adjunto una còpia de la factura per a la seva referència.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+180.
+Prompt: Escriu un correu electrònic al teu supervisor per demanar-li que revisi el teu pla de treball per a la propera setmana.
+
+Output:
+Assumpte: Sol·licitud de revisió del pla de treball
+
+Benvolgut supervisor,
+
+He preparat un pla de treball per a la propera setmana i m'agradaria que el revisés per assegurar-nos que estic alineat amb les prioritats de l'equip. Podria donar-me els seus comentaris quan tingui un moment?
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+181.
+Prompt: Escriu un correu electrònic a la teva amiga per explicar-li que has decidit començar a fer exercici regularment.
+
+Output:
+Assumpte: He decidit començar a fer exercici regularment!
+
+Hola [Nom de l'amiga],
+
+Després de molt pensar-hi, he decidit començar a fer exercici regularment. Estic molt emocionat per aquesta nova rutina i espero sentir-me més actiu i saludable.
+
+Petons,
+[El teu nom]
+
+182.
+Prompt: Escriu un correu electrònic al teu amic per demanar-li que et recomani un bon llibre de ciència ficció.
+
+Output:
+Assumpte: Recomanació de llibre de ciència ficció
+
+Hola [Nom de l'amic],
+
+Estic buscant un bon llibre de ciència ficció per llegir i vaig pensar que tu podries tenir alguna bona recomanació. Tens alguna idea? M'encantaria escoltar les teves suggerències!
+
+Gràcies!
+
+Una abraçada,
+[El teu nom]
+
+183.
+Prompt: Escriu un correu electrònic al teu cap per demanar-li permís per assistir a una conferència professional.
+
+Output:
+Assumpte: Sol·licitud per assistir a una conferència professional
+
+Benvolgut cap,
+
+M'agradaria demanar permís per assistir a una conferència professional que tindrà lloc el proper mes. Crec que seria una gran oportunitat per aprendre i portar noves idees al nostre equip.
+
+Gràcies per considerar la meva sol·licitud.
+
+Atentament,
+[El teu nom]
+
+184.
+Prompt: Escriu un correu electrònic a la teva amiga per preguntar-li si vol anar a fer paddle surf amb tu aquest cap de setmana.
+
+Output:
+Assumpte: Paddle surf aquest cap de setmana?
+
+Hola [Nom de l'amiga],
+
+Aquest cap de setmana estava pensant en anar a fer paddle surf i vaig pensar que podria ser divertit si t'unies a mi. Què en penses? Podria ser una gran aventura!
+
+Deixa'm saber si t'apuntes!
+
+Petons,
+[El teu nom]
+
+185.
+Prompt: Escriu un correu electrònic al teu veí per demanar-li que abaixi el volum de la seva música perquè estàs estudiant.
+
+Output:
+Assumpte: Volum de la música
+
+Hola [Nom del veí],
+
+Estic estudiant per un examen important i volia demanar-te si podries abaixar una mica el volum de la teva música. Et estaria molt agraït!
+
+Gràcies per la teva comprensió.
+
+Salutacions,
+[El teu nom]
+
+186.
+Prompt: Escriu un correu electrònic al teu professor per demanar-li consell sobre quina assignatura optar a l'any vinent.
+
+Output:
+Assumpte: Sol·licitud de consell sobre elecció d'assignatures
+
+Benvolgut professor,
+
+Estic pensant en quina assignatura optar per l'any vinent i m'agradaria demanar-li el seu consell. Crec que la seva experiència podria ser molt útil per ajudar-me a prendre aquesta decisió.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+187.
+Prompt: Escriu un correu electrònic al teu supervisor per demanar-li més responsabilitats en els projectes futurs.
+
+Output:
+Assumpte: Sol·licitud de més responsabilitats en projectes futurs
+
+Benvolgut supervisor,
+
+M'agradaria demanar-li més responsabilitats en els projectes futurs. Crec que puc aportar molt al nostre equip i estic disposat a assumir nous reptes.
+
+Gràcies per considerar la meva sol·licitud.
+
+Atentament,
+[El teu nom]
+
+188.
+Prompt: Escriu un correu electrònic al teu amic per compartir una nova recepta de cuina que has provat.
+
+Output:
+Assumpte: Nova recepta de cuina
+
+Hola [Nom de l'amic],
+
+Acabo de provar una nova recepta de cuina i volia compartir-la amb tu. És un plat senzill però molt deliciós i crec que t'encantaria provar-lo. T'envio la recepta adjunta!
+
+Espero que t'agradi!
+
+Una abraçada,
+[El teu nom]
+
+189.
+Prompt: Escriu un correu electrònic al servei de manteniment per informar-los d'una finestra trencada a l'oficina.
+
+Output:
+Assumpte: Finestra trencada a l'oficina
+
+Benvolgut servei de manteniment,
+
+Hi ha una finestra trencada a l'oficina que necessita ser reparada amb urgència. Podrien enviar algú per solucionar aquest problema?
+
+Gràcies per la seva ràpida resposta.
+
+Atentament,
+[El teu nom]
+
+190.
+Prompt: Escriu un correu electrònic a la teva amiga per preguntar-li si vol anar a un mercat d'antiguitats aquest diumenge.
+
+Output:
+Assumpte: Mercat d'antiguitats aquest diumenge?
+
+Hola [Nom de l'amiga],
+
+Aquest diumenge hi ha un mercat d'antiguitats i vaig pensar que seria divertit anar-hi juntes. T'agradaria venir? Podria ser una gran oportunitat per trobar alguns tresors amagats!
+
+Deixa'm saber si t'animes!
+
+Petons,
+[El teu nom]
+
+191.
+Prompt: Escriu un correu electrònic al teu professor per demanar-li recomanacions de lectures per a l'estiu.
+
+Output:
+Assumpte: Recomanacions de lectures per a l'estiu
+
+Benvolgut professor,
+
+Estic buscant algunes recomanacions de lectures per a l'estiu i vaig pensar que vostè podria tenir algunes bones idees. M'agradaria explorar més sobre el tema que hem estudiat a classe.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+192.
+Prompt: Escriu un correu electrònic al teu supervisor per informar-lo que necessites més temps per completar una tasca.
+
+Output:
+Assumpte: Sol·licitud de més temps per completar la tasca
+
+Benvolgut supervisor,
+
+Em poso en contacte amb vostè per informar-li que necessito més temps per completar la tasca assignada. Estic treballant dur, però necessito una mica més de temps per assegurar-me que el resultat sigui el millor possible.
+
+Gràcies per la seva comprensió.
+
+Atentament,
+[El teu nom]
+
+193.
+Prompt: Escriu un correu electrònic a la teva amiga per compartir la teva emoció per un viatge que acabes de reservar.
+
+Output:
+Assumpte: Acabo de reservar un viatge!
+
+Hola [Nom de l'amiga],
+
+Estic molt emocionat perquè acabo de reservar un viatge a [Destinació]! Fa temps que volia anar-hi i finalment he pres la decisió. Volia compartir la notícia amb tu perquè sé que tu també volies anar-hi algun dia.
+
+Petons,
+[El teu nom]
+
+194.
+Prompt: Escriu un correu electrònic al teu amic per proposar una competició de cuina entre vosaltres.
+
+Output:
+Assumpte: Competició de cuina?
+
+Hola [Nom de l'amic],
+
+Estava pensant que podríem fer una competició de cuina per veure qui prepara el millor plat. Què en penses? Podria ser molt divertit i una bona manera de millorar les nostres habilitats culinàries.
+
+Deixa'm saber si t'animes!
+
+Una abraçada,
+[El teu nom]
+
+195.
+Prompt: Escriu un correu electrònic al teu veí per demanar-li si pot ajudar-te amb una mudança.
+
+Output:
+Assumpte: Ajuda amb la mudança
+
+Hola [Nom del veí],
+
+Estic fent una mudança aquest cap de setmana i volia saber si podries ajudar-me a moure algunes coses. Seria de gran ajuda tenir algú més per donar un cop de mà.
+
+Moltes gràcies per considerar-ho!
+
+Salutacions,
+[El teu nom]
+
+196.
+Prompt: Escriu un correu electrònic al teu cap per proposar una nova estratègia de màrqueting.
+
+Output:
+Assumpte: Proposta de nova estratègia de màrqueting
+
+Benvolgut cap,
+
+He estat pensant en algunes idees per millorar la nostra estratègia de màrqueting i m'agradaria proposar una nova tàctica que crec que podria ser molt efectiva. M'agradaria discutir-la amb vostè quan tingui un moment.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+197.
+Prompt: Escriu un correu electrònic al teu professor per demanar-li feedback sobre el teu últim treball.
+
+Output:
+Assumpte: Sol·licitud de feedback sobre el meu últim treball
+
+Benvolgut professor,
+
+M'agradaria demanar-li feedback sobre el meu últim treball per veure com puc millorar en futures tasques. Els seus comentaris serien molt valuosos per a mi.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+198.
+Prompt: Escriu un correu electrònic al teu amic per preguntar-li si vol unir-se a un club de lectura amb tu.
+
+Output:
+Assumpte: Club de lectura?
+
+Hola [Nom de l'amic],
+
+Estava pensant en unir-me a un club de lectura i vaig pensar que podria ser divertit si t'unies a mi. Què en penses? Podria ser una bona manera de descobrir nous llibres i tenir bones discussions.
+
+Espero la teva resposta!
+
+Una abraçada,
+[El teu nom]
+
+199.
+Prompt: Escriu un correu electrònic al teu supervisor per demanar-li que et permeti treballar des de casa un dia a la setmana.
+
+Output:
+Assumpte: Sol·licitud per treballar des de casa un dia a la setmana
+
+Benvolgut supervisor,
+
+M'agradaria demanar-li permís per treballar des de casa un dia a la setmana per equilibrar millor les meves responsabilitats personals i laborals. Estic segur que podré mantenir la meva productivitat i complir amb totes les meves tasques.
+
+Gràcies per considerar la meva sol·licitud.
+
+Atentament,
+[El teu nom]
+
+200.
+Prompt: Escriu un correu electrònic a la teva amiga per proposar-li un viatge en carretera aquest estiu.
+
+Output:
+Assumpte: Viatge en carretera aquest estiu?
+
+Hola [Nom de l'amiga],
+
+Estava pensant en fer un viatge en carretera aquest estiu i vaig pensar que seria genial si t'unies a mi. Què en penses? Podria ser una aventura increïble i una bona manera de gaudir de l'estiu.
+
+Deixa'm saber si t'apuntes!
+
+Petons,
+[El teu nom]
+
+201.
+Prompt: Escriu un correu electrònic sol·licitant assistència mèdica d’urgència per a un amic que s’ha fet mal mentre jugava a futbol.
+
+Output:
+Assumpte: Urgent: Sol·licitud d'assistència mèdica
+
+Benvolguts,
+
+Necessito assistència mèdica d’urgència per al meu amic, que s’ha fet mal al genoll mentre jugava a futbol. No pot moure’s i sembla estar en molt de dolor. Podrien enviar una ambulància el més aviat possible?
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+202.
+Prompt: Escriu un correu electrònic al teu supervisor per informar-lo de la necessitat de sortir immediatament de la feina a causa d’una emergència familiar.
+
+Output:
+Assumpte: Necessito sortir immediatament per una emergència familiar
+
+Benvolgut/da [Nom del supervisor],
+
+Lamento informar-lo/la que necessito sortir immediatament de la feina a causa d’una emergència familiar. Estic en contacte per telèfon si em necessiten. Gràcies per la seva comprensió.
+
+Atentament,
+[El teu nom]
+
+203.
+Prompt: Escriu un correu electrònic per notificar a un proveïdor que un enviament conté materials danyats o perillosos.
+
+Output:
+Assumpte: Materials danyats en l'enviament
+
+Benvolguts,
+
+Vull informar-vos que l’últim enviament conté materials danyats i alguns semblen ser perillosos. Si us plau, reviseu l’assumpte i envieu-nos instruccions sobre com procedir amb aquests materials.
+
+Gràcies per la seva atenció.
+
+Cordialment,
+[El teu nom]
+
+Comunicacions socials i de xarxa
+204.
+Prompt: Escriu un correu electrònic per convidar un contacte professional a un sopar formal la setmana vinent.
+
+Output:
+Assumpte: Invitació a un sopar formal
+
+Benvolgut/da [Nom del contacte],
+
+Espero que estiguis bé. M’agradaria convidar-te a un sopar formal que organitzo la setmana vinent. Serà una gran oportunitat per compartir idees i conèixer altres professionals del nostre camp.
+
+Espero que puguis unir-te!
+
+Salutacions cordials,
+[El teu nom]
+
+205.
+Prompt: Escriu un correu electrònic de seguiment després d'una reunió de networking per mantenir el contacte amb una persona que acabes de conèixer.
+
+Output:
+Assumpte: Va ser un plaer conèixer-te a la reunió de networking
+
+Hola [Nom de la persona],
+
+Va ser un plaer conèixer-te a la reunió de networking d’ahir. Vaig gaudir molt de la nostra conversa sobre [tema de la conversa] i m’agradaria mantenir el contacte per veure com podríem col·laborar en el futur.
+
+Estic a la teva disposició per a qualsevol cosa.
+
+Una abraçada,
+[El teu nom]
+
+206.
+Prompt: Escriu un correu electrònic demanant a un conegut que et faci una introducció a una tercera persona.
+
+Output:
+Assumpte: Sol·licitud d’introducció
+
+Hola [Nom del conegut],
+
+Espero que estiguis bé. Em preguntava si podries fer-me una introducció a [Nom de la tercera persona]. Estic interessat a conèixer-lo/la per parlar sobre [tema] i crec que seria molt útil.
+
+Gràcies per la teva ajuda.
+
+Salutacions,
+[El teu nom]
+
+207.
+Prompt: Escriu un correu electrònic al consolat per sol·licitar informació sobre visats i requisits d’entrada per a un viatge.
+
+Output:
+Assumpte: Sol·licitud d'informació sobre visats i requisits d’entrada
+
+Benvolguts,
+
+M'adreço a vostès per sol·licitar informació sobre els visats i els requisits d’entrada per viatjar a [país]. M'agradaria saber quins documents són necessaris i si hi ha alguna restricció especial.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+208.
+Prompt: Escriu un correu electrònic a una oficina de turisme per preguntar sobre activitats culturals durant el teu proper viatge.
+
+Output:
+Assumpte: Informació sobre activitats culturals durant el meu viatge
+
+Benvolguda oficina de turisme,
+
+Estaré visitant [ciutat] el mes vinent i m'agradaria saber quines activitats culturals i esdeveniments estan previstos durant la meva estada. Podrien enviar-me una llista d'activitats recomanades?
+
+Moltes gràcies.
+
+Cordialment,
+[El teu nom]
+
+209.
+Prompt: Escriu un correu electrònic a un hostal o Airbnb per notificar-los de la teva arribada tardana.
+
+Output:
+Assumpte: Notificació d'arribada tardana
+
+Hola [Nom de l'hostal o Airbnb],
+
+Volia informar-vos que arribaré més tard del previst a causa d'un retard en el meu vol. Estimo arribar cap a les 11:00 PM. Si us plau, informeu-me si hi ha algun problema amb aquesta hora d’arribada.
+
+Gràcies per la vostra comprensió.
+
+Salutacions,
+[El teu nom]
+
+Temes educatius i acadèmics més específics
+210.
+Prompt: Escriu un correu electrònic al teu professor per demanar recomanacions per a estudis a l’estranger.
+
+Output:
+Assumpte: Recomanacions per a estudis a l’estranger
+
+Benvolgut professor,
+
+Estic considerant fer estudis a l’estranger el pròxim semestre i m'agradaria saber si podria recomanar alguna universitat o programa que ofereixi una bona experiència acadèmica en [àrea d'estudi].
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+211.
+Prompt: Escriu un correu electrònic al teu professor per demanar consells per millorar les teves habilitats en una assignatura específica.
+
+Output:
+Assumpte: Consells per millorar en [Nom de l’assignatura]
+
+Benvolgut professor,
+
+Estic interessat a millorar les meves habilitats en [nom de l’assignatura] i m'agradaria saber si té alguns consells o recursos addicionals que em pugui recomanar. Vull aprofitar al màxim aquest curs.
+
+Gràcies per la seva orientació.
+
+Cordialment,
+[El teu nom]
+
+212.
+Prompt: Escriu un correu electrònic a l'administració escolar per notificar la necessitat de canviar de classe o horari.
+
+Output:
+Assumpte: Sol·licitud de canvi de classe o horari
+
+Benvolguda administració,
+
+M'adreço a vostès per sol·licitar un canvi de classe o horari degut a un conflicte amb el meu horari actual. Si us plau, informeu-me de les opcions disponibles per a aquest canvi.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+213.
+Prompt: Escriu un correu electrònic al teu advocat per informar-lo de documents o proves que has trobat per al cas.
+
+Output:
+Assumpte: Nous documents per al cas
+
+Benvolgut/da [Nom de l'advocat],
+
+He trobat alguns documents addicionals que poden ser rellevants per al nostre cas. Adjunto aquests documents per a la seva revisió i estic disponible per discutir-los en detall quan ho consideri oportú.
+
+Gràcies per la seva atenció.
+
+Atentament,
+[El teu nom]
+
+214.
+Prompt: Escriu un correu electrònic a un client per demanar un aclariment sobre una clàusula contractual.
+
+Output:
+Assumpte: Aclariment sobre clàusula contractual
+
+Benvolgut client,
+
+M'adreço a vostè per sol·licitar un aclariment sobre una clàusula específica en el contracte que hem signat recentment. Podria proporcionar-me més detalls sobre el que es refereix aquesta clàusula?
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+215.
+Prompt: Escriu un correu electrònic per sol·licitar una revisió del teu informe de crèdit a una agència financera.
+
+Output:
+Assumpte: Sol·licitud de revisió d'informe de crèdit
+
+Benvolguts,
+
+M'agradaria sol·licitar una revisió del meu informe de crèdit, ja que he detectat algunes anomalies que crec que necessiten ser revisades. Adjunto una còpia de l'informe per a la seva referència.
+
+Gràcies per la seva assistència.
+
+Atentament,
+[El teu nom]
+
+216.
+Prompt: Escriu un correu electrònic a un company de classe per compartir una experiència d'aprenentatge en un curs online.
+
+Output:
+Assumpte: Experiència d'aprenentatge al curs online
+
+Hola [Nom del company de classe],
+
+Volia compartir amb tu la meva experiència al curs online que estem fent junts. He trobat els mòduls més recents molt interessants i m'han ajudat molt a entendre millor [tema]. Quina ha estat la teva experiència?
+
+Espero la teva resposta!
+
+Una abraçada,
+[El teu nom]
+
+217.
+Prompt: Escriu un correu electrònic a un mentor demanant consell sobre com gestionar un conflicte al treball.
+
+Output:
+Assumpte: Consell per gestionar un conflicte al treball
+
+Benvolgut/da [Nom del mentor],
+
+Estic tenint algunes dificultats amb un conflicte recent al meu lloc de treball i m'agradaria saber si podria oferir-me alguns consells sobre com manejar millor aquesta situació.
+
+Gràcies per la seva ajuda.
+
+Cordialment,
+[El teu nom]
+
+218.
+Prompt: Escriu un correu electrònic al teu equip per explicar un nou mètode o eina que has après i com podria beneficiar-los.
+
+Output:
+Assumpte: Nou mètode/eina per millorar el nostre treball
+
+Hola equip,
+
+He après un nou mètode/eina recentment que crec que podria ser molt útil per millorar la nostra eficiència en [tasca específica]. Estaria encantat de fer una petita presentació per mostrar-vos com funciona.
+
+Espero la vostra resposta!
+
+Salutacions,
+[El teu nom]
+
+219.
+Prompt: Escriu un correu electrònic per felicitar un col·lega per un nou projecte de recerca o publicació.
+
+Output:
+Assumpte: Felicitats pel teu nou projecte de recerca!
+
+Benvolgut/da [Nom del col·lega],
+
+Vull felicitar-te pel teu nou projecte de recerca/publicació! És un assoliment impressionant i estic segur que tindrà un gran impacte en el nostre camp.
+
+Enhorabona!
+
+Salutacions,
+[El teu nom]
+
+220.
+Prompt: Escriu un correu electrònic per felicitar una amiga pel seu primer dia en una nova feina.
+
+Output:
+Assumpte: Felicitats pel teu primer dia a la nova feina!
+
+Hola [Nom de l'amiga],
+
+Només volia felicitar-te pel teu primer dia a la nova feina! Estic segur que faràs una gran feina i que els teus companys estaran encantats de tenir-te allà.
+
+Molta sort en aquesta nova etapa!
+
+Una abraçada,
+[El teu nom]
+
+221.
+Prompt: Escriu un correu electrònic per felicitar algú per un esdeveniment personal, com una nova llar o l’arribada d’un nadó.
+
+Output:
+Assumpte: Felicitats per la teva nova llar/arribada del nadó!
+
+Hola [Nom de la persona],
+
+Enhorabona per la teva nova llar/l’arribada del nadó! Estic molt feliç per tu i espero que aquesta nova etapa estigui plena de felicitat i bons moments.
+
+Una forta abraçada,
+[El teu nom]
+
+222.
+Prompt: Escriu un correu electrònic a un col·lega demanant feedback sobre la teva presentació en una reunió recent.
+
+Output:
+Assumpte: Feedback sobre la meva presentació
+
+Hola [Nom del col·lega],
+
+M’agradaria demanar-te feedback sobre la presentació que vaig fer en la reunió de la setmana passada. Crec que els teus comentaris podrien ser molt útils per a millorar en el futur.
+
+Gràcies per la teva ajuda.
+
+Salutacions,
+[El teu nom]
+
+223.
+Prompt: Escriu un correu electrònic a un client per sol·licitar comentaris sobre el servei ofert per poder millorar-lo.
+
+Output:
+Assumpte: Sol·licitud de comentaris sobre el nostre servei
+
+Benvolgut client,
+
+Estem sempre buscant maneres de millorar els nostres serveis i m'agradaria demanar-li alguns comentaris sobre la seva recent experiència amb nosaltres. Els seus comentaris seran molt valuosos per a nosaltres.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+[El teu nom]
+
+224.
+Prompt: Escriu un correu electrònic a un mentor per preguntar-li en quines àrees creu que podries millorar en la teva carrera.
+
+Output:
+Assumpte: Àrees de millora en la meva carrera
+
+Benvolgut/da [Nom del mentor],
+
+Estic buscant maneres de continuar creixent en la meva carrera i m'agradaria saber en quines àrees creu que podria millorar. La seva opinió seria molt valuosa per a mi.
+
+Gràcies per la seva orientació.
+
+Cordialment,
+[El teu nom]
+
+225.
+Prompt: Escriu un correu electrònic al teu supervisor per sol·licitar temps lliure per motius de salut mental.
+
+Output:
+Assumpte: Sol·licitud de temps lliure per motius de salut mental
+
+Benvolgut/da [Nom del supervisor],
+
+M'agradaria sol·licitar temps lliure per a cuidar la meva salut mental. Estic passant per un moment difícil i crec que és important prendre'm un temps per recuperar-me. Gràcies per la seva comprensió.
+
+Atentament,
+[El teu nom]
+
+226.
+Prompt: Escriu un correu electrònic a un amic convidant-lo a una sessió de meditació o ioga per reduir l'estrès.
+
+Output:
+Assumpte: Sessió de meditació o ioga per reduir l'estrès
+
+Hola [Nom de l'amic],
+
+Estic pensant en anar a una sessió de meditació o ioga aquest cap de setmana per reduir l'estrès i vaig pensar que podria ser divertit si t'unies a mi. Què en penses?
+
+Espero que et vingui de gust!
+
+Una abraçada,
+[El teu nom]
+
+227.
+Prompt: Escriu un correu electrònic per compartir recursos o articles sobre benestar emocional amb un grup de suport o comunitat.
+
+Output:
+Assumpte: Recursos per al benestar emocional
+
+Hola a tots,
+
+Volia compartir amb vosaltres alguns recursos i articles que he trobat molt útils per al benestar emocional. Espero que aquests materials siguin tan útils per a vosaltres com ho han estat per a mi.
+
+Una abraçada,
+[El teu nom]
+
+228.
+Prompt: Escriu un correu electrònic convidant amics a un taller d'art o manualitats que estàs organitzant.
+
+Output:
+Assumpte: Taller d'art i manualitats - T'hi apuntes?
+
+Hola a tots,
+
+Estic organitzant un taller d'art i manualitats aquest dissabte i m'encantaria que vinguéssiu. Serà una tarda divertida plena de creativitat i bona companyia. Què en penseu?
+
+Deixeu-me saber si us apunteu!
+
+Una abraçada,
+[El teu nom]
+
+229.
+Prompt: Escriu un correu electrònic a un amic proposant un projecte col·laboratiu com un blog o podcast.
+
+Output:
+Assumpte: Proposta de projecte col·laboratiu
+
+Hola [Nom de l'amic],
+
+Estava pensant que podríem començar un blog o podcast junts per compartir les nostres idees sobre [tema]. Què en penses? Podria ser una gran oportunitat per explorar la nostra creativitat i compartir-la amb els altres.
+
+Espero la teva resposta!
+
+Una abraçada,
+[El teu nom]
+
+230.
+Prompt: Escriu un correu electrònic compartint idees per a un nou club de lectura temàtic amb amics.
+
+Output:
+Assumpte: Idees per a un nou club de lectura temàtic
+
+Hola a tots,
+
+Estava pensant que podríem començar un nou club de lectura temàtic, centrat en [tema específic]. Què en penseu? Crec que seria una gran manera de descobrir nous llibres i tenir discussions interessants.
+
+Espero les vostres idees!
+
+Petons,
+[El teu nom]
+
+231.
+Prompt: Escriu un correu electrònic demanant consells a un company sobre com gestionar millor les tasques diàries.
+
+Output:
+Assumpte: Consells per gestionar millor les tasques diàries
+
+Hola [Nom del company],
+
+Estic buscant maneres de millorar la meva gestió del temps i vaig pensar que tu podries tenir alguns consells útils. Com gestiones les teves tasques diàries de manera eficient?
+
+Gràcies per la teva ajuda!
+
+Salutacions,
+[El teu nom]
+
+232.
+Prompt: Escriu un correu electrònic per reorganitzar una reunió o compromís per motius de prioritat.
+
+Output:
+Assumpte: Reorganització de la reunió
+
+Benvolguts,
+
+Degut a un canvi de prioritats, m'agradaria reorganitzar la reunió prevista per a aquesta setmana. Podríem programar-la per a una altra data que us convingui?
+
+Gràcies per la vostra comprensió.
+
+Cordialment,
+[El teu nom]
+
+233.
+Prompt: Escriu un correu electrònic per informar l'equip d'un nou sistema o aplicació per millorar la productivitat i la gestió del temps.
+
+Output:
+Assumpte: Nou sistema per millorar la productivitat
+
+Hola equip,
+
+Volia informar-vos d'un nou sistema/aplicació que podríem utilitzar per millorar la nostra productivitat i gestió del temps. Crec que ens podria ajudar a ser més eficients i a mantenir-nos organitzats. Estaria encantat de fer una petita demostració.
+
+Espero la vostra resposta!
+
+Salutacions,
+[El teu nom]
+
+1.
+Prompt: Escriu una carta al director de l’hospital per agrair l’atenció rebuda durant una emergència mèdica.
+
+Output:
+Benvolgut director,
+
+M’adreço a vostè per expressar el meu més sincer agraïment per l’atenció excepcional que vaig rebre durant la meva recent visita a urgències del seu hospital. Tot l'equip mèdic va ser increïblement atent i professional, i van fer tot el possible per assegurar-se que estigués còmode i ben cuidat en tot moment.
+
+Vull destacar especialment la feina de la infermera Laura, que va mostrar una gran empatia i cura durant tota la meva estada. Els seus gestos amables van marcar una gran diferència en un moment d’angoixa.
+
+Moltes gràcies per tenir un equip tan dedicat i competent.
+
+Atentament,
+
+[El teu nom]
+
+2.
+Prompt: Escriu una carta a un amic per explicar-li com vas ajudar un desconegut en una situació d'emergència.
+
+Output:
+Estimadíssim amic,
+
+Vull explicar-te una experiència que vaig tenir recentment que va ser tan impactant per a mi. Estava caminant cap a casa quan vaig veure un home desplomar-se al carrer. Sense pensar-m'ho dues vegades, vaig córrer a ajudar-lo. Amb l'ajuda d'altres vianants, vam trucar a una ambulància i vam seguir les instruccions del 112 fins que van arribar els serveis d'emergència.
+
+Va ser un recordatori poderós de com tots podem marcar la diferència en la vida d’algú en moments de necessitat. Em va omplir d'una sensació de comunitat i solidaritat que no oblidaré mai.
+
+Espero que tu i la teva família estigueu bé.
+
+Una forta abraçada,
+
+[El teu nom]
+
+3.
+Prompt: Escriu una carta a un conegut professional per demanar-li una recomanació.
+
+Output:
+Benvolgut/da [Nom del conegut],
+
+Espero que aquest missatge et trobi bé. M’adreço a tu per demanar-te una petita recomanació. Estic sol·licitant una nova posició que requereix un coneixement profund del sector, i crec que la teva opinió seria molt valuosa per a mi.
+
+Si no és una gran molèstia, t’agrairia molt si poguessis escriure unes paraules sobre la nostra col·laboració en projectes passats i la teva experiència treballant amb mi.
+
+Gràcies per la teva ajuda i suport continu.
+
+Salutacions cordials,
+
+[El teu nom]
+
+4.
+Prompt: Escriu una carta a un col·lega de xarxa per mantenir el contacte després d'una conferència.
+
+Output:
+Hola [Nom del col·lega],
+
+Va ser un plaer conèixer-te a la conferència de la setmana passada. Vaig gaudir molt de la nostra conversa sobre [tema de la conferència] i de com podríem col·laborar en futurs projectes.
+
+M’agradaria mantenir el contacte i explorar maneres de treballar junts. Si t’interessa, estaré encantat d’organitzar una trobada per discutir idees.
+
+Espero saber de tu aviat.
+
+Salutacions,
+
+[El teu nom]
+
+5.
+Prompt: Escriu una carta al consolat per demanar informació sobre els requisits de visat per a un viatge proper.
+
+Output:
+Benvolguts senyors,
+
+Em dirigeixo a vostès per sol·licitar informació sobre els requisits de visat per a un viatge que tinc planejat a [país] el proper mes. M’agradaria saber quins documents necessito preparar i si hi ha algun procediment especial que he de seguir.
+
+Agrairia molt qualsevol informació o consell que em poguessin proporcionar.
+
+Gràcies per la seva atenció i espero la seva resposta.
+
+Atentament,
+
+[El teu nom]
+
+6.
+Prompt: Escriu una carta a una oficina de turisme per preguntar sobre esdeveniments culturals durant la teva estada en una ciutat estrangera.
+
+Output:
+Benvolguda oficina de turisme,
+
+Estaré visitant la vostra ciutat a mitjans de juny i estic molt interessat en conèixer els esdeveniments culturals que es duran a terme durant la meva estada. M’agradaria participar en activitats locals, com concerts, exposicions i festivals.
+
+Si em poguessin enviar informació sobre el calendari d’esdeveniments o recomanacions específiques, els estaria molt agraït.
+
+Cordialment,
+
+[El teu nom]
+
+7.
+Prompt: Escriu una carta al teu professor universitari per demanar-li consells sobre com millorar les teves habilitats d'investigació.
+
+Output:
+Benvolgut professor [Nom del professor],
+
+M’agradaria demanar-li consell sobre com podria millorar les meves habilitats d’investigació en el camp de [àrea d'estudi]. Estic interessat en aprofundir en tècniques de recerca avançades i m'agradaria saber si té algun recurs o suggeriment que em pugui ajudar.
+
+Agrairia molt la seva orientació i qualsevol recomanació que em pugui proporcionar.
+
+Gràcies per la seva atenció.
+
+Atentament,
+
+[El teu nom]
+
+8.
+Prompt: Escriu una carta a l'administració de la teva escola per demanar un canvi d'horari per un curs.
+
+Output:
+Benvolguda administració,
+
+Em dirigeixo a vostès per sol·licitar un canvi d'horari per al curs de [nom del curs]. A causa d’un conflicte amb el meu horari actual, em resulta molt complicat assistir a les classes programades.
+
+Si és possible, m’agradaria saber quines altres opcions d’horari estan disponibles.
+
+Gràcies per la seva comprensió i ajuda.
+
+Atentament,
+
+[El teu nom]
+
+9.
+Prompt: Escriu una carta a un advocat per demanar-li que revisi un document legal recent.
+
+Output:
+Benvolgut/da [Nom de l'advocat],
+
+Espero que estigui bé. Li escric per demanar-li que revisi un document legal recent que he rebut de [empresa o individu]. Crec que hi ha algunes clàusules que necessiten una revisió experta abans de signar-lo.
+
+Adjunto una còpia del document per a la seva revisió i agrairia els seus comentaris al respecte.
+
+Gràcies per la seva atenció.
+
+Atentament,
+
+[El teu nom]
+
+10.
+Prompt: Escriu una carta a una agència financera per sol·licitar una revisió de la teva puntuació de crèdit per possibles errors.
+
+Output:
+Benvolguts senyors,
+
+M'adreço a vostès per sol·licitar una revisió del meu informe de crèdit recent. He detectat algunes inexactituds que crec que podrien estar afectant la meva puntuació. M’agradaria saber quins passos he de seguir per corregir aquests errors.
+
+Agraeixo molt la seva ajuda amb aquest assumpte.
+
+Atentament,
+
+[El teu nom]
+
+11.
+Prompt: Escriu una carta a un mentor per demanar-li consells sobre com manejar un projecte complex al treball.
+
+Output:
+Benvolgut/da [Nom del mentor],
+
+Espero que estigui bé. Estic treballant en un projecte complex i m’agradaria demanar-li consell sobre com puc manejar millor aquesta situació. El seu consell sempre ha estat molt valuós per a mi i m'agradaria escoltar la seva opinió.
+
+Gràcies per la seva ajuda.
+
+Salutacions cordials,
+
+[El teu nom]
+
+12.
+Prompt: Escriu una carta a un col·lega per compartir una eina nova que has après a utilitzar i com podria beneficiar el seu treball.
+
+Output:
+Hola [Nom del col·lega],
+
+Volia compartir amb tu una eina nova que he après a utilitzar recentment. Es diu [nom de l’eina] i m'ha ajudat molt a organitzar les meves tasques i millorar la meva productivitat. Crec que també podria ser útil per al teu treball, especialment en [context o tasca específica].
+
+Si vols, puc mostrar-te com funciona.
+
+Espero la teva resposta!
+
+Una abraçada,
+
+[El teu nom]
+
+13.
+Prompt: Escriu una carta per felicitar una amiga per la publicació del seu primer llibre.
+
+Output:
+Estimadíssima [Nom de l'amiga],
+
+No puc expressar amb paraules com estic d'emocionada per tu! Felicitats per la publicació del teu primer llibre! És un assoliment increïble i estic tan orgullosa de tu. Sé com has treballat de valent per aconseguir-ho, i m’alegro tant de veure el teu somni fet realitat.
+
+Espero amb ganes de llegir-lo i celebrar aquest èxit amb tu.
+
+Una forta abraçada,
+
+[El teu nom]
+
+14.
+Prompt: Escriu una carta a un col·lega per felicitar-lo pel seu recent ascens.
+
+Output:
+Benvolgut/da [Nom del col·lega],
+
+Vull felicitar-te pel teu recent ascens! És un assoliment molt merescut i estic segur/a que continuaràs fent una gran feina en la teva nova posició. Has treballat molt dur per arribar fins aquí, i és fantàstic veure’t aconseguir aquest reconeixement.
+
+Espero que t’agradi aquest nou repte!
+
+Salutacions cordials,
+
+[El teu nom]
+
+15.
+Prompt: Escriu una carta a un supervisor per demanar-li feedback sobre un projecte recent en el qual has treballat.
+
+Output:
+Benvolgut/da [Nom del supervisor],
+
+Espero que estigui bé. M'agradaria demanar-li feedback sobre el projecte recent que he completat. Crec que els seus comentaris podrien ser molt útils per a la meva millora contínua i per assegurar-me que estic alineat/ada amb els objectius de l'equip.
+
+Gràcies per la seva ajuda.
+
+Atentament,
+
+[El teu nom]
+
+16.
+Prompt: Escriu una carta a un client per sol·licitar comentaris sobre el servei ofert i com es podria millorar.
+
+Output:
+Benvolgut/da [Nom del client],
+
+Gràcies per haver utilitzat els nostres serveis. Sempre estem interessats a millorar i m'agradaria demanar-li alguns comentaris sobre la seva recent experiència amb nosaltres. Les seves opinions seran molt valuoses per a nosaltres per oferir un millor servei en el futur.
+
+Gràcies per la seva col·laboració.
+
+Atentament,
+
+[El teu nom]
+
+17.
+Prompt: Escriu una carta al teu supervisor per sol·licitar temps lliure per motius de salut mental.
+
+Output:
+Benvolgut/da [Nom del supervisor],
+
+Em poso en contacte amb vostè per sol·licitar uns dies de temps lliure per cuidar la meva salut mental. Crec que és important que prengui aquest temps per recuperar-me i tornar amb la millor energia possible per al nostre equip.
+
+Gràcies per la seva comprensió.
+
+Atentament,
+
+[El teu nom]
+
+18.
+Prompt: Escriu una carta a un amic per convidar-lo a una sessió de ioga per reduir l'estrès.
+
+Output:
+Hola [Nom de l'amic],
+
+Estic pensant en anar a una sessió de ioga aquest cap de setmana per ajudar a reduir l'estrès i vaig pensar que podria ser divertit si t'unies a mi. Crec que seria una bona manera de relaxar-nos i passar una estona tranquil·la junts.
+
+Què en dius?
+
+Una abraçada,
+
+[El teu nom]
+
+19.
+Prompt: Escriu una carta a un grup d'amics convidant-los a un taller d'art que estàs organitzant.
+
+Output:
+Estimats amics,
+
+Espero que tots estigueu bé! Estic molt emocionat/ada d'anunciar-vos que estic organitzant un taller d'art a casa meva aquest dissabte. Serà una tarda plena de creativitat, riures i bona companyia, i m'encantaria que hi fóssiu.
+
+Si us ve de gust, feu-m'ho saber aviat perquè pugui preparar tot el material necessari.
+
+Una abraçada,
+
+[El teu nom]
+
+20.
+Prompt: Escriu una carta a un amic proposant un projecte col·laboratiu, com un podcast o un blog.
+
+Output:
+Hola [Nom de l'amic],
+
+He estat pensant en un projecte divertit que podríem fer junts: què et sembla si creem un podcast/blog sobre [tema d'interès]? Crec que seria una manera genial de compartir les nostres idees i aprendre junts. M'agradaria molt saber la teva opinió.
+
+Esperant amb ganes la teva resposta!
+
+Una abraçada,
+
+[El teu nom]
+
+21.
+Prompt: Escriu una carta a un company de feina demanant-li consells sobre com gestionar millor el temps a l'oficina.
+
+Output:
+Hola [Nom del company],
+
+He estat intentant millorar la meva gestió del temps a l'oficina i vaig pensar que podries tenir alguns bons consells per a mi. Sempre sembles tan organitzat/ada i eficient! M’agradaria molt aprendre de les teves estratègies.
+
+Gràcies per la teva ajuda.
+
+Salutacions,
+
+[El teu nom]
+
+22.
+Prompt: Escriu una carta per reorganitzar una cita o compromís per motius d'una prioritat inesperada.
+
+Output:
+Benvolgut/da [Nom del destinatari],
+
+Lamento haver d'informar que he de reorganitzar la nostra cita programada per a [data]. Una prioritat inesperada ha sorgit i necessito atendre-la amb urgència.
+
+Si us plau, fes-me saber una nova data i hora que et vagi bé.
+
+Gràcies per la teva comprensió.
+
+Atentament,
+
+[El teu nom]
+
+23.
+Prompt: Escriu una carta a un amic per explicar-li com vas aprendre a cuinar un nou plat.
+
+Output:
+Hola [Nom de l'amic],
+
+Tinc bones notícies! Finalment he après a cuinar [nom del plat] i ha resultat ser més fàcil del que pensava. He seguit una recepta pas a pas i el resultat ha estat deliciós. M'agradaria que vinguessis un dia a provar-ho!
+
+Què en dius d'una petita trobada aquest cap de setmana?
+
+Petons,
+
+[El teu nom]
+
+24.
+Prompt: Escriu una carta a un company de feina per compartir una idea divertida per a una festa d'oficina.
+
+Output:
+Hola [Nom del company de feina],
+
+Se m'ha acudit una idea divertida per a la nostra propera festa d'oficina: què et semblaria fer un concurs de disfresses temàtic? Podríem triar un tema i tots hauríem de venir disfressats en funció d'això. Seria una bona manera de riure i gaudir junts fora de la feina.
+
+Què en penses? M'agradaria escoltar les teves idees!
+
+Salutacions,
+
+[El teu nom]
+
+25.
+Prompt: Escriu una carta a un amic per demanar-li que t'acompanyi a una subhasta d'art.
+
+Output:
+Hola [Nom de l'amic],
+
+Estava pensant en anar a una subhasta d'art aquest dissabte i m'agradaria molt que m'acompanyessis. Crec que seria una experiència fascinant i, qui sap, potser fins i tot trobem alguna peça que ens agradi!
+
+Si t'animes, fes-m'ho saber!
+
+Una abraçada,
+
+[El teu nom]
+
+26.
+Prompt: Escriu una carta a la teva cosina per explicar-li que has començat a aprendre a ballar tango.
+
+Output:
+Hola [Nom de la cosina],
+
+Volia compartir amb tu que he començat a aprendre a ballar tango! És més difícil del que pensava, però m'ho estic passant genial. És una forma tan elegant i apassionada de ballar! Si mai et ve de gust, m'encantaria que vinguis a una de les classes amb mi.
+
+Esperant la teva resposta!
+
+Petons,
+
+[El teu nom]
+
+27.
+Prompt: Escriu una carta a un amic per proposar-li una nit de jocs de taula.
+
+Output:
+Hola [Nom de l'amic],
+
+Feia temps que pensava en organitzar una nit de jocs de taula i crec que seria molt divertit fer-ho aquest cap de setmana. Què en penses? Podríem reunir-nos a casa meva, portar unes quantes begudes i passar una bona estona competint.
+
+Espero que t'animi la idea!
+
+Una abraçada,
+
+[El teu nom]
+
+28.
+Prompt: Escriu una carta a un veí per demanar-li que abaixi el volum de la música.
+
+Output:
+Benvolgut/da [Nom del veí],
+
+Espero que estiguis bé. Volia comentar-te que el volum de la música és bastant alt i està afectant el meu descans. Si us plau, podries abaixar-lo una mica? Ho agrairia molt.
+
+Gràcies per la teva comprensió.
+
+Cordialment,
+
+[El teu nom]
+
+29.
+Prompt: Escriu una carta a un antic professor per agrair-li l'impacte positiu que va tenir en la teva vida.
+
+Output:
+Benvolgut/da professor/a [Nom del professor],
+
+M'adreço a vostè per expressar el meu més sincer agraïment per l'impacte positiu que va tenir en la meva vida durant el meu temps a l'escola. Les seves classes eren sempre inspiradores i em van ensenyar molt més que el currículum.
+
+Gràcies per ser una influència tan positiva i motivadora.
+
+Atentament,
+
+[El teu nom]
+
+30.
+Prompt: Escriu una carta a un amic per suggerir una excursió en bicicleta a la muntanya.
+
+Output:
+Hola [Nom de l'amic],
+
+Estic pensant en fer una excursió en bicicleta a la muntanya aquest cap de setmana i m'agradaria que t'unissis a mi. Serà una gran oportunitat per gaudir de la natura i fer una mica d'exercici.
+
+Què en dius?
+
+Una abraçada,
+
+[El teu nom]
+
+31.
+Prompt: Escriu una carta a un supervisor per informar-lo sobre la finalització d'un projecte.
+
+Output:
+Benvolgut/da [Nom del supervisor],
+
+M'agradaria informar-lo/la que he completat el projecte de [nom del projecte] segons els terminis establerts. Si hi ha alguna cosa més que necessiti revisar o discutir, estaré a la seva disposició.
+
+Gràcies per la seva confiança i suport.
+
+Atentament,
+
+[El teu nom]
+
+32.
+Prompt: Escriu una carta a un amic per explicar-li la teva decisió de començar una nova afició.
+
+Output:
+Hola [Nom de l'amic],
+
+He decidit començar una nova afició i he escollit l'escalada! Sempre he volgut provar-ho i finalment he trobat el coratge per fer-ho. Estic molt emocionat/ada per aquest nou repte.
+
+Espero que puguem anar junts alguna vegada!
+
+Petons,
+
+[El teu nom]
+
+33.
+Prompt: Escriu una carta a la teva germana per donar-li consells sobre com preparar-se per a un examen important.
+
+Output:
+Hola [Nom de la germana],
+
+Sé que tens un examen molt important que s'acosta i volia donar-te alguns consells per preparar-te. Recorda prendre't el teu temps per estudiar, fer pauses regulars i, sobretot, descansar bé la nit abans de l'examen.
+
+Estic segur/a que ho faràs molt bé!
+
+Molta sort!
+
+Petons,
+
+[El teu nom]
+
+34.
+Prompt: Escriu una carta a un amic per convidar-lo a una festa de disfresses a casa teva.
+
+Output:
+Hola [Nom de l'amic],
+
+Estic organitzant una festa de disfresses a casa meva el proper dissabte i m'encantaria que vinguessis. El tema serà "Pel·lícules dels anys 80", així que prepara el teu millor vestit!
+
+Espero veure't allà!
+
+Una abraçada,
+
+[El teu nom]
+
+35.
+Prompt: Escriu una carta a un amic per explicar-li una trobada divertida que vas tenir recentment.
+
+Output:
+Hola [Nom de l'amic],
+
+Tinc una història divertida per explicar-te! Ahir vaig anar a comprar al supermercat i vaig trobar un vell amic de l'escola que no havia vist en anys. Vam acabar recordant tots els bons moments i fins i tot vam anar a prendre un cafè.
+
+Va ser tan inesperat i meravellós. Quines coincidències, oi?
+
+Petons,
+
+[El teu nom]
+
+36.
+Prompt: Escriu una carta a un amic per demanar-li que es cuidi després d'un recent diagnòstic mèdic.
+
+Output:
+Hola [Nom de l'amic],
+
+M'he assabentat del teu recent diagnòstic i volia enviar-te molts ànims. Sé que no és fàcil, però estic segur/a que amb la teva força i coratge superaràs aquest repte. Recorda cuidar-te molt i, si necessites alguna cosa, sempre pots comptar amb mi.
+
+Una forta abraçada,
+
+[El teu nom]
+
+37.
+Prompt: Escriu una carta a un amic per felicitar-lo per haver superat una marató.
+
+Output:
+Hola [Nom de l'amic],
+
+Enhorabona per haver completat la marató! És un assoliment impressionant i estic tan orgullós/osa de tu. Sé quant t'has preparat per a aquest moment i ha pagat la pena.
+
+Espero que puguis descansar i gaudir del teu èxit.
+
+Una abraçada,
+
+[El teu nom]
+
+38.
+Prompt: Escriu una carta a un amic per recomanar-li una pel·lícula que acabes de veure.
+
+Output:
+Hola [Nom de l'amic],
+
+Acabo de veure una pel·lícula que crec que t'encantaria: [Nom de la pel·lícula]. És plena d'acció, emoció i té una història fascinant. T'hauria de portar a veure-la un dia.
+
+Deixa'm saber si t'animes!
+
+Petons,
+
+[El teu nom]
+
+39.
+Prompt: Escriu una carta a la teva mare per agrair-li un regal recent.
+
+Output:
+Hola mare,
+
+Només volia agrair-te el regal que m'has fet. És exactament el que necessitava i em va fer molta il·lusió rebre’l. Sempre saps què necessito, fins i tot abans que jo mateix.
+
+Gràcies per ser tan especial.
+
+T'estimo,
+
+[El teu nom]
+
+40.
+Prompt: Escriu una carta a un veí per agrair-li que hagi cuidat les teves plantes mentre estaves fora.
+
+Output:
+Benvolgut/da [Nom del veí],
+
+Només volia agrair-te per cuidar les meves plantes mentre estava de viatge. Van estar en molt bones mans i es veuen més saludables que mai.
+
+Gràcies de tot cor per la teva ajuda.
+
+Cordialment,
+
+[El teu nom]
+
+41.
+Prompt: Escriu una carta a un amic per explicar-li que has adoptat un gatet.
+
+Output:
+Hola [Nom de l'amic],
+
+Tinc una notícia emocionant per compartir amb tu: he adoptat un gatet! És tan adorable i ja m'ha robat el cor. Crec que serà un gran company i m'encantaria que el coneguessis.
+
+Deixa'm saber quan pots passar per casa!
+
+Petons,
+
+[El teu nom]
+
+42.
+Prompt: Escriu una carta a un amic per convidar-lo a un festival de música local.
+
+Output:
+Hola [Nom de l'amic],
+
+He vist que aquest cap de setmana hi ha un festival de música local i vaig pensar que seria divertit si hi anéssim junts. Serà ple de bona música, menjar i diversió. T'hi apuntes?
+
+Espero la teva resposta!
+
+Una abraçada,
+
+[El teu nom]
+
+43.
+Prompt: Escriu una carta a un professor per agrair-li les seves classes durant l'any acadèmic.
+
+Output:
+Benvolgut/da professor/a [Nom del professor],
+
+Vull agrair-li de tot cor les seves classes durant aquest any acadèmic. Les seves lliçons han estat tan inspiradores i he après molt gràcies a la seva passió per ensenyar.
+
+Moltes gràcies per ser un/a gran professor/a.
+
+Atentament,
+
+[El teu nom]
+
+44.
+Prompt: Escriu una carta a un amic per explicar-li la teva decisió de començar una nova carrera professional.
+
+Output:
+Hola [Nom de l'amic],
+
+Volia compartir amb tu una gran decisió que he pres: he decidit començar una nova carrera professional en [camp o indústria]. Sé que és un gran canvi, però estic molt emocionat/ada pel que ve.
+
+Gràcies pel teu suport continu.
+
+Una abraçada,
+
+[El teu nom]
+
+45.
+Prompt: Escriu una carta a un amic per explicar-li un somni estrany que vas tenir recentment.
+
+Output:
+Hola [Nom de l'amic],
+
+Vaig tenir un somni molt estrany ahir a la nit i vaig pensar que t'agradaria escoltar-lo. Vaig somiar que estàvem navegant en un vaixell fet de xocolata i que érem perseguit per ocells gegants que volien menjar-se el nostre vaixell! Va ser tan surrealista.
+
+Espero que estiguis bé!
+
+Petons,
+
+[El teu nom]
+
+46.
+Prompt: Escriu una carta a un amic per explicar-li que has començat a fer voluntariat en una protectora d'animals.
+
+Output:
+Hola [Nom de l'amic],
+
+He començat a fer voluntariat en una protectora d'animals i estic gaudint molt d'aquesta experiència. És tan gratificant ajudar a aquests animals a trobar una llar. M'encantaria que vinguessis amb mi un dia per veure-ho.
+
+Espero veure't aviat!
+
+Una abraçada,
+
+[El teu nom]
+
+47.
+Prompt: Escriu una carta a un amic per suggerir-li una sortida de cap de setmana a la muntanya.
+
+Output:
+Hola [Nom de l'amic],
+
+Què et sembla si fem una sortida a la muntanya aquest cap de setmana? Podríem fer senderisme, gaudir de la natura i passar una estona relaxada lluny de la ciutat. Crec que seria una gran escapada.
+
+Esperant la teva resposta!
+
+Petons,
+
+[El teu nom]
+
+48.
+Prompt: Escriu una carta a un amic per explicar-li que has començat a aprendre a tocar un instrument musical.
+
+Output:
+Hola [Nom de l'amic],
+
+He començat a aprendre a tocar la guitarra i estic gaudint molt del procés. És un repte, però també molt divertit. M'encantaria tocar alguna cosa per a tu quan ens tornem a veure.
+
+Espero que estiguis bé!
+
+Una abraçada,
+
+[El teu nom]
+
+49.
+Prompt: Escriu una carta a un amic per demanar-li consell sobre com organitzar una festa sorpresa.
+
+Output:
+Hola [Nom de l'amic],
+
+Estic pensant en organitzar una festa sorpresa per a [nom del destinatari de la sorpresa] i m'agradaria demanar-te alguns consells sobre com fer-ho. Sempre has estat molt bo/a organitzant festes, així que qualsevol suggeriment serà benvingut!
+
+Gràcies per la teva ajuda!
+
+Petons,
+
+[El teu nom]
+
+50.
+Prompt: Escriu una carta a un amic per compartir la teva emoció per un nou hobby que has descobert.
+
+Output:
+Hola [Nom de l'amic],
+
+He descobert un nou hobby que m'encanta: la fotografia! He estat sortint cada cap de setmana a fer fotos i m'està encantant descobrir noves perspectives i capturar moments únics. M'agradaria molt sortir un dia amb tu i mostrar-te algunes de les meves imatges.
+
+Espero que estiguis bé!
+
+Una abraçada,
+
+[El teu nom]
+
+Prompt:
