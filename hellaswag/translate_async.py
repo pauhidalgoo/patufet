@@ -7,9 +7,8 @@ import os
 import logging
 load_dotenv()
 
-# Configure the Gemini API
 
-genai.configure(api_key=os.environ['GEMINI_API_KEY'])  # Replace 'YOUR_API_KEY' with your actual Gemini API key
+genai.configure(api_key=os.environ['GEMINI_API_KEY'])
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 logging.basicConfig(filename='./hellaswag/error_log.txt', level=logging.ERROR, encoding="utf-8",

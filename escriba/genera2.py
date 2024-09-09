@@ -1,4 +1,4 @@
-# The goal is to have emails + poems + reports + essays + articles
+# Add different text styles: whatsapp mesages, tweets, linkedin posts..
 
 import os
 import re
