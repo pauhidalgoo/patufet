@@ -1,0 +1,676 @@
+Prompt: Quin és un sinònim de "feliç"?
+Output: Un sinònim de "feliç" és "content".
+
+Prompt: Quins són antònims de "ràpid"?
+Output: Alguns antònims de "ràpid" són "lent" i "pausat".
+
+Prompt: Què vol dir la paraula "amistat"?
+Output: "Amistat" significa la relació afectiva entre dues persones basada en la confiança i el respecte.
+
+Prompt: Què és un sinònim de "intel·ligent"?
+Output: Un sinònim de "intel·ligent" és "llest".
+
+Prompt: Quins són antònims de "gran"?
+Output: Els antònims de "gran" són "petit" i "menut".
+
+Prompt: Quin és el significat de la paraula "curiositat"?
+Output: "Curiositat" és el desig de saber o aprendre més sobre alguna cosa.
+
+Prompt: Què vol dir la paraula "lleial"?
+Output: "Lleial" fa referència a la qualitat d'una persona fidel i honesta amb els altres.
+
+Prompt: Quins són sinònims de "senzill"?
+Output: Sinònims de "senzill" són "simple" i "fàcil".
+
+Prompt: Quins són antònims de "fosc"?
+Output: Antònims de "fosc" són "clar" i "lluminos".
+
+Prompt: Què vol dir la paraula "audàcia"?
+Output: "Audàcia" significa valentia i disposició a enfrontar-se a situacions difícils.
+
+Prompt: Què és un sinònim de "car"?
+Output: Un sinònim de "car" és "costós".
+
+Prompt: Quins són antònims de "difícil"?
+Output: Antònims de "difícil" són "fàcil" i "senzill".
+
+Prompt: Quin és el significat de la paraula "benevolència"?
+Output: "Benevolència" és la inclinació a fer el bé o ajudar els altres.
+
+Prompt: Què vol dir la paraula "esperança"?
+Output: "Esperança" fa referència a la confiança en què una cosa bona passarà en el futur.
+
+Prompt: Quins són sinònims de "ràpid"?
+Output: Sinònims de "ràpid" són "veloc" i "àgil".
+
+Prompt: Què vol dir la paraula "honradesa"?
+Output: "Honradesa" és la qualitat de ser honest i just.
+
+Prompt: Quins són antònims de "content"?
+Output: Antònims de "content" són "trist" i "decebut".
+
+Prompt: Què és un sinònim de "valent"?
+Output: Un sinònim de "valent" és "coratjós".
+
+Prompt: Què vol dir la paraula "saviesa"?
+Output: "Saviesa" és el coneixement profund i equilibrat que permet prendre bones decisions.
+
+Prompt: Quins són sinònims de "fort"?
+Output: Sinònims de "fort" són "robust" i "resistent".
+
+Prompt: Què significa la paraula "generositat"?
+Output: "Generositat" és la disposició a compartir amb els altres sense esperar res a canvi.
+
+Prompt: Quins són antònims de "tranquil"?
+Output: Antònims de "tranquil" són "nerviós" i "inquiet".
+
+Prompt: Què vol dir la paraula "confiança"?
+Output: "Confiança" és la creença que una persona o situació és fiable i segura.
+
+Prompt: Quins són sinònims de "satisfet"?
+Output: Sinònims de "satisfet" són "content" i "plegut".
+
+Prompt: Què significa "frustració"?
+Output: "Frustració" és el sentiment de decepció que es produeix quan no s'aconsegueix un objectiu.
+
+Prompt: Quins són antònims de "alt"?
+Output: Antònims de "alt" són "baix" i "menut".
+
+Prompt: Quin és el significat de la paraula "aventura"?
+Output: "Aventura" és una experiència emocionant o arriscada.
+
+Prompt: Què vol dir "malenconia"?
+Output: "Malenconia" és un sentiment de tristesa suau i nostàlgica.
+
+Prompt: Quins són sinònims de "gelós"?
+Output: Sinònims de "gelós" són "envejós" i "rancorós".
+
+Prompt: Què significa "generar"?
+Output: "Generar" significa produir o crear alguna cosa.
+
+Prompt: Quins són antònims de "llum"?
+Output: Antònims de "llum" són "foscor" i "ombra".
+
+Prompt: Quin és un sinònim de "pensar"?
+Output: Un sinònim de "pensar" és "reflexionar".
+
+Prompt: Què vol dir "integritat"?
+Output: "Integritat" fa referència a la qualitat de ser complet i coherent amb valors ètics.
+
+Prompt: Quins són antònims de "fred"?
+Output: Antònims de "fred" són "calor" i "tèbia".
+
+Prompt: Què és un sinònim de "clar"?
+Output: Un sinònim de "clar" és "nítid".
+
+Prompt: Quin és el significat de la paraula "superació"?
+Output: "Superació" és l'acció de vèncer dificultats o millorar una situació.
+
+Prompt: Què significa "apassionar-se"?
+Output: "Apassionar-se" és sentir un gran entusiasme o emoció per alguna cosa.
+
+Prompt: Quins són antònims de "tímid"?
+Output: Antònims de "tímid" són "extrovertit" i "segur".
+
+Prompt: Quin és el significat de "agilitat"?
+Output: "Agilitat" és la capacitat de moure's ràpidament i amb habilitat.
+
+Prompt: Què vol dir "ressentiment"?
+Output: "Ressentiment" és el sentiment negatiu cap a algú per haver estat tractat injustament.
+
+Prompt: Quins són sinònims de "encantador"?
+Output: Sinònims de "encantador" són "atractiu" i "fascinant".
+
+Prompt: Quin és el significat de "pertinència"?
+Output: "Pertinència" és la qualitat de ser adequat o rellevant en un context.
+
+Prompt: Què significa "dedicació"?
+Output: "Dedicació" és el compromís i esforç envers una tasca o persona.
+
+Prompt: Quins són antònims de "humil"?
+Output: Antònims de "humil" són "arrogant" i "orgullós".
+
+Prompt: Què és un sinònim de "objectiu"?
+Output: Un sinònim de "objectiu" és "finalitat".
+
+Prompt: Què vol dir "incertesa"?
+Output: "Incertesa" és la manca de seguretat sobre el que pot passar en el futur.
+
+Prompt: Quins són sinònims de "desgast"?
+Output: Sinònims de "desgast" són "erosió" i "deteriorament".
+
+Prompt: Quin és el significat de "perseverança"?
+Output: "Perseverança" és la capacitat de mantenir-se constant en un objectiu malgrat les dificultats.
+
+Prompt: Què significa "autenticitat"?
+Output: "Autenticitat" és la qualitat de ser genuí o veritable.
+
+Prompt: Quins són antònims de "brillant"?
+Output: Antònims de "brillant" són "apagat" i "mat".
+
+Prompt: Què vol dir "recuperació"?
+Output: "Recuperació" és l'acció de tornar a l'estat original després d'una pèrdua o dany.
+
+Prompt: Quins són antònims de "fiable"?
+Output: Antònims de "fiable" són "insegur" i "dubtós".
+
+Prompt: Què significa "benestar"?
+Output: "Benestar" fa referència a l'estat de satisfacció i salut física i mental.
+
+Prompt: Quin és un sinònim de "equilibri"?
+Output: Un sinònim de "equilibri" és "estabilitat".
+
+Prompt: Quins són antònims de "obert"?
+Output: Antònims de "obert" són "tancat" i "reclòs".
+
+Prompt: Què vol dir "empatia"?
+Output: "Empatia" és la capacitat de comprendre i compartir els sentiments dels altres.
+
+Prompt: Quins són sinònims de "útil"?
+Output: Sinònims de "útil" són "pràctic" i "eficaç".
+
+Prompt: Què significa "cansament"?
+Output: "Cansament" és la fatiga o esgotament físic o mental després d'un esforç.
+
+Prompt: Quin és el significat de la paraula "inspiració"?
+Output: "Inspiració" és l'estímul que porta a la creativitat o a noves idees.
+
+Prompt: Què vol dir "fraternitat"?
+Output: "Fraternitat" és la relació de germanor o solidaritat entre persones.
+
+Prompt: Quins són sinònims de "paciència"?
+Output: Sinònims de "paciència" són "tolerància" i "resistència".
+
+Prompt: Quin és un sinònim de "difusió"?
+Output: Un sinònim de "difusió" és "propagació".
+
+Prompt: Quins són antònims de "feble"?
+Output: Antònims de "feble" són "fort" i "robust".
+
+Prompt: Què significa "sinceritat"?
+Output: "Sinceritat" és la qualitat de dir la veritat i expressar els sentiments genuïnament.
+
+Prompt: Què vol dir "desig"?
+Output: "Desig" és la forta voluntat de tenir o aconseguir alguna cosa.
+
+Prompt: Quins són sinònims de "perfecte"?
+Output: Sinònims de "perfecte" són "impecable" i "complet".
+
+Prompt: Quins són antònims de "modern"?
+Output: Antònims de "modern" són "antic" i "tradicional".
+
+Prompt: Què significa "ànim"?
+Output: "Ànim" és l'energia i motivació per fer una cosa.
+
+Prompt: Què vol dir "afinitat"?
+Output: "Afinitat" és la similitud o compatibilitat entre persones o coses.
+
+Prompt: Quins són antònims de "pobre"?
+Output: Antònims de "pobre" són "ric" i "adinerat".
+
+Prompt: Quin és un sinònim de "meticulós"?
+Output: Un sinònim de "meticulós" és "curos".
+
+Prompt: Què vol dir "prosperitat"?
+Output: "Prosperitat" és un estat de riquesa, èxit o benestar.
+
+Prompt: Quins són sinònims de "simpàtic"?
+Output: Sinònims de "simpàtic" són "agradable" i "amable".
+
+Prompt: Què significa "rendiment"?
+Output: "Rendiment" fa referència a la quantitat o eficàcia d'un treball o esforç.
+
+Prompt: Què vol dir "serenitat"?
+Output: "Serenitat" és la calma i tranquil·litat davant situacions difícils.
+
+Prompt: Quins són antònims de "pessimista"?
+Output: Antònims de "pessimista" són "optimista" i "esperançat".
+
+Prompt: Què significa "originalitat"?
+Output: "Originalitat" és la qualitat de ser nou, innovador o diferent del comú.
+
+Prompt: Quins són sinònims de "valentia"?
+Output: Sinònims de "valentia" són "coratge" i "audàcia".
+
+Prompt: Quin és el significat de "coherència"?
+Output: "Coherència" és la qualitat de mantenir una lògica interna i consistència en les accions o pensaments.
+
+Prompt: Què vol dir "espontaneïtat"?
+Output: "Espontaneïtat" és la capacitat d'actuar de manera natural i sense premeditació.
+
+Prompt: Quins són sinònims de "alegria"?
+Output: Sinònims de "alegria" són "felicitat" i "goig".
+
+Prompt: Quin és el significat de "saviesa"?
+Output: "Saviesa" és el coneixement profund i equilibrat sobre la vida i les seves complexitats.
+
+Prompt: Què significa "honestedat"?
+Output: "Honestedat" és la qualitat de ser sincer i no enganyar.
+
+Prompt: Quins són antònims de "content"?
+Output: Antònims de "content" són "trist" i "desil·lusionat".
+
+Prompt: Què significa "ètica"?
+Output: "Ètica" és el conjunt de principis morals que guien la conducta humana.
+
+Prompt: Quin és un sinònim de "solidaritat"?
+Output: Un sinònim de "solidaritat" és "companyonia".
+
+Prompt: Què significa "perfeccionisme"?
+Output: "Perfeccionisme" és la tendència a buscar la perfecció en tot el que es fa.
+
+Prompt: Quins són sinònims de "esperançat"?
+Output: Sinònims de "esperançat" són "optimista" i "confiat".
+
+Prompt: Què vol dir "justícia"?
+Output: "Justícia" és la qualitat d'actuar de manera equitativa, respectant els drets de tots.
+
+Prompt: Quins són antònims de "injust"?
+Output: Antònims de "injust" són "just" i "equitatiu".
+
+Prompt: Què significa "serietat"?
+Output: "Serietat" és la qualitat de ser formal i responsable en el comportament.
+
+Prompt: Quin és el significat de "responsabilitat"?
+Output: "Responsabilitat" és el deure d'assumir les conseqüències dels propis actes.
+
+Prompt: Quins són sinònims de "ràpid"?
+Output: Sinònims de "ràpid" són "veloc" i "àgil".
+
+Prompt: Què significa "honor"?
+Output: "Honor" és el respecte i admiració que es guanya per la integritat i el comportament exemplar.
+
+Prompt: Què vol dir "dedicació"?
+Output: "Dedicació" és el compromís constant en una tasca o projecte.
+
+Prompt: Quins són antònims de "seriós"?
+Output: Antònims de "seriós" són "juganer" i "informal".
+
+Prompt: Què significa "creativitat"?
+Output: "Creativitat" és la capacitat de generar idees noves i originals.
+
+Prompt: Quin és un sinònim de "felicitat"?
+Output: Un sinònim de "felicitat" és "goig".
+
+Prompt: Quins són sinònims de "frustració"?
+Output: Sinònims de "frustració" són "decepció" i "desengany".
+
+Prompt: Què significa "llibertat"?
+Output: "Llibertat" és la capacitat de prendre decisions i actuar sense restriccions injustes.
+
+Prompt: Quins són antònims de "amic"?
+Output: Antònims de "amic" són "enemic" i "rival".
+
+Prompt: Què significa "prudència"?
+Output: "Prudència" és la qualitat de ser cautelós i evitar riscos innecessaris.
+
+Prompt: Quins són sinònims de "aventura"?
+Output: Sinònims de "aventura" són "peripècia" i "experiència".
+
+Prompt: Quin és el significat de "precaució"?
+Output: "Precaució" és l'actitud de prendre mesures per evitar possibles perills.
+
+Prompt: Què vol dir "iniciativa"?
+Output: "Iniciativa" és la capacitat d'actuar per pròpia voluntat i començar noves accions.
+
+Prompt: Quins són antònims de "lleuger"?
+Output: Antònims de "lleuger" són "pesant" i "gruixut".
+
+Prompt: Quin és un sinònim de "encoratjar"?
+Output: Un sinònim de "encoratjar" és "animar".
+
+Prompt: Què significa "disciplina"?
+Output: "Disciplina" és la capacitat de mantenir l'ordre i el control sobre un mateix.
+
+Prompt: Quins són sinònims de "constància"?
+Output: Sinònims de "constància" són "perseverança" i "determinació".
+
+Prompt: Què vol dir "resiliència"?
+Output: "Resiliència" és la capacitat de superar situacions adverses i recuperar-se.
+
+Prompt: Quins són antònims de "clar"?
+Output: Antònims de "clar" són "fosc" i "tèrbol".
+
+Prompt: Què significa "compromís"?
+Output: "Compromís" és l'acord mutu entre dues parts per aconseguir un objectiu comú.
+
+Prompt: Quin és el significat de "determinació"?
+Output: "Determinació" és la fermesa en la presa de decisions i accions per assolir un objectiu.
+
+Prompt: Què vol dir "desafiament"?
+Output: "Desafiament" és una situació difícil que posa a prova les capacitats d'algú.
+
+Prompt: Quins són antònims de "lent"?
+Output: Antònims de "lent" són "ràpid" i "àgil".
+
+Prompt: Quin és un sinònim de "satisfacció"?
+Output: Un sinònim de "satisfacció" és "gratificació".
+
+Prompt: Què significa "tristesa"?
+Output: "Tristesa" és un sentiment de pena o dolor emocional.
+
+Prompt: Quins són sinònims de "complicat"?
+Output: Sinònims de "complicat" són "difícil" i "complex".
+
+Prompt: Què vol dir "col·laboració"?
+Output: "Col·laboració" és el treball conjunt entre diverses persones per assolir un objectiu comú.
+
+Prompt: Quins són antònims de "simpàtic"?
+Output: Antònims de "simpàtic" són "antipàtic" i "groller".
+
+Prompt: Què significa "eficàcia"?
+Output: "Eficàcia" és la capacitat de produir el resultat desitjat amb els recursos disponibles.
+
+Prompt: Quins són sinònims de "benestar"?
+Output: Sinònims de "benestar" són "confort" i "salut".
+
+Prompt: Què vol dir "ambició"?
+Output: "Ambició" és el desig intens d'aconseguir èxit, poder o riquesa.
+
+Prompt: Quins són antònims de "resolutiu"?
+Output: Antònims de "resolutiu" són "indecís" i "dubtós".
+
+Prompt: Quin és un sinònim de "alegria"?
+Output: Un sinònim de "alegria" és "joia".
+
+Prompt: Què significa "percepció"?
+Output: "Percepció" és la manera en què una persona entén o interpreta alguna cosa a través dels sentits.
+
+Prompt: Què vol dir "tolerància"?
+Output: "Tolerància" és la capacitat de respectar les opinions, creences o comportaments dels altres, encara que siguin diferents dels propis.
+
+Prompt: Quins són sinònims de "fidelitat"?
+Output: Sinònims de "fidelitat" són "lleialtat" i "constància".
+
+Prompt: Quin és el significat de "compassió"?
+Output: "Compassió" és el sentiment de pena o solidaritat envers algú que pateix.
+
+Prompt: Quins són antònims de "lleial"?
+Output: Antònims de "lleial" són "traïdor" i "deslleial".
+
+Prompt: Què significa "eficiència"?
+Output: "Eficiència" és la capacitat de fer una cosa amb el mínim de recursos i temps possibles, però amb un resultat òptim.
+
+Prompt: Quin és un sinònim de "precisió"?
+Output: Un sinònim de "precisió" és "exactitud".
+
+Prompt: Què vol dir "senzillesa"?
+Output: "Senzillesa" és la qualitat de ser simple, sense complicacions o ornamentació excessiva.
+
+Prompt: Quins són antònims de "riure"?
+Output: Antònims de "riure" són "plorar" i "lamentar-se".
+
+Prompt: Quin és un sinònim de "coratge"?
+Output: Un sinònim de "coratge" és "valentia".
+
+Prompt: Què significa "compromís social"?
+Output: "Compromís social" és l'actitud de responsabilitat envers les necessitats i problemes de la societat.
+
+Prompt: Què vol dir "optimisme"?
+Output: "Optimisme" és la tendència a veure el costat positiu de les coses i esperar resultats favorables.
+
+Prompt: Quins són antònims de "negre"?
+Output: Antònims de "negre" són "blanc" i "clar".
+
+Prompt: Què significa "reflexió"?
+Output: "Reflexió" és l'acte de pensar profundament sobre un tema o situació.
+
+Prompt: Quin és un sinònim de "generar"?
+Output: Un sinònim de "generar" és "produir".
+
+Prompt: Què vol dir "exigència"?
+Output: "Exigència" és el grau d'exigència o dificultat que es posa a una tasca o situació.
+
+Prompt: Quins són antònims de "secundari"?
+Output: Antònims de "secundari" són "principal" i "primari".
+
+Prompt: Què significa "pertinença"?
+Output: "Pertinença" és el fet de formar part d'un grup o organització.
+
+Prompt: Quin és un sinònim de "emprenedor"?
+Output: Un sinònim de "emprenedor" és "iniciador".
+
+Prompt: Què vol dir "evolució"?
+Output: "Evolució" és el procés de canvi o desenvolupament gradual d'alguna cosa.
+
+Prompt: Quins són sinònims de "definició"?
+Output: Sinònims de "definició" són "explicació" i "descripció".
+
+Prompt: Què significa "autonomia"?
+Output: "Autonomia" és la capacitat de prendre decisions i actuar de manera independent.
+
+Prompt: Quin és el significat de "confidència"?
+Output: "Confidència" és la revelació d'informació privada o personal a algú de confiança.
+
+Prompt: Quins són antònims de "exitós"?
+Output: Antònims de "exitós" són "fracassat" i "desafortunat".
+
+Prompt: Què vol dir "qualitat"?
+Output: "Qualitat" és el conjunt de característiques que fan que alguna cosa sigui valuosa o apreciada.
+
+Prompt: Què significa "cooperació"?
+Output: "Cooperació" és l'acció de treballar conjuntament amb altres per aconseguir un objectiu comú.
+
+Prompt: Quin és un sinònim de "observador"?
+Output: Un sinònim de "observador" és "vigilant".
+
+Prompt: Quins són antònims de "independent"?
+Output: Antònims de "independent" són "dependent" i "subordinat".
+
+Prompt: Què significa "lideratge"?
+Output: "Lideratge" és la capacitat de guiar, influir i dirigir un grup de persones cap a un objectiu comú.
+
+Prompt: Què vol dir "aclariment"?
+Output: "Aclariment" és l'acte de fer una cosa més clara o comprensible.
+
+Prompt: Quins són sinònims de "perseverar"?
+Output: Sinònims de "perseverar" són "persistir" i "continuar".
+
+Prompt: Què significa "desconfiança"?
+Output: "Desconfiança" és la manca de confiança en algú o en alguna cosa.
+
+Prompt: Quin és un sinònim de "ideal"?
+Output: Un sinònim de "ideal" és "perfecte".
+
+Prompt: Què vol dir "il·lusió"?
+Output: "Il·lusió" és l'esperança o desig fervent de que passi alguna cosa desitjada.
+
+Prompt: Quins són antònims de "immediat"?
+Output: Antònims de "immediat" són "retardat" i "posterior".
+
+Prompt: Què significa "col·laboratiu"?
+Output: "Col·laboratiu" fa referència a la forma de treballar en conjunt amb altres.
+
+Prompt: Quin és el significat de "defensor"?
+Output: "Defensor" és una persona que protegeix o dóna suport a una causa o algú.
+
+Prompt: Què vol dir "eina"?
+Output: "Eina" és un instrument o objecte utilitzat per realitzar una tasca específica.
+
+Prompt: Quins són sinònims de "fi"?
+Output: Sinònims de "fi" són "conclusió" i "termini".
+
+Prompt: Què significa "potencial"?
+Output: "Potencial" és la capacitat latent que es pot desenvolupar en el futur.
+
+Prompt: Quin és un sinònim de "anàlisi"?
+Output: Un sinònim de "anàlisi" és "examen".
+
+Prompt: Què vol dir "preparació"?
+Output: "Preparació" és el procés de posar-se a punt per a alguna cosa.
+
+Prompt: Quins són antònims de "benigne"?
+Output: Antònims de "benigne" són "maligne" i "perillós".
+
+Prompt: Què significa "equitat"?
+Output: "Equitat" és el principi d'imparcialitat i justícia en el tractament de les persones.
+
+Prompt: Quin és el significat de "anticipació"?
+Output: "Anticipació" és l'acte de preveure o avançar-se a alguna cosa.
+
+Prompt: Què vol dir "competència"?
+Output: "Competència" és la capacitat o habilitat per fer una tasca de manera eficient.
+
+Prompt: Quins són sinònims de "valor"?
+Output: Sinònims de "valor" són "coratge" i "audàcia".
+
+Prompt: Què significa "oposició"?
+Output: "Oposició" és l'acte de resistir-se o estar en desacord amb alguna cosa.
+
+Prompt: Quin és un sinònim de "esforç"?
+Output: Un sinònim de "esforç" és "treball".
+
+Prompt: Què vol dir "progrés"?
+Output: "Progrés" és l'avenç o millora en una determinada situació o activitat.
+
+Prompt: Què significa "integritat"?
+Output: "Integritat" és la qualitat de ser honest i de mantenir-se fidel als valors ètics.
+
+Prompt: Quins són antònims de "ampli"?
+Output: Antònims de "ampli" són "estrete" i "limitad".
+
+Prompt: Què vol dir "inclusió"?
+Output: "Inclusió" és l'acte de fer que algú formi part d'un grup o activitat, sense excloure ningú.
+
+Prompt: Quins són sinònims de "efectiu"?
+Output: Sinònims de "efectiu" són "eficaç" i "útil".
+
+Prompt: Què significa "flexibilitat"?
+Output: "Flexibilitat" és la capacitat d'adaptar-se a diferents situacions o circumstàncies.
+
+Prompt: Quin és un sinònim de "constància"?
+Output: Un sinònim de "constància" és "perseverança".
+
+Prompt: Què vol dir "innovació"?
+Output: "Innovació" és la introducció de noves idees, mètodes o productes per millorar una situació.
+
+Prompt: Quins són antònims de "discret"?
+Output: Antònims de "discret" són "cridaner" i "vistós".
+
+Prompt: Quin és el significat de "intensitat"?
+Output: "Intensitat" és el grau d'energia o força amb què es manifesta una cosa.
+
+Prompt: Què significa "dedicació"?
+Output: "Dedicació" és el compromís constant en una tasca o projecte.
+
+Prompt: Quins són sinònims de "rendiment"?
+Output: Sinònims de "rendiment" són "productivitat" i "eficiència".
+
+Prompt: Què vol dir "persistència"?
+Output: "Persistència" és la qualitat de mantenir-se constant en una activitat o objectiu, malgrat les dificultats.
+
+Prompt: Quin és un sinònim de "productiu"?
+Output: Un sinònim de "productiu" és "eficient".
+
+Prompt: Què significa "planificació"?
+Output: "Planificació" és el procés d'organitzar i preparar les accions necessàries per assolir un objectiu.
+
+Prompt: Quins són antònims de "important"?
+Output: Antònims de "important" són "insignificant" i "irrellevant".
+
+Prompt: Què vol dir "expectativa"?
+Output: "Expectativa" és l'esperança o previsió de que passi alguna cosa en el futur.
+
+Prompt: Quins són sinònims de "deure"?
+Output: Sinònims de "deure" són "obligació" i "responsabilitat".
+
+Prompt: Què significa "consciència"?
+Output: "Consciència" és el coneixement que una persona té sobre els seus actes i la seva realitat.
+
+Prompt: Quins són antònims de "fidel"?
+Output: Antònims de "fidel" són "infidel" i "traïdor".
+
+Prompt: Què vol dir "sobirania"?
+Output: "Sobirania" és el poder suprem d'un estat o persona per prendre decisions independents.
+
+Prompt: Quin és el significat de "cohesió"?
+Output: "Cohesió" és la unió o connexió entre parts d'un grup o estructura.
+
+Prompt: Què significa "estratègia"?
+Output: "Estratègia" és el pla o conjunt d'accions dissenyades per assolir un objectiu específic.
+
+Prompt: Quins són sinònims de "tolerància"?
+Output: Sinònims de "tolerància" són "acceptació" i "comprensió".
+
+Prompt: Què vol dir "abundància"?
+Output: "Abundància" és la presència de gran quantitat d'alguna cosa.
+
+Prompt: Quins són antònims de "pacient"?
+Output: Antònims de "pacient" són "impacient" i "nerviós".
+
+Prompt: Què significa "justícia social"?
+Output: "Justícia social" és el principi que busca la igualtat d'oportunitats i drets per a totes les persones en una societat.
+
+Prompt: Quin és un sinònim de "comprensió"?
+Output: Un sinònim de "comprensió" és "entendre".
+
+Prompt: Què vol dir "competitivitat"?
+Output: "Competitivitat" és la capacitat d'algú per competir amb altres i assolir millors resultats.
+
+Prompt: Quins són antònims de "superficial"?
+Output: Antònims de "superficial" són "profund" i "detallat".
+
+Prompt: Quin és el significat de "humilitat"?
+Output: "Humilitat" és la qualitat de ser modest i reconèixer les pròpies limitacions.
+
+Prompt: Què significa "adaptació"?
+Output: "Adaptació" és la capacitat d'ajustar-se a noves condicions o situacions.
+
+Prompt: Quins són sinònims de "concentració"?
+Output: Sinònims de "concentració" són "atenció" i "focalització".
+
+Prompt: Què vol dir "determinar"?
+Output: "Determinar" és prendre una decisió ferma o fixar un límit a alguna cosa.
+
+Prompt: Quins són antònims de "fàcil"?
+Output: Antònims de "fàcil" són "difícil" i "complicat".
+
+Prompt: Què significa "autocontrol"?
+Output: "Autocontrol" és la capacitat de controlar les pròpies emocions i comportaments.
+
+Prompt: Quin és un sinònim de "decisió"?
+Output: Un sinònim de "decisió" és "resolució".
+
+Prompt: Què vol dir "conveniència"?
+Output: "Conveniència" és la qualitat d'una cosa que és favorable o pràctica en una situació.
+
+Prompt: Quins són antònims de "abstracte"?
+Output: Antònims de "abstracte" són "concret" i "real".
+
+Prompt: Què significa "profunditat"?
+Output: "Profunditat" és la distància cap avall o cap a l'interior, o la intensitat d'una idea o pensament.
+
+Prompt: Quin és el significat de "preparació"?
+Output: "Preparació" és el procés de posar-se a punt per a una tasca o esdeveniment.
+
+Prompt: Quins són sinònims de "reconeixement"?
+Output: Sinònims de "reconeixement" són "admiració" i "apreciació".
+
+Prompt: Què significa "seguretat"?
+Output: "Seguretat" és l'estat de sentir-se lliure de perill o risc.
+
+Prompt: Què vol dir "perfecció"?
+Output: "Perfecció" és l'estat de ser completament lliure d'errors o defectes.
+
+Prompt: Quin és un sinònim de "dèbil"?
+Output: Un sinònim de "dèbil" és "feble".
+
+Prompt: Què significa "harmonia"?
+Output: "Harmonia" és la combinació equilibrada i agradable de diferents elements o parts.
+
+Prompt: Què vol dir "voluntat"?
+Output: "Voluntat" és la capacitat de decidir i actuar amb fermesa per aconseguir un objectiu.
+
+Prompt: Quins són antònims de "dur"?
+Output: Antònims de "dur" són "tou" i "feble".
+
+Prompt: Què significa "distinció"?
+Output: "Distinció" és el reconeixement d'una qualitat especial o destacada en algú o alguna cosa.
+
+Prompt: Quin és el significat de "transparència"?
+Output: "Transparència" és la qualitat de ser clar i obert en la comunicació i accions, sense ocultar informació.
+
+Prompt: Quins són sinònims de "reputació"?
+Output: Sinònims de "reputació" són "prestigi" i "fama".
+
+Prompt:
